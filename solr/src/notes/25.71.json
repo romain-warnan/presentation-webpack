@@ -1,0 +1,8 @@
+{
+  "code" : "25.71",
+  "libelle" : "Fabrication de coutellerie",
+  "niveau" : "classe",
+  "enfants" : [ "25.71Z" ],
+  "parents" : [ "C", "25", "25.7" ],
+  "noteGenerale" : null
+}

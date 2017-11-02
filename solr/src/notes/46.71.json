@@ -1,0 +1,8 @@
+{
+  "code" : "46.71",
+  "libelle" : "Commerce de gros de combustibles et de produits annexes",
+  "niveau" : "classe",
+  "enfants" : [ "46.71Z" ],
+  "parents" : [ "G", "46", "46.7" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "42.99",
+  "libelle" : "Construction d'autres ouvrages de génie civil n.c.a.",
+  "niveau" : "classe",
+  "enfants" : [ "42.99Z" ],
+  "parents" : [ "F", "42", "42.9" ],
+  "noteGenerale" : null
+}

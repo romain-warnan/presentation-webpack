@@ -1,0 +1,7 @@
+{
+  "code" : "46.12B",
+  "libelle" : "Autres intermédiaires du commerce en combustibles, métaux, minéraux et produits chimiques",
+  "niveau" : "sousClasse",
+  "parents" : [ "G", "46", "46.1", "46.12" ],
+  "noteGenerale" : null
+}

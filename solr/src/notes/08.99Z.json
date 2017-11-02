@@ -1,0 +1,8 @@
+{
+  "code" : "08.99Z",
+  "libelle" : "Autres activités extractives n.c.a.",
+  "niveau" : "sousClasse",
+  "parents" : [ "B", "08", "08.9", "08.99" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>l'extraction de minéraux et de matériaux divers :</p>\n                <ul class=\"list1\">\n                    <li>\n                        <p>matières abrasives, amiante, farines siliceuses fossiles, graphite naturel, stéatite (talc), feldspath, etc.</p>\n                    </li>\n                    <li>\n                        <p>asphaltes naturels, asphaltites et roches asphaltiques, bitumes solides naturels</p>\n                    </li>\n                    <li>\n                        <p>pierres gemmes, quartz, mica, etc.</p>\n                    </li>\n                </ul>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null
+}

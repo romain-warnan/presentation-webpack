@@ -1,0 +1,8 @@
+{
+  "code" : "10.83",
+  "libelle" : "Transformation du thé et du café",
+  "niveau" : "classe",
+  "enfants" : [ "10.83Z" ],
+  "parents" : [ "C", "10", "10.8" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "33.20",
+  "libelle" : "Installation de machines et d'équipements industriels",
+  "niveau" : "classe",
+  "enfants" : [ "33.20D", "33.20C", "33.20B", "33.20A" ],
+  "parents" : [ "C", "33", "33.2" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette classe comprend l'installation spécialisée de machines et d'équipements industriels. Néanmoins, les activités d'installation d'équipements faisant partie intégrante de bâtiments ou de structures similaires, c'est à dire qui sont nécessaires au bon fonctionnement de l'ouvrage lui-même, telles que l'installation de câblages électriques, d'escaliers mécaniques, d'ascenseurs ou de systèmes de chauffage et de conditionnement d'air, sont classées dans la construction.</p>\n    </div:div>\n"
+}

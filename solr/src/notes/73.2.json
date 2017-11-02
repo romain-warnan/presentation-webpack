@@ -1,0 +1,8 @@
+{
+  "code" : "73.2",
+  "libelle" : "Études de marché et sondages",
+  "niveau" : "groupe",
+  "enfants" : [ "73.20" ],
+  "parents" : [ "M", "73" ],
+  "noteGenerale" : null
+}

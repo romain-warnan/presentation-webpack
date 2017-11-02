@@ -1,0 +1,8 @@
+{
+  "code" : "25.29",
+  "libelle" : "Fabrication d'autres réservoirs, citernes et conteneurs métalliques",
+  "niveau" : "classe",
+  "enfants" : [ "25.29Z" ],
+  "parents" : [ "C", "25", "25.2" ],
+  "noteGenerale" : null
+}

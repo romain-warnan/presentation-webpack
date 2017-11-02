@@ -1,0 +1,8 @@
+{
+  "code" : "59.12",
+  "libelle" : "Post-production de films cinématographiques, de vidéo et de programmes de télévision",
+  "niveau" : "classe",
+  "enfants" : [ "59.12Z" ],
+  "parents" : [ "J", "59", "59.1" ],
+  "noteGenerale" : null
+}

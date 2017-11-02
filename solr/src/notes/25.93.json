@@ -1,0 +1,8 @@
+{
+  "code" : "25.93",
+  "libelle" : "Fabrication d'articles en fils métalliques, de chaînes et de ressorts",
+  "niveau" : "classe",
+  "enfants" : [ "25.93Z" ],
+  "parents" : [ "C", "25", "25.9" ],
+  "noteGenerale" : null
+}

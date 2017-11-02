@@ -1,0 +1,8 @@
+{
+  "code" : "94.99",
+  "libelle" : "Activités des organisations associatives n.c.a.",
+  "niveau" : "classe",
+  "enfants" : [ "94.99Z" ],
+  "parents" : [ "S", "94", "94.9" ],
+  "noteGenerale" : null
+}

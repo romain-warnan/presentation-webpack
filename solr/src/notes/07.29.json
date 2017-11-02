@@ -1,0 +1,8 @@
+{
+  "code" : "07.29",
+  "libelle" : "Extraction d'autres minerais de métaux non ferreux",
+  "niveau" : "classe",
+  "enfants" : [ "07.29Z" ],
+  "parents" : [ "B", "07", "07.2" ],
+  "noteGenerale" : null
+}

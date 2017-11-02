@@ -1,0 +1,8 @@
+{
+  "code" : "28.49",
+  "libelle" : "Fabrication d'autres machines-outils",
+  "niveau" : "classe",
+  "enfants" : [ "28.49Z" ],
+  "parents" : [ "C", "28", "28.4" ],
+  "noteGenerale" : null
+}

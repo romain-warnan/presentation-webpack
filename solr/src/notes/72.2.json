@@ -1,0 +1,8 @@
+{
+  "code" : "72.2",
+  "libelle" : "Recherche-développement en sciences humaines et sociales",
+  "niveau" : "groupe",
+  "enfants" : [ "72.20" ],
+  "parents" : [ "M", "72" ],
+  "noteGenerale" : null
+}

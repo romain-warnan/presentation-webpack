@@ -1,0 +1,8 @@
+{
+  "code" : "35.23",
+  "libelle" : "Commerce de combustibles gazeux par conduites",
+  "niveau" : "classe",
+  "enfants" : [ "35.23Z" ],
+  "parents" : [ "D", "35", "35.2" ],
+  "noteGenerale" : null
+}

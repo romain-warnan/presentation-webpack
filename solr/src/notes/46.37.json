@@ -1,0 +1,8 @@
+{
+  "code" : "46.37",
+  "libelle" : "Commerce de gros de café, thé, cacao et épices",
+  "niveau" : "classe",
+  "enfants" : [ "46.37Z" ],
+  "parents" : [ "G", "46", "46.3" ],
+  "noteGenerale" : null
+}

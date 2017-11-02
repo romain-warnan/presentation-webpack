@@ -1,0 +1,8 @@
+{
+  "code" : "86.9",
+  "libelle" : "Autres activités pour la santé humaine",
+  "niveau" : "groupe",
+  "enfants" : [ "86.90" ],
+  "parents" : [ "Q", "86" ],
+  "noteGenerale" : null
+}

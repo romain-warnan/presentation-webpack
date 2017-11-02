@@ -1,0 +1,8 @@
+{
+  "code" : "46.51",
+  "libelle" : "Commerce de gros d'ordinateurs, d'équipements informatiques périphériques et de logiciels",
+  "niveau" : "classe",
+  "enfants" : [ "46.51Z" ],
+  "parents" : [ "G", "46", "46.5" ],
+  "noteGenerale" : null
+}

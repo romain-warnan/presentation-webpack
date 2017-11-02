@@ -1,0 +1,8 @@
+{
+  "code" : "96.02B",
+  "libelle" : "Soins de beauté",
+  "niveau" : "sousClasse",
+  "parents" : [ "S", "96", "96.0", "96.02" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>les conseils en beauté et les soins du visage et de la peau : maquillage, traitement anti-rides, massages faciaux à vocation esthétique, etc.</p>\n            </li>\n            <li>\n                <p>les soins de manucure et les soins des pieds à vocation esthétique</p>\n            </li>\n            <li>\n                <p>l'épilation</p>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null
+}

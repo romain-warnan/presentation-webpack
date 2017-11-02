@@ -1,0 +1,8 @@
+{
+  "code" : "68",
+  "libelle" : "Activités immobilières",
+  "niveau" : "division",
+  "enfants" : [ "68.3", "68.2", "68.1" ],
+  "parents" : [ "L" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "66.19",
+  "libelle" : "Autres activités auxiliaires de services financiers, hors assurance et caisses de retraite",
+  "niveau" : "classe",
+  "enfants" : [ "66.19B", "66.19A" ],
+  "parents" : [ "K", "66", "66.1" ],
+  "noteGenerale" : null
+}

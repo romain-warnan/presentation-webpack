@@ -1,0 +1,8 @@
+{
+  "code" : "10.12",
+  "libelle" : "Transformation et conservation de la viande de volaille",
+  "niveau" : "classe",
+  "enfants" : [ "10.12Z" ],
+  "parents" : [ "C", "10", "10.1" ],
+  "noteGenerale" : null
+}

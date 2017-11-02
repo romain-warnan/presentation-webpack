@@ -1,0 +1,8 @@
+{
+  "code" : "02.1",
+  "libelle" : "Sylviculture et autres activités forestières",
+  "niveau" : "groupe",
+  "enfants" : [ "02.10" ],
+  "parents" : [ "A", "02" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "23.52",
+  "libelle" : "Fabrication de chaux et plâtre",
+  "niveau" : "classe",
+  "enfants" : [ "23.52Z" ],
+  "parents" : [ "C", "23", "23.5" ],
+  "noteGenerale" : null
+}

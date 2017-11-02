@@ -1,0 +1,8 @@
+{
+  "code" : "84.23",
+  "libelle" : "Justice",
+  "niveau" : "classe",
+  "enfants" : [ "84.23Z" ],
+  "parents" : [ "O", "84", "84.2" ],
+  "noteGenerale" : null
+}

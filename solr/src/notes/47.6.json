@@ -1,0 +1,8 @@
+{
+  "code" : "47.6",
+  "libelle" : "Commerce de détail de biens culturels et de loisirs en magasin spécialisé",
+  "niveau" : "groupe",
+  "enfants" : [ "47.65", "47.64", "47.63", "47.62", "47.61" ],
+  "parents" : [ "G", "47" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend le commerce de détail de biens culturels et de loisirs en magasin spécialisé, tels que livres, journaux et périodiques, enregistrements musicaux et vidéo, articles de sport, jeux et jouets.</p>\n    </div:div>\n"
+}

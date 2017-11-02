@@ -1,0 +1,8 @@
+{
+  "code" : "45.11",
+  "libelle" : "Commerce de voitures et de véhicules automobiles légers",
+  "niveau" : "classe",
+  "enfants" : [ "45.11Z" ],
+  "parents" : [ "G", "45", "45.1" ],
+  "noteGenerale" : null
+}

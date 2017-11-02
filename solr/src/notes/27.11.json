@@ -1,0 +1,8 @@
+{
+  "code" : "27.11",
+  "libelle" : "Fabrication de moteurs, génératrices et transformateurs électriques",
+  "niveau" : "classe",
+  "enfants" : [ "27.11Z" ],
+  "parents" : [ "C", "27", "27.1" ],
+  "noteGenerale" : null
+}

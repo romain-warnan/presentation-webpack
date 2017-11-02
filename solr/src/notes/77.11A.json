@@ -1,0 +1,9 @@
+{
+  "code" : "77.11A",
+  "libelle" : "Location de courte durée de voitures et de véhicules automobiles légers",
+  "niveau" : "sousClasse",
+  "parents" : [ "N", "77", "77.1", "77.11" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la location et la location-bail de courte durée de voitures particulières et autres véhicules automobiles légers sans chauffeur (3,5 tonnes ou moins)</p>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null,
+  "neComprendPas" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la location ou la location-bail de courte durée de voitures ou de véhicules automobiles légers avec chauffeur (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/49.32Z\">49.32Z</a>)</p>\n            </li>\n        </ul>\n    </div:div>\n"
+}

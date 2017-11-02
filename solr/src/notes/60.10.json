@@ -1,0 +1,8 @@
+{
+  "code" : "60.10",
+  "libelle" : "Édition et diffusion de programmes radio",
+  "niveau" : "classe",
+  "enfants" : [ "60.10Z" ],
+  "parents" : [ "J", "60", "60.1" ],
+  "noteGenerale" : null
+}

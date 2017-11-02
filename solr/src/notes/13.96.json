@@ -1,0 +1,8 @@
+{
+  "code" : "13.96",
+  "libelle" : "Fabrication d'autres textiles techniques et industriels",
+  "niveau" : "classe",
+  "enfants" : [ "13.96Z" ],
+  "parents" : [ "C", "13", "13.9" ],
+  "noteGenerale" : null
+}

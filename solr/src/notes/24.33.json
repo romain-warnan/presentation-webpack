@@ -1,0 +1,8 @@
+{
+  "code" : "24.33",
+  "libelle" : "Profilage à froid par formage ou pliage",
+  "niveau" : "classe",
+  "enfants" : [ "24.33Z" ],
+  "parents" : [ "C", "24", "24.3" ],
+  "noteGenerale" : null
+}

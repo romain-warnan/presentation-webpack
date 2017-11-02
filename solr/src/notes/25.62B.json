@@ -1,0 +1,9 @@
+{
+  "code" : "25.62B",
+  "libelle" : "Mécanique industrielle",
+  "niveau" : "sousClasse",
+  "parents" : [ "C", "25", "25.6", "25.62" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la production pour des tiers de pièces mécaniques diverses, usinées notamment par enlèvement de matière (alésage, fraisage, tournage, perçage, sciage, crénelage, meulage, affûtage, rectification, etc.) ou assemblage (soudage, collage)</p>\n            </li>\n            <li>\n                <p>la reconstruction, réalisée pour des tiers, de moteurs thermiques (réalésage)</p>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null,
+  "neComprendPas" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la maintenance et la réparation de machines (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/33.12Z\">33.12Z</a>)</p>\n            </li>\n        </ul>\n    </div:div>\n"
+}

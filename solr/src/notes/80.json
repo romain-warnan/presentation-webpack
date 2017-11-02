@@ -1,0 +1,8 @@
+{
+  "code" : "80",
+  "libelle" : "Enquêtes et sécurité",
+  "niveau" : "division",
+  "enfants" : [ "80.3", "80.2", "80.1" ],
+  "parents" : [ "N" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend les services liés à la sécurité tels que les services d'enquêtes et de détectives, les services de garde et de patrouille, les services de transports de fonds, de reçus ou d'autres objets de valeur en utilisant du personnel équipé pour protéger de tels biens pendant le transport, l'exploitation de systèmes de sécurité et d'alarme électroniques tels que les dispositifs d'alarme anti-vol et d'alarme incendie, l'activité se concentrant sur la surveillance à distance de ces systèmes, mais impliquant souvent également des services de vente, d'installation et de réparation. Si ces derniers éléments sont fournis séparément, ils sont exclus de cette division et sont classés dans le commerce de détail, la construction, etc.</p>\n    </div:div>\n"
+}

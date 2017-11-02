@@ -1,0 +1,8 @@
+{
+  "code" : "47.71",
+  "libelle" : "Commerce de détail d'habillement en magasin spécialisé",
+  "niveau" : "classe",
+  "enfants" : [ "47.71Z" ],
+  "parents" : [ "G", "47", "47.7" ],
+  "noteGenerale" : null
+}

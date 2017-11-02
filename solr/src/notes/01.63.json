@@ -1,0 +1,8 @@
+{
+  "code" : "01.63",
+  "libelle" : "Traitement primaire des récoltes",
+  "niveau" : "classe",
+  "enfants" : [ "01.63Z" ],
+  "parents" : [ "A", "01", "01.6" ],
+  "noteGenerale" : null
+}

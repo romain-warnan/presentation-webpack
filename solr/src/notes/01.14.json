@@ -1,0 +1,8 @@
+{
+  "code" : "01.14",
+  "libelle" : "Culture de la canne à sucre",
+  "niveau" : "classe",
+  "enfants" : [ "01.14Z" ],
+  "parents" : [ "A", "01", "01.1" ],
+  "noteGenerale" : null
+}

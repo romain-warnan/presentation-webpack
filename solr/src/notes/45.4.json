@@ -1,0 +1,8 @@
+{
+  "code" : "45.4",
+  "libelle" : "Commerce et réparation de motocycles",
+  "niveau" : "groupe",
+  "enfants" : [ "45.40" ],
+  "parents" : [ "G", "45" ],
+  "noteGenerale" : null
+}

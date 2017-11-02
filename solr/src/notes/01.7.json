@@ -1,0 +1,8 @@
+{
+  "code" : "01.7",
+  "libelle" : "Chasse, piégeage et services annexes",
+  "niveau" : "groupe",
+  "enfants" : [ "01.70" ],
+  "parents" : [ "A", "01" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "30.4",
+  "libelle" : "Construction de véhicules militaires de combat",
+  "niveau" : "groupe",
+  "enfants" : [ "30.40" ],
+  "parents" : [ "C", "30" ],
+  "noteGenerale" : null
+}

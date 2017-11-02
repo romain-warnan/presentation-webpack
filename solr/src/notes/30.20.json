@@ -1,0 +1,8 @@
+{
+  "code" : "30.20",
+  "libelle" : "Construction de locomotives et d'autre matériel ferroviaire roulant",
+  "niveau" : "classe",
+  "enfants" : [ "30.20Z" ],
+  "parents" : [ "C", "30", "30.2" ],
+  "noteGenerale" : null
+}

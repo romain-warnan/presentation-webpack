@@ -1,0 +1,8 @@
+{
+  "code" : "70.22",
+  "libelle" : "Conseil pour les affaires et autres conseils de gestion",
+  "niveau" : "classe",
+  "enfants" : [ "70.22Z" ],
+  "parents" : [ "M", "70", "70.2" ],
+  "noteGenerale" : null
+}

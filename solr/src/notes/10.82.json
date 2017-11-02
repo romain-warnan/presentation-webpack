@@ -1,0 +1,8 @@
+{
+  "code" : "10.82",
+  "libelle" : "Fabrication de cacao, chocolat et de produits de confiserie",
+  "niveau" : "classe",
+  "enfants" : [ "10.82Z" ],
+  "parents" : [ "C", "10", "10.8" ],
+  "noteGenerale" : null
+}

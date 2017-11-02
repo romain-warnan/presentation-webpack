@@ -1,0 +1,9 @@
+{
+  "code" : "93",
+  "libelle" : "Activités sportives, récréatives et de loisirs",
+  "niveau" : "division",
+  "enfants" : [ "93.2", "93.1" ],
+  "parents" : [ "R" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend les activités sportives, récréatives et de loisirs (à l'exclusion des activités des musées, de la préservation des sites et monuments historiques, des jardins botaniques et zoologiques, des activités des réserves naturelles et de l'organisation de jeux de hasard et d'argent).</p>\n    </div:div>\n",
+  "neComprendPas" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>les arts dramatiques, la musique et les autres arts et divertissements tels que la production de spectacles, de productions théâtrales, de concerts, de spectacles d'opéra, de spectacles de danse et d'autres productions analogues (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/division/90\">90</a>)</p>\n            </li>\n        </ul>\n    </div:div>\n"
+}

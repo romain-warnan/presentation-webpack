@@ -1,0 +1,8 @@
+{
+  "code" : "28.95",
+  "libelle" : "Fabrication de machines pour les industries du papier et du carton",
+  "niveau" : "classe",
+  "enfants" : [ "28.95Z" ],
+  "parents" : [ "C", "28", "28.9" ],
+  "noteGenerale" : null
+}

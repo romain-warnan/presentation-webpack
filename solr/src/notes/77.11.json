@@ -1,0 +1,8 @@
+{
+  "code" : "77.11",
+  "libelle" : "Location et location-bail de voitures et de véhicules automobiles légers",
+  "niveau" : "classe",
+  "enfants" : [ "77.11B", "77.11A" ],
+  "parents" : [ "N", "77", "77.1" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "32.12",
+  "libelle" : "Fabrication d'articles de joaillerie et bijouterie",
+  "niveau" : "classe",
+  "enfants" : [ "32.12Z" ],
+  "parents" : [ "C", "32", "32.1" ],
+  "noteGenerale" : null
+}

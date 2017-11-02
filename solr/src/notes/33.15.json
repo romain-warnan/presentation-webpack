@@ -1,0 +1,8 @@
+{
+  "code" : "33.15",
+  "libelle" : "Réparation et maintenance navale",
+  "niveau" : "classe",
+  "enfants" : [ "33.15Z" ],
+  "parents" : [ "C", "33", "33.1" ],
+  "noteGenerale" : null
+}

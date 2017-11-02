@@ -1,0 +1,8 @@
+{
+  "code" : "35.14",
+  "libelle" : "Commerce d'électricité",
+  "niveau" : "classe",
+  "enfants" : [ "35.14Z" ],
+  "parents" : [ "D", "35", "35.1" ],
+  "noteGenerale" : null
+}

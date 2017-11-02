@@ -1,0 +1,8 @@
+{
+  "code" : "09.1",
+  "libelle" : "Activités de soutien à l'extraction d'hydrocarbures",
+  "niveau" : "groupe",
+  "enfants" : [ "09.10" ],
+  "parents" : [ "B", "09" ],
+  "noteGenerale" : null
+}

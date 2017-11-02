@@ -1,0 +1,8 @@
+{
+  "code" : "46.63",
+  "libelle" : "Commerce de gros de machines pour l'extraction, la construction et le génie civil",
+  "niveau" : "classe",
+  "enfants" : [ "46.63Z" ],
+  "parents" : [ "G", "46", "46.6" ],
+  "noteGenerale" : null
+}

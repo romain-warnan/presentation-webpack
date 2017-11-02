@@ -1,0 +1,8 @@
+{
+  "code" : "47.62",
+  "libelle" : "Commerce de détail de journaux et papeterie en magasin spécialisé",
+  "niveau" : "classe",
+  "enfants" : [ "47.62Z" ],
+  "parents" : [ "G", "47", "47.6" ],
+  "noteGenerale" : null
+}

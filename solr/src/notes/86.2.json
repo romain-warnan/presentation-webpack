@@ -1,0 +1,8 @@
+{
+  "code" : "86.2",
+  "libelle" : "Activité des médecins et des dentistes",
+  "niveau" : "groupe",
+  "enfants" : [ "86.23", "86.22", "86.21" ],
+  "parents" : [ "Q", "86" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend les consultations données et les soins dispensés par les médecins généralistes et spécialistes, y compris les chirurgiens, les dentistes, etc.</p>\n        <p>Ces activités peuvent être exercées dans des cabinets privés, des cabinets de groupe ou dans des établissements hospitaliers assurant des soins ambulatoires ainsi que dans des établissements similaires attachés à des entreprises, des écoles, des maisons de retraite pour personnes âgées, des organisations professionnelles, ainsi qu'au domicile des patients.</p>\n        <p>Ce groupe comprend également les services des médecins consultants privés à des personnes hospitalisées.</p>\n    </div:div>\n"
+}

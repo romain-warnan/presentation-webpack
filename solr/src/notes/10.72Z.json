@@ -1,0 +1,9 @@
+{
+  "code" : "10.72Z",
+  "libelle" : "Fabrication de biscuits, biscottes et pâtisseries de conservation",
+  "niveau" : "sousClasse",
+  "parents" : [ "C", "10", "10.7", "10.72" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la fabrication de biscottes, de biscuits et autres produits de boulangerie \"secs\", sucrés ou salés, y compris extrudés</p>\n            </li>\n            <li>\n                <p>la fabrication de pâtisseries et de gâteaux de conservation, non surgelés</p>\n            </li>\n            <li>\n                <p>la fabrication de produits apéritifs et d'autres produits similaires (petits biscuits, bretzels, etc.), sucrés ou salés</p>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null,
+  "neComprendPas" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la production de produits apéritifs à base de pommes de terre (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/10.31Z\">10.31Z</a>)</p>\n            </li>\n        </ul>\n    </div:div>\n"
+}

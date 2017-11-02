@@ -1,0 +1,8 @@
+{
+  "code" : "98.20Z",
+  "libelle" : "Activités indifférenciées des ménages en tant que producteurs de services pour usage propre",
+  "niveau" : "sousClasse",
+  "parents" : [ "T", "98", "98.2", "98.20" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>les activités indifférenciées des ménages en tant que producteurs engagés dans des combinaisons de services de subsistance indifférenciés destinés à leur propre usage. Ces activités comprennent la cuisine, l'enseignement, les soins aux membres du ménage et les autres services produits par le ménage pour assurer sa propre subsistance. Dans la pratique, si les ménages produisent également des biens multiples destinés à leur propre usage, ils sont classés dans les activités indifférenciées des ménages en tant que producteurs de biens pour usage propre</p>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null
+}

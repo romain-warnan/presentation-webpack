@@ -1,0 +1,7 @@
+{
+  "code" : "46.19B",
+  "libelle" : "Autres intermédiaires du commerce en produits divers",
+  "niveau" : "sousClasse",
+  "parents" : [ "G", "46", "46.1", "46.19" ],
+  "noteGenerale" : null
+}

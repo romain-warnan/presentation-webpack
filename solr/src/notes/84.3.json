@@ -1,0 +1,8 @@
+{
+  "code" : "84.3",
+  "libelle" : "Sécurité sociale obligatoire",
+  "niveau" : "groupe",
+  "enfants" : [ "84.30" ],
+  "parents" : [ "O", "84" ],
+  "noteGenerale" : null
+}

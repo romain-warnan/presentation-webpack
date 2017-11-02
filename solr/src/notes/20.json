@@ -1,0 +1,8 @@
+{
+  "code" : "20",
+  "libelle" : "Industrie chimique",
+  "niveau" : "division",
+  "enfants" : [ "20.6", "20.5", "20.4", "20.3", "20.2", "20.1" ],
+  "parents" : [ "C" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend la transformation de matières premières organiques et inorganiques par un procédé chimique et la formation de produits. Elle distingue la production de produits chimiques de base, qui constitue le premier groupe, de la fabrication de produits intermédiaires et finis produits par transformation de produits chimiques de base, qui constituent les autres classes.</p>\n    </div:div>\n"
+}

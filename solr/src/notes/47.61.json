@@ -1,0 +1,8 @@
+{
+  "code" : "47.61",
+  "libelle" : "Commerce de détail de livres en magasin spécialisé",
+  "niveau" : "classe",
+  "enfants" : [ "47.61Z" ],
+  "parents" : [ "G", "47", "47.6" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "10.84",
+  "libelle" : "Fabrication de condiments et assaisonnements",
+  "niveau" : "classe",
+  "enfants" : [ "10.84Z" ],
+  "parents" : [ "C", "10", "10.8" ],
+  "noteGenerale" : null
+}

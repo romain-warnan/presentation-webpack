@@ -1,0 +1,8 @@
+{
+  "code" : "79.1",
+  "libelle" : "Activités des agences de voyage et voyagistes",
+  "niveau" : "groupe",
+  "enfants" : [ "79.12", "79.11" ],
+  "parents" : [ "N", "79" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend les activités des agences consistant principalement à vendre des services de voyage, voyage organisé, transport et hébergement au grand public et à des clients du secteur privé et l'activité consistant à planifier et mettre sur pied des voyages organisés vendus par des agences de voyage ou directement par des agents tels que des voyagistes.</p>\n    </div:div>\n"
+}

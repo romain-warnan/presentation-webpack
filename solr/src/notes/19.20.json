@@ -1,0 +1,8 @@
+{
+  "code" : "19.20",
+  "libelle" : "Raffinage du pétrole",
+  "niveau" : "classe",
+  "enfants" : [ "19.20Z" ],
+  "parents" : [ "C", "19", "19.2" ],
+  "noteGenerale" : null
+}

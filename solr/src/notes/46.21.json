@@ -1,0 +1,8 @@
+{
+  "code" : "46.21",
+  "libelle" : "Commerce de gros de céréales, de tabac non manufacturé, de semences et d'aliments pour le bétail",
+  "niveau" : "classe",
+  "enfants" : [ "46.21Z" ],
+  "parents" : [ "G", "46", "46.2" ],
+  "noteGenerale" : null
+}

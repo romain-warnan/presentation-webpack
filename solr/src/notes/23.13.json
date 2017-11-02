@@ -1,0 +1,8 @@
+{
+  "code" : "23.13",
+  "libelle" : "Fabrication de verre creux",
+  "niveau" : "classe",
+  "enfants" : [ "23.13Z" ],
+  "parents" : [ "C", "23", "23.1" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "66.30",
+  "libelle" : "Gestion de fonds",
+  "niveau" : "classe",
+  "enfants" : [ "66.30Z" ],
+  "parents" : [ "K", "66", "66.3" ],
+  "noteGenerale" : null
+}

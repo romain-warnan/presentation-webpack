@@ -1,0 +1,8 @@
+{
+  "code" : "25.92",
+  "libelle" : "Fabrication d'emballages métalliques légers",
+  "niveau" : "classe",
+  "enfants" : [ "25.92Z" ],
+  "parents" : [ "C", "25", "25.9" ],
+  "noteGenerale" : null
+}

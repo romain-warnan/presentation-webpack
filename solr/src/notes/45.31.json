@@ -1,0 +1,8 @@
+{
+  "code" : "45.31",
+  "libelle" : "Commerce de gros d'équipements automobiles",
+  "niveau" : "classe",
+  "enfants" : [ "45.31Z" ],
+  "parents" : [ "G", "45", "45.3" ],
+  "noteGenerale" : null
+}

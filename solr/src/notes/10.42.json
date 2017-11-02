@@ -1,0 +1,8 @@
+{
+  "code" : "10.42",
+  "libelle" : "Fabrication de margarine et graisses comestibles similaires",
+  "niveau" : "classe",
+  "enfants" : [ "10.42Z" ],
+  "parents" : [ "C", "10", "10.4" ],
+  "noteGenerale" : null
+}

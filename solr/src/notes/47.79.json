@@ -1,0 +1,8 @@
+{
+  "code" : "47.79",
+  "libelle" : "Commerce de détail de biens d'occasion en magasin",
+  "niveau" : "classe",
+  "enfants" : [ "47.79Z" ],
+  "parents" : [ "G", "47", "47.7" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "01.62",
+  "libelle" : "Activités de soutien à la production animale",
+  "niveau" : "classe",
+  "enfants" : [ "01.62Z" ],
+  "parents" : [ "A", "01", "01.6" ],
+  "noteGenerale" : null
+}

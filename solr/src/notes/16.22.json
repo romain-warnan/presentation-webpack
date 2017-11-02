@@ -1,0 +1,8 @@
+{
+  "code" : "16.22",
+  "libelle" : "Fabrication de parquets assemblés",
+  "niveau" : "classe",
+  "enfants" : [ "16.22Z" ],
+  "parents" : [ "C", "16", "16.2" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "95.23Z",
+  "libelle" : "Réparation de chaussures et d'articles en cuir",
+  "niveau" : "sousClasse",
+  "parents" : [ "S", "95", "95.2", "95.23" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la réparation de chaussures, de bagages et d'articles similaires</p>\n            </li>\n            <li>\n                <p>la pose de talons</p>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null
+}

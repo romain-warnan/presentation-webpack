@@ -1,0 +1,8 @@
+{
+  "code" : "10.31",
+  "libelle" : "Transformation et conservation de pommes de terre",
+  "niveau" : "classe",
+  "enfants" : [ "10.31Z" ],
+  "parents" : [ "C", "10", "10.3" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "09",
+  "libelle" : "Services de soutien aux industries extractives",
+  "niveau" : "division",
+  "enfants" : [ "09.9", "09.1" ],
+  "parents" : [ "B" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend les services spécialisés de soutien à l'extraction exécutés pour le compte de tiers. Elle comprend les services d'exploration par les méthodes classiques de prospection, comme le prélèvement d'échantillons et les observations géologiques, ainsi que les forages, les forages d'essai ou les reforages des puits de pétrole ou pour les minerais métalliques et non métalliques. Elle inclut la construction des fondations de puits de pétrole ou de gaz, la cimentation des revêtements (tubages) de puits de pétrole ou de gaz, le nettoyage, le vidage, le pompage à vide des puits de pétrole et de gaz, le drainage ou le pompage des mines, les services d'enlèvement des déblais dans les mines, etc.</p>\n        <p>Sont également incluses les opérations complémentaires nécessaires à la préparation des matières brutes (minéraux solides, minerais métalliques, produits de carrière, etc.) pour leur commercialisation.</p>\n    </div:div>\n"
+}

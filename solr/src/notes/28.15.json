@@ -1,0 +1,8 @@
+{
+  "code" : "28.15",
+  "libelle" : "Fabrication d'engrenages et d'organes mécaniques de transmission",
+  "niveau" : "classe",
+  "enfants" : [ "28.15Z" ],
+  "parents" : [ "C", "28", "28.1" ],
+  "noteGenerale" : null
+}

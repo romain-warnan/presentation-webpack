@@ -1,0 +1,8 @@
+{
+  "code" : "11.03",
+  "libelle" : "Fabrication de cidre et de vins de fruits",
+  "niveau" : "classe",
+  "enfants" : [ "11.03Z" ],
+  "parents" : [ "C", "11", "11.0" ],
+  "noteGenerale" : null
+}

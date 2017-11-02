@@ -1,0 +1,8 @@
+{
+  "code" : "28.14",
+  "libelle" : "Fabrication d'autres articles de robinetterie",
+  "niveau" : "classe",
+  "enfants" : [ "28.14Z" ],
+  "parents" : [ "C", "28", "28.1" ],
+  "noteGenerale" : null
+}

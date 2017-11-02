@@ -1,0 +1,8 @@
+{
+  "code" : "68.20",
+  "libelle" : "Location et exploitation de biens immobiliers propres ou loués",
+  "niveau" : "classe",
+  "enfants" : [ "68.20B", "68.20A" ],
+  "parents" : [ "L", "68", "68.2" ],
+  "noteGenerale" : null
+}

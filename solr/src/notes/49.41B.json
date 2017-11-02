@@ -1,0 +1,9 @@
+{
+  "code" : "49.41B",
+  "libelle" : "Transports routiers de fret de proximité",
+  "niveau" : "sousClasse",
+  "parents" : [ "H", "49", "49.4", "49.41" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>le transport routier de fret à caractère urbain ou de proximité, consistant à enlever ou à livrer des marchandises, emballées ou non, lors de déplacements de courte durée</p>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null,
+  "comprendAussi" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la livraison de béton prêt à l'emploi</p>\n            </li>\n            <li>\n                <p>la collecte du lait à la ferme</p>\n            </li>\n            <li>\n                <p>le transport de proximité de déchets, sans collecte ni élimination</p>\n            </li>\n        </ul>\n    </div:div>\n"
+}

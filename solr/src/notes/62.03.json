@@ -1,0 +1,8 @@
+{
+  "code" : "62.03",
+  "libelle" : "Gestion d'installations informatiques",
+  "niveau" : "classe",
+  "enfants" : [ "62.03Z" ],
+  "parents" : [ "J", "62", "62.0" ],
+  "noteGenerale" : null
+}

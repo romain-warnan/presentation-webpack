@@ -1,0 +1,10 @@
+node_modules/
+target/
+.settings/
+.project
+.classpath
+yarn.lock
+*-build.js*
+*.map
+*.class
+classes/

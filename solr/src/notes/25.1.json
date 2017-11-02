@@ -1,0 +1,8 @@
+{
+  "code" : "25.1",
+  "libelle" : "Fabrication d'éléments en métal pour la construction",
+  "niveau" : "groupe",
+  "enfants" : [ "25.12", "25.11" ],
+  "parents" : [ "C", "25" ],
+  "noteGenerale" : null
+}

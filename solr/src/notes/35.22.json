@@ -1,0 +1,8 @@
+{
+  "code" : "35.22",
+  "libelle" : "Distribution de combustibles gazeux par conduites",
+  "niveau" : "classe",
+  "enfants" : [ "35.22Z" ],
+  "parents" : [ "D", "35", "35.2" ],
+  "noteGenerale" : null
+}

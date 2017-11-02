@@ -1,0 +1,8 @@
+{
+  "code" : "01.28",
+  "libelle" : "Culture de plantes à épices, aromatiques, médicinales et pharmaceutiques",
+  "niveau" : "classe",
+  "enfants" : [ "01.28Z" ],
+  "parents" : [ "A", "01", "01.2" ],
+  "noteGenerale" : null
+}

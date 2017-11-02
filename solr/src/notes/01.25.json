@@ -1,0 +1,8 @@
+{
+  "code" : "01.25",
+  "libelle" : "Culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque",
+  "niveau" : "classe",
+  "enfants" : [ "01.25Z" ],
+  "parents" : [ "A", "01", "01.2" ],
+  "noteGenerale" : null
+}

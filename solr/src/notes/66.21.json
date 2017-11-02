@@ -1,0 +1,8 @@
+{
+  "code" : "66.21",
+  "libelle" : "Évaluation des risques et dommages",
+  "niveau" : "classe",
+  "enfants" : [ "66.21Z" ],
+  "parents" : [ "K", "66", "66.2" ],
+  "noteGenerale" : null
+}

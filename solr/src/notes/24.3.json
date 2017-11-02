@@ -1,0 +1,8 @@
+{
+  "code" : "24.3",
+  "libelle" : "Fabrication d'autres produits de première transformation de l'acier",
+  "niveau" : "groupe",
+  "enfants" : [ "24.34", "24.33", "24.32", "24.31" ],
+  "parents" : [ "C", "24" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend la fabrication d'autres produits en acier par traitement à froid.</p>\n    </div:div>\n"
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "08.12",
+  "libelle" : "Exploitation de gravières et sablières, extraction d'argiles et de kaolin",
+  "niveau" : "classe",
+  "enfants" : [ "08.12Z" ],
+  "parents" : [ "B", "08", "08.1" ],
+  "noteGenerale" : null
+}

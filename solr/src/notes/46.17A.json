@@ -1,0 +1,7 @@
+{
+  "code" : "46.17A",
+  "libelle" : "Centrales d'achat alimentaires",
+  "niveau" : "sousClasse",
+  "parents" : [ "G", "46", "46.1", "46.17" ],
+  "noteGenerale" : null
+}

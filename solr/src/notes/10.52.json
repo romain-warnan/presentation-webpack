@@ -1,0 +1,8 @@
+{
+  "code" : "10.52",
+  "libelle" : "Fabrication de glaces et sorbets",
+  "niveau" : "classe",
+  "enfants" : [ "10.52Z" ],
+  "parents" : [ "C", "10", "10.5" ],
+  "noteGenerale" : null
+}

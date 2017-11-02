@@ -1,0 +1,8 @@
+{
+  "code" : "23.91",
+  "libelle" : "Fabrication de produits abrasifs",
+  "niveau" : "classe",
+  "enfants" : [ "23.91Z" ],
+  "parents" : [ "C", "23", "23.9" ],
+  "noteGenerale" : null
+}

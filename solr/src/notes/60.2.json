@@ -1,0 +1,8 @@
+{
+  "code" : "60.2",
+  "libelle" : "Programmation de télévision et télédiffusion",
+  "niveau" : "groupe",
+  "enfants" : [ "60.20" ],
+  "parents" : [ "J", "60" ],
+  "noteGenerale" : null
+}

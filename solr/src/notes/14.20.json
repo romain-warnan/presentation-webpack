@@ -1,0 +1,8 @@
+{
+  "code" : "14.20",
+  "libelle" : "Fabrication d'articles en fourrure",
+  "niveau" : "classe",
+  "enfants" : [ "14.20Z" ],
+  "parents" : [ "C", "14", "14.2" ],
+  "noteGenerale" : null
+}

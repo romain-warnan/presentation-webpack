@@ -1,0 +1,8 @@
+{
+  "code" : "07.21",
+  "libelle" : "Extraction de minerais d'uranium et de thorium",
+  "niveau" : "classe",
+  "enfants" : [ "07.21Z" ],
+  "parents" : [ "B", "07", "07.2" ],
+  "noteGenerale" : null
+}

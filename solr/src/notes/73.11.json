@@ -1,0 +1,8 @@
+{
+  "code" : "73.11",
+  "libelle" : "Activités des agences de publicité",
+  "niveau" : "classe",
+  "enfants" : [ "73.11Z" ],
+  "parents" : [ "M", "73", "73.1" ],
+  "noteGenerale" : null
+}

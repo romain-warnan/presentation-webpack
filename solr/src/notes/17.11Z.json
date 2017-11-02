@@ -1,0 +1,8 @@
+{
+  "code" : "17.11Z",
+  "libelle" : "Fabrication de pâte à papier",
+  "niveau" : "sousClasse",
+  "parents" : [ "C", "17", "17.1", "17.11" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la fabrication de pâtes à papier blanchies, mi-blanchies ou écrues par des procédés mécaniques, chimiques (pâtes à dissoudre ou autres) ou mi-chimiques</p>\n            </li>\n            <li>\n                <p>la production de pulpe de linters de coton</p>\n            </li>\n            <li>\n                <p>le désencrage de vieux papiers et la fabrication de pâtes à papier à partir de déchets de papier</p>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "46.44Z",
+  "libelle" : "Commerce de gros (commerce interentreprises) de vaisselle, verrerie et produits d'entretien",
+  "niveau" : "sousClasse",
+  "parents" : [ "G", "46", "46.4", "46.44" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>le commerce de gros de vaisselle et de verrerie de ménage</p>\n            </li>\n            <li>\n                <p>le commerce de gros de produits d'entretien, à usage domestique ou industriel</p>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null
+}

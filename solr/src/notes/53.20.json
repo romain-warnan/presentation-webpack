@@ -1,0 +1,8 @@
+{
+  "code" : "53.20",
+  "libelle" : "Autres activités de poste et de courrier",
+  "niveau" : "classe",
+  "enfants" : [ "53.20Z" ],
+  "parents" : [ "H", "53", "53.2" ],
+  "noteGenerale" : null
+}

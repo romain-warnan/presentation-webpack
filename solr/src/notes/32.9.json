@@ -1,0 +1,8 @@
+{
+  "code" : "32.9",
+  "libelle" : "Activités manufacturières n.c.a.",
+  "niveau" : "groupe",
+  "enfants" : [ "32.99", "32.91" ],
+  "parents" : [ "C", "32" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "87.1",
+  "libelle" : "Hébergement médicalisé",
+  "niveau" : "groupe",
+  "enfants" : [ "87.10" ],
+  "parents" : [ "Q", "87" ],
+  "noteGenerale" : null
+}

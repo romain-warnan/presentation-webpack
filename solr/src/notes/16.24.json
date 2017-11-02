@@ -1,0 +1,8 @@
+{
+  "code" : "16.24",
+  "libelle" : "Fabrication d'emballages en bois",
+  "niveau" : "classe",
+  "enfants" : [ "16.24Z" ],
+  "parents" : [ "C", "16", "16.2" ],
+  "noteGenerale" : null
+}

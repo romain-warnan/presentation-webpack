@@ -1,0 +1,8 @@
+{
+  "code" : "33.19",
+  "libelle" : "Réparation d'autres équipements",
+  "niveau" : "classe",
+  "enfants" : [ "33.19Z" ],
+  "parents" : [ "C", "33", "33.1" ],
+  "noteGenerale" : null
+}

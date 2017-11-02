@@ -1,0 +1,8 @@
+{
+  "code" : "81.29",
+  "libelle" : "Autres activités de nettoyage",
+  "niveau" : "classe",
+  "enfants" : [ "81.29B", "81.29A" ],
+  "parents" : [ "N", "81", "81.2" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "61.30",
+  "libelle" : "Télécommunications par satellite",
+  "niveau" : "classe",
+  "enfants" : [ "61.30Z" ],
+  "parents" : [ "J", "61", "61.3" ],
+  "noteGenerale" : null
+}

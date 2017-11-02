@@ -1,0 +1,8 @@
+{
+  "code" : "09.90",
+  "libelle" : "Activités de soutien aux autres industries extractives",
+  "niveau" : "classe",
+  "enfants" : [ "09.90Z" ],
+  "parents" : [ "B", "09", "09.9" ],
+  "noteGenerale" : null
+}

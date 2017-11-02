@@ -1,0 +1,8 @@
+{
+  "code" : "26.8",
+  "libelle" : "Fabrication de supports magnétiques et optiques",
+  "niveau" : "groupe",
+  "enfants" : [ "26.80" ],
+  "parents" : [ "C", "26" ],
+  "noteGenerale" : null
+}

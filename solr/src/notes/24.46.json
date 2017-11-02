@@ -1,0 +1,8 @@
+{
+  "code" : "24.46",
+  "libelle" : "Élaboration et transformation de matières nucléaires",
+  "niveau" : "classe",
+  "enfants" : [ "24.46Z" ],
+  "parents" : [ "C", "24", "24.4" ],
+  "noteGenerale" : null
+}

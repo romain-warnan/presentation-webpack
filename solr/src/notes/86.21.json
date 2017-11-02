@@ -1,0 +1,8 @@
+{
+  "code" : "86.21",
+  "libelle" : "Activité des médecins généralistes",
+  "niveau" : "classe",
+  "enfants" : [ "86.21Z" ],
+  "parents" : [ "Q", "86", "86.2" ],
+  "noteGenerale" : null
+}

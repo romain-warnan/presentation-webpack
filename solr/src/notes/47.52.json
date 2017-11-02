@@ -1,0 +1,8 @@
+{
+  "code" : "47.52",
+  "libelle" : "Commerce de détail de quincaillerie, peintures et verres en magasin spécialisé",
+  "niveau" : "classe",
+  "enfants" : [ "47.52B", "47.52A" ],
+  "parents" : [ "G", "47", "47.5" ],
+  "noteGenerale" : null
+}

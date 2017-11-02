@@ -1,0 +1,8 @@
+{
+  "code" : "68.10",
+  "libelle" : "Activités des marchands de biens immobiliers",
+  "niveau" : "classe",
+  "enfants" : [ "68.10Z" ],
+  "parents" : [ "L", "68", "68.1" ],
+  "noteGenerale" : null
+}

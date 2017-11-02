@@ -1,0 +1,8 @@
+{
+  "code" : "28.24",
+  "libelle" : "Fabrication d'outillage portatif à moteur incorporé",
+  "niveau" : "classe",
+  "enfants" : [ "28.24Z" ],
+  "parents" : [ "C", "28", "28.2" ],
+  "noteGenerale" : null
+}

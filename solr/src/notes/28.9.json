@@ -1,0 +1,8 @@
+{
+  "code" : "28.9",
+  "libelle" : "Fabrication d'autres machines d'usage spécifique",
+  "niveau" : "groupe",
+  "enfants" : [ "28.99", "28.96", "28.95", "28.94", "28.93", "28.92", "28.91" ],
+  "parents" : [ "C", "28" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend la fabrication de machines d'usage spécifique, c'est-à-dire des machines destinées à être exclusivement utilisées par une branche de la NAF ou un petit groupe de branches de la NAF.</p>\n    </div:div>\n"
+}

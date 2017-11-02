@@ -1,0 +1,9 @@
+{
+  "code" : "64.20Z",
+  "libelle" : "Activités des sociétés holding",
+  "niveau" : "sousClasse",
+  "parents" : [ "K", "64", "64.2", "64.20" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette sous-classe comprend les activités des sociétés holding, c'est-à-dire des entités qui détiennent les actifs (possèdent le contrôle des fonds propres) d'un groupe de sociétés filiales et dont la principale activité est d'être propriétaire de ce groupe.Les sociétés holding appartenant à cette sous-classe ne fournissent aucun autre service aux entreprises dans lesquelles elles détiennent des fonds propres, en d'autres termes, elles n'administrent pas ou ne gèrent pas d'autres entités.</p>\n    </div:div>\n",
+  "noteGenerale" : null,
+  "neComprendPas" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la gestion active de sociétés et d'entreprises, la planification et la direction stratégique de la société (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/70.10Z\">70.10Z</a>)</p>\n            </li>\n        </ul>\n    </div:div>\n"
+}

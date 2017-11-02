@@ -1,0 +1,8 @@
+{
+  "code" : "45.2",
+  "libelle" : "Entretien et réparation de véhicules automobiles",
+  "niveau" : "groupe",
+  "enfants" : [ "45.20" ],
+  "parents" : [ "G", "45" ],
+  "noteGenerale" : null
+}

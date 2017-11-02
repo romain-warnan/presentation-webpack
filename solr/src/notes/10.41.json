@@ -1,0 +1,8 @@
+{
+  "code" : "10.41",
+  "libelle" : "Fabrication d'huiles et graisses",
+  "niveau" : "classe",
+  "enfants" : [ "10.41B", "10.41A" ],
+  "parents" : [ "C", "10", "10.4" ],
+  "noteGenerale" : null
+}

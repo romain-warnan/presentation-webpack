@@ -1,0 +1,8 @@
+{
+  "code" : "47.11D",
+  "libelle" : "Supermarchés",
+  "niveau" : "sousClasse",
+  "parents" : [ "G", "47", "47.1", "47.11" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>le commerce de détail non spécialisé à prédominance alimentaire, réalisant un chiffre d'affaires alimentaire supérieur à 65 % des ventes, en magasin d'une surface de vente comprise entre 400 et 2500 m²</p>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null
+}

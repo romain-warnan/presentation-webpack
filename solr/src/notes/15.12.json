@@ -1,0 +1,8 @@
+{
+  "code" : "15.12",
+  "libelle" : "Fabrication d'articles de voyage, de maroquinerie et de sellerie",
+  "niveau" : "classe",
+  "enfants" : [ "15.12Z" ],
+  "parents" : [ "C", "15", "15.1" ],
+  "noteGenerale" : null
+}

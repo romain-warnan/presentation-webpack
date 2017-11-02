@@ -1,0 +1,8 @@
+{
+  "code" : "94",
+  "libelle" : "Activités des organisations associatives",
+  "niveau" : "division",
+  "enfants" : [ "94.9", "94.2", "94.1" ],
+  "parents" : [ "S" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend les activités des organisations qui représentent les intérêts de certains groupes ou qui promeuvent leurs idées auprès du grand public. Ces organisations disposent en général d'un groupe précis de membres, mais leurs activités peuvent également impliquer et bénéficier à des non-membres. La structuration primaire de cette division est déterminée par l'objet de ces organisations, à savoir les intérêts des employeurs, des travailleurs indépendants et de la communauté scientifique (groupe \n            <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/groupe/94.1\">94.1</a>), les intérêts des salariés (groupe \n            <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/groupe/94.2\">94.2</a>) ou la promotion d'idées et d'activités religieuses, politiques, culturelles, éducatives ou récréatives (groupe \n            <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/groupe/94.9\">94.9</a>).</p>\n    </div:div>\n"
+}

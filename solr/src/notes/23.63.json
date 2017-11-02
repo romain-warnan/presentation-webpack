@@ -1,0 +1,8 @@
+{
+  "code" : "23.63",
+  "libelle" : "Fabrication de béton prêt à l'emploi",
+  "niveau" : "classe",
+  "enfants" : [ "23.63Z" ],
+  "parents" : [ "C", "23", "23.6" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "25.5",
+  "libelle" : "Forge, emboutissage, estampage ; métallurgie des poudres",
+  "niveau" : "groupe",
+  "enfants" : [ "25.50" ],
+  "parents" : [ "C", "25" ],
+  "noteGenerale" : null
+}

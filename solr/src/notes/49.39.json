@@ -1,0 +1,8 @@
+{
+  "code" : "49.39",
+  "libelle" : "Autres transports terrestres de voyageurs n.c.a.",
+  "niveau" : "classe",
+  "enfants" : [ "49.39C", "49.39B", "49.39A" ],
+  "parents" : [ "H", "49", "49.3" ],
+  "noteGenerale" : null
+}

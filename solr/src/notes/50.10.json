@@ -1,0 +1,8 @@
+{
+  "code" : "50.10",
+  "libelle" : "Transports maritimes et côtiers de passagers",
+  "niveau" : "classe",
+  "enfants" : [ "50.10Z" ],
+  "parents" : [ "H", "50", "50.1" ],
+  "noteGenerale" : null
+}

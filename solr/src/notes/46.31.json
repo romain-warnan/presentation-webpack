@@ -1,0 +1,8 @@
+{
+  "code" : "46.31",
+  "libelle" : "Commerce de gros de fruits et légumes",
+  "niveau" : "classe",
+  "enfants" : [ "46.31Z" ],
+  "parents" : [ "G", "46", "46.3" ],
+  "noteGenerale" : null
+}

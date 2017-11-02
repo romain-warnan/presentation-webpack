@@ -1,0 +1,8 @@
+{
+  "code" : "61.2",
+  "libelle" : "Télécommunications sans fil",
+  "niveau" : "groupe",
+  "enfants" : [ "61.20" ],
+  "parents" : [ "J", "61" ],
+  "noteGenerale" : null
+}

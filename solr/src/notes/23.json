@@ -1,0 +1,8 @@
+{
+  "code" : "23",
+  "libelle" : "Fabrication d'autres produits minéraux non métalliques",
+  "niveau" : "division",
+  "enfants" : [ "23.9", "23.7", "23.6", "23.5", "23.4", "23.3", "23.2", "23.1" ],
+  "parents" : [ "C" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>La division \n            <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/division/23\">23</a> juxtapose différentes filières relatives chacune à un même matériau d'origine minérale.</p>\n        <p>D'abord, l'industrie du verre sous toutes ses formes (verre plat, verre creux, fibres, articles techniques, etc.). Puis celle des produits céramiques, carreaux et matériaux en terre cuite. Viennent ensuite les filières du ciment et du plâtre, de la matière première jusqu'aux produits élaborés. Enfin, le travail de la pierre et des autres produits minéraux.</p>\n    </div:div>\n"
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "58.1",
+  "libelle" : "Édition de livres et périodiques et autres activités d'édition",
+  "niveau" : "groupe",
+  "enfants" : [ "58.19", "58.14", "58.13", "58.12", "58.11" ],
+  "parents" : [ "J", "58" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend l'édition de livres, de journaux et de publications périodiques, de répertoires et de listes d'adresses et d'autres ouvrages, tels que photos, gravures et cartes postales, calendriers, formulaires, affiches et reproductions d'œuvres d'art. Ces produits se caractérisent par le niveau de créativité intellectuelle requis pour leur développement et sont généralement protégés par des droits de propriété intellectuelle (copyright).</p>\n    </div:div>\n"
+}

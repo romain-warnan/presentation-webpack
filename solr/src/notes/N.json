@@ -1,0 +1,7 @@
+{
+  "code" : "N",
+  "libelle" : "Activités de services administratifs et de soutien",
+  "niveau" : "section",
+  "enfants" : [ "82", "81", "80", "79", "78", "77" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette section comprend diverses activités de soutien aux activités générales des entreprises. Ces activités sont différentes de celles de la section \n            <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/section/M\">M</a>, car leur objectif premier n'est pas le transfert de connaissances spécialisées.</p>\n    </div:div>\n"
+}

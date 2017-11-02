@@ -1,0 +1,8 @@
+{
+  "code" : "15.20",
+  "libelle" : "Fabrication de chaussures",
+  "niveau" : "classe",
+  "enfants" : [ "15.20Z" ],
+  "parents" : [ "C", "15", "15.2" ],
+  "noteGenerale" : null
+}

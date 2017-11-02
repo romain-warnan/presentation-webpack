@@ -1,0 +1,8 @@
+{
+  "code" : "28.25",
+  "libelle" : "Fabrication d'équipements aérauliques et frigorifiques industriels",
+  "niveau" : "classe",
+  "enfants" : [ "28.25Z" ],
+  "parents" : [ "C", "28", "28.2" ],
+  "noteGenerale" : null
+}

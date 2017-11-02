@@ -1,0 +1,8 @@
+{
+  "code" : "36.0",
+  "libelle" : "Captage, traitement et distribution d'eau",
+  "niveau" : "groupe",
+  "enfants" : [ "36.00" ],
+  "parents" : [ "E", "36" ],
+  "noteGenerale" : null
+}

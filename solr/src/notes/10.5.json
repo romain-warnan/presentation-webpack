@@ -1,0 +1,8 @@
+{
+  "code" : "10.5",
+  "libelle" : "Fabrication de produits laitiers",
+  "niveau" : "groupe",
+  "enfants" : [ "10.52", "10.51" ],
+  "parents" : [ "C", "10" ],
+  "noteGenerale" : null
+}

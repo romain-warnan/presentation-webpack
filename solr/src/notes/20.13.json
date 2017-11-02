@@ -1,0 +1,8 @@
+{
+  "code" : "20.13",
+  "libelle" : "Fabrication d'autres produits chimiques inorganiques de base",
+  "niveau" : "classe",
+  "enfants" : [ "20.13B", "20.13A" ],
+  "parents" : [ "C", "20", "20.1" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "01.64",
+  "libelle" : "Traitement des semences",
+  "niveau" : "classe",
+  "enfants" : [ "01.64Z" ],
+  "parents" : [ "A", "01", "01.6" ],
+  "noteGenerale" : null
+}

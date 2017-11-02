@@ -1,0 +1,8 @@
+{
+  "code" : "23.70",
+  "libelle" : "Taille, façonnage et finissage de pierres",
+  "niveau" : "classe",
+  "enfants" : [ "23.70Z" ],
+  "parents" : [ "C", "23", "23.7" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "47.89Z",
+  "libelle" : "Autres commerces de détail sur éventaires et marchés",
+  "niveau" : "sousClasse",
+  "parents" : [ "G", "47", "47.8", "47.89" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>les autres commerces de détail sur éventaires et marchés :</p>\n                <ul class=\"list1\">\n                    <li>\n                        <p>tapis et moquettes</p>\n                    </li>\n                    <li>\n                        <p>livres</p>\n                    </li>\n                    <li>\n                        <p>jeux et jouets</p>\n                    </li>\n                    <li>\n                        <p>appareils ménagers et produits électroniques grand public</p>\n                    </li>\n                    <li>\n                        <p>enregistrements musicaux et vidéo</p>\n                    </li>\n                </ul>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null
+}

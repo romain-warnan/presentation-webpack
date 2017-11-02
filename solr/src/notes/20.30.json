@@ -1,0 +1,8 @@
+{
+  "code" : "20.30",
+  "libelle" : "Fabrication de peintures, vernis, encres et mastics",
+  "niveau" : "classe",
+  "enfants" : [ "20.30Z" ],
+  "parents" : [ "C", "20", "20.3" ],
+  "noteGenerale" : null
+}

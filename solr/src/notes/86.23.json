@@ -1,0 +1,8 @@
+{
+  "code" : "86.23",
+  "libelle" : "Pratique dentaire",
+  "niveau" : "classe",
+  "enfants" : [ "86.23Z" ],
+  "parents" : [ "Q", "86", "86.2" ],
+  "noteGenerale" : null
+}

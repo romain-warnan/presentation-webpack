@@ -1,0 +1,8 @@
+{
+  "code" : "96.09",
+  "libelle" : "Autres services personnels n.c.a.",
+  "niveau" : "classe",
+  "enfants" : [ "96.09Z" ],
+  "parents" : [ "S", "96", "96.0" ],
+  "noteGenerale" : null
+}

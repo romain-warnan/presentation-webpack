@@ -1,0 +1,8 @@
+{
+  "code" : "47.78",
+  "libelle" : "Autre commerce de détail de biens neufs en magasin spécialisé",
+  "niveau" : "classe",
+  "enfants" : [ "47.78C", "47.78B", "47.78A" ],
+  "parents" : [ "G", "47", "47.7" ],
+  "noteGenerale" : null
+}

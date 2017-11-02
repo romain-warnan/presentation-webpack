@@ -1,0 +1,124 @@
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#application {
+  height: 100%;
+}
+
+.arbre {
+  background-color: #cdd2d8;
+  position: absolute;
+  left: 0;
+
+  width: 20%;
+  height: 100%;
+  clear: both;
+  overflow: auto;
+  padding: 5px;
+
+  border-right: 1px solid black;
+}
+
+.fiche {
+  background-color: #d0e0f4;
+  position: absolute;
+  right: 0;
+  overflow: auto;
+  width: calc(80% - 21px);
+  height: 100%;
+  padding: 5px;
+}
+
+.liste-note {
+}
+
+.arbre li {
+  all: unset;
+}
+
+.arbre ul {
+  all: unset;
+}
+
+.indent {
+  padding-left: 40px !important;
+}
+
+.selected {
+  background-color: #3d6699 !important;
+  color: white;
+}
+
+.selected {
+  text-decoration: none;
+  color: white;
+}
+
+.link-selected {
+  color: white;
+  text-decoration: none;
+}
+
+.link {
+  color: black;
+  text-decoration: none;
+}
+
+.note-container {
+  padding: 2px;
+  cursor: pointer;
+  background-color: white;
+}
+
+.note-container:before {
+  content: ">";
+  margin-right: 2px;
+}
+.node-code {
+  padding: 5px 0;
+}
+
+.node-code:after {
+  content: "-";
+}
+
+.node-libelle {
+}
+
+.node-libelle {
+}
+
+a.selected {
+  color: white;
+}
+/* ************************************************************** */
+.jquery-ui-demo {
+}
+
+.jquery-ui-demo > .jquery-suggester {
+  background-color: yellow;
+}
+
+/* *************************************************************** */
+.wait {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1000;
+  background-color: rgb(120, 120, 120);
+  opacity: 0.5;
+}
+
+.wait img {
+  position: absolute;
+  margin-left: 50%;
+  top: 30%;
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "29.20",
+  "libelle" : "Fabrication de carrosseries et remorques",
+  "niveau" : "classe",
+  "enfants" : [ "29.20Z" ],
+  "parents" : [ "C", "29", "29.2" ],
+  "noteGenerale" : null
+}

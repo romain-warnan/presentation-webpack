@@ -1,0 +1,8 @@
+{
+  "code" : "13.1",
+  "libelle" : "Préparation de fibres textiles et filature",
+  "niveau" : "groupe",
+  "enfants" : [ "13.10" ],
+  "parents" : [ "C", "13" ],
+  "noteGenerale" : null
+}

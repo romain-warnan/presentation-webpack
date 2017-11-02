@@ -1,0 +1,8 @@
+{
+  "code" : "96.03",
+  "libelle" : "Services funéraires",
+  "niveau" : "classe",
+  "enfants" : [ "96.03Z" ],
+  "parents" : [ "S", "96", "96.0" ],
+  "noteGenerale" : null
+}

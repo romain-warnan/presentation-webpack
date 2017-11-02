@@ -1,0 +1,8 @@
+{
+  "code" : "10.51",
+  "libelle" : "Exploitation de laiteries et fabrication de fromage",
+  "niveau" : "classe",
+  "enfants" : [ "10.51D", "10.51C", "10.51B", "10.51A" ],
+  "parents" : [ "C", "10", "10.5" ],
+  "noteGenerale" : null
+}

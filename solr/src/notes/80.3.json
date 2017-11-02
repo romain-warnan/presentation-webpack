@@ -1,0 +1,8 @@
+{
+  "code" : "80.3",
+  "libelle" : "Activités d'enquête",
+  "niveau" : "groupe",
+  "enfants" : [ "80.30" ],
+  "parents" : [ "N", "80" ],
+  "noteGenerale" : null
+}

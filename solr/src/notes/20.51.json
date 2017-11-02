@@ -1,0 +1,8 @@
+{
+  "code" : "20.51",
+  "libelle" : "Fabrication de produits explosifs",
+  "niveau" : "classe",
+  "enfants" : [ "20.51Z" ],
+  "parents" : [ "C", "20", "20.5" ],
+  "noteGenerale" : null
+}

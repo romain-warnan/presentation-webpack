@@ -1,0 +1,8 @@
+{
+  "code" : "47.24",
+  "libelle" : "Commerce de détail de pain, pâtisserie et confiserie en magasin spécialisé",
+  "niveau" : "classe",
+  "enfants" : [ "47.24Z" ],
+  "parents" : [ "G", "47", "47.2" ],
+  "noteGenerale" : null
+}

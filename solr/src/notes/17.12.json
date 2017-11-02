@@ -1,0 +1,8 @@
+{
+  "code" : "17.12",
+  "libelle" : "Fabrication de papier et de carton",
+  "niveau" : "classe",
+  "enfants" : [ "17.12Z" ],
+  "parents" : [ "C", "17", "17.1" ],
+  "noteGenerale" : null
+}

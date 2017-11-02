@@ -1,0 +1,8 @@
+{
+  "code" : "27.90",
+  "libelle" : "Fabrication d'autres matériels électriques",
+  "niveau" : "classe",
+  "enfants" : [ "27.90Z" ],
+  "parents" : [ "C", "27", "27.9" ],
+  "noteGenerale" : null
+}

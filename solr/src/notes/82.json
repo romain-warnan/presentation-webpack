@@ -1,0 +1,8 @@
+{
+  "code" : "82",
+  "libelle" : "Activités administratives et autres activités de soutien aux entreprises",
+  "niveau" : "division",
+  "enfants" : [ "82.9", "82.3", "82.2", "82.1" ],
+  "parents" : [ "N" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend la prestation d'un ensemble de services administratifs de bureau quotidiens, ainsi que de fonctions de soutien courantes et continues, pour le compte de tiers.</p>\n        <p>Cette division comprend également toutes les activités de services de soutien généralement fournis aux entreprises non classés ailleurs.</p>\n        <p>Les unités classées dans cette division ne fournissent pas le personnel d'exploitation nécessaire à l'exécution de toutes les activités de l'entreprise.</p>\n    </div:div>\n"
+}

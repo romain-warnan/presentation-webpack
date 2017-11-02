@@ -1,0 +1,8 @@
+{
+  "code" : "30.12",
+  "libelle" : "Construction de bateaux de plaisance",
+  "niveau" : "classe",
+  "enfants" : [ "30.12Z" ],
+  "parents" : [ "C", "30", "30.1" ],
+  "noteGenerale" : null
+}

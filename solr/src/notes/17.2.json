@@ -1,0 +1,8 @@
+{
+  "code" : "17.2",
+  "libelle" : "Fabrication d'articles en papier ou en carton",
+  "niveau" : "groupe",
+  "enfants" : [ "17.29", "17.24", "17.23", "17.22", "17.21" ],
+  "parents" : [ "C", "17" ],
+  "noteGenerale" : null
+}

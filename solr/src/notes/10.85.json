@@ -1,0 +1,8 @@
+{
+  "code" : "10.85",
+  "libelle" : "Fabrication de plats préparés",
+  "niveau" : "classe",
+  "enfants" : [ "10.85Z" ],
+  "parents" : [ "C", "10", "10.8" ],
+  "noteGenerale" : null
+}

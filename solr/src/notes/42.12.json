@@ -1,0 +1,8 @@
+{
+  "code" : "42.12",
+  "libelle" : "Construction de voies ferrées de surface et souterraines",
+  "niveau" : "classe",
+  "enfants" : [ "42.12Z" ],
+  "parents" : [ "F", "42", "42.1" ],
+  "noteGenerale" : null
+}

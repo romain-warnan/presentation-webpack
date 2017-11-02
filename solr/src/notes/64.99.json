@@ -1,0 +1,8 @@
+{
+  "code" : "64.99",
+  "libelle" : "Autres activités des services financiers, hors assurance et caisses de retraite, n.c.a.",
+  "niveau" : "classe",
+  "enfants" : [ "64.99Z" ],
+  "parents" : [ "K", "64", "64.9" ],
+  "noteGenerale" : null
+}

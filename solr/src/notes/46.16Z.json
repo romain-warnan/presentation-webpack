@@ -1,0 +1,8 @@
+{
+  "code" : "46.16Z",
+  "libelle" : "Intermédiaires du commerce en textiles, habillement, fourrures, chaussures et articles en cuir",
+  "niveau" : "sousClasse",
+  "parents" : [ "G", "46", "46.1", "46.16" ],
+  "noteGenerale" : null,
+  "neComprendPas" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>le commerce de gros pour compte propre (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/groupe/46.2\">46.2</a> à \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/groupe/46.9\">46.9</a>)</p>\n            </li>\n            <li>\n                <p>le commerce de détail par des intermédiaires du commerce hors magasin (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/47.99B\">47.99B</a>)</p>\n            </li>\n        </ul>\n    </div:div>\n"
+}

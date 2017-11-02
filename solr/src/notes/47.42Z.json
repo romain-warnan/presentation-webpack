@@ -1,0 +1,7 @@
+{
+  "code" : "47.42Z",
+  "libelle" : "Commerce de détail de matériels de télécommunication en magasin spécialisé",
+  "niveau" : "sousClasse",
+  "parents" : [ "G", "47", "47.4", "47.42" ],
+  "noteGenerale" : null
+}

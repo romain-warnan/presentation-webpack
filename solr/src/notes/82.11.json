@@ -1,0 +1,8 @@
+{
+  "code" : "82.11",
+  "libelle" : "Services administratifs combinés de bureau",
+  "niveau" : "classe",
+  "enfants" : [ "82.11Z" ],
+  "parents" : [ "N", "82", "82.1" ],
+  "noteGenerale" : null
+}

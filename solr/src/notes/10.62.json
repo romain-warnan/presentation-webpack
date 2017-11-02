@@ -1,0 +1,8 @@
+{
+  "code" : "10.62",
+  "libelle" : "Fabrication de produits amylacés",
+  "niveau" : "classe",
+  "enfants" : [ "10.62Z" ],
+  "parents" : [ "C", "10", "10.6" ],
+  "noteGenerale" : null
+}

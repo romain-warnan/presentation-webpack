@@ -1,0 +1,8 @@
+{
+  "code" : "46.7",
+  "libelle" : "Autres commerces de gros spécialisés",
+  "niveau" : "groupe",
+  "enfants" : [ "46.77", "46.76", "46.75", "46.74", "46.73", "46.72", "46.71" ],
+  "parents" : [ "G", "46" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend les divers commerces de gros spécialisés ne relevant pas d'une des catégories de cette division. Il comprend le commerce de gros de produits intermédiaires non agricoles et non destinés, en général, à une utilisation domestique.</p>\n    </div:div>\n"
+}

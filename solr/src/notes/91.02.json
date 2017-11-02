@@ -1,0 +1,8 @@
+{
+  "code" : "91.02",
+  "libelle" : "Gestion des musées",
+  "niveau" : "classe",
+  "enfants" : [ "91.02Z" ],
+  "parents" : [ "R", "91", "91.0" ],
+  "noteGenerale" : null
+}

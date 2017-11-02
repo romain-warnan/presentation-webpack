@@ -1,0 +1,8 @@
+{
+  "code" : "64",
+  "libelle" : "Activités des services financiers, hors assurance et caisses de retraite",
+  "niveau" : "division",
+  "enfants" : [ "64.9", "64.3", "64.2", "64.1" ],
+  "parents" : [ "K" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend les activités de collecte et de redistribution de fonds à des fins autres que le financement de la sécurité sociale obligatoire ou des caisses d'assurance ou de retraite.</p>\n        <p>Les dispositions institutionnelles nationales jouent un rôle important dans le classement interne à cette division.</p>\n    </div:div>\n"
+}

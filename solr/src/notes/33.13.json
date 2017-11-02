@@ -1,0 +1,8 @@
+{
+  "code" : "33.13",
+  "libelle" : "Réparation de matériels électroniques et optiques",
+  "niveau" : "classe",
+  "enfants" : [ "33.13Z" ],
+  "parents" : [ "C", "33", "33.1" ],
+  "noteGenerale" : null
+}

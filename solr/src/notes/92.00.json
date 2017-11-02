@@ -1,0 +1,8 @@
+{
+  "code" : "92.00",
+  "libelle" : "Organisation de jeux de hasard et d'argent",
+  "niveau" : "classe",
+  "enfants" : [ "92.00Z" ],
+  "parents" : [ "R", "92", "92.0" ],
+  "noteGenerale" : null
+}

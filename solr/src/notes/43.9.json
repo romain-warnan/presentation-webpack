@@ -1,0 +1,8 @@
+{
+  "code" : "43.9",
+  "libelle" : "Autres travaux de construction spécialisés",
+  "niveau" : "groupe",
+  "enfants" : [ "43.99", "43.91" ],
+  "parents" : [ "F", "43" ],
+  "noteGenerale" : null
+}

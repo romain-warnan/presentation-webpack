@@ -1,0 +1,8 @@
+{
+  "code" : "07.1",
+  "libelle" : "Extraction de minerais de fer",
+  "niveau" : "groupe",
+  "enfants" : [ "07.10" ],
+  "parents" : [ "B", "07" ],
+  "noteGenerale" : null
+}

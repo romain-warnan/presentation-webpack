@@ -1,0 +1,8 @@
+{
+  "code" : "85.53",
+  "libelle" : "Enseignement de la conduite",
+  "niveau" : "classe",
+  "enfants" : [ "85.53Z" ],
+  "parents" : [ "P", "85", "85.5" ],
+  "noteGenerale" : null
+}

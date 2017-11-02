@@ -1,0 +1,8 @@
+{
+  "code" : "10.20",
+  "libelle" : "Transformation et conservation de poisson, de crustacés et de mollusques",
+  "niveau" : "classe",
+  "enfants" : [ "10.20Z" ],
+  "parents" : [ "C", "10", "10.2" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "52.23",
+  "libelle" : "Services auxiliaires des transports aériens",
+  "niveau" : "classe",
+  "enfants" : [ "52.23Z" ],
+  "parents" : [ "H", "52", "52.2" ],
+  "noteGenerale" : null
+}

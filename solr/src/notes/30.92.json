@@ -1,0 +1,8 @@
+{
+  "code" : "30.92",
+  "libelle" : "Fabrication de bicyclettes et de véhicules pour invalides",
+  "niveau" : "classe",
+  "enfants" : [ "30.92Z" ],
+  "parents" : [ "C", "30", "30.9" ],
+  "noteGenerale" : null
+}

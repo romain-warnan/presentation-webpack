@@ -1,0 +1,8 @@
+{
+  "code" : "66.22",
+  "libelle" : "Activités des agents et courtiers d'assurances",
+  "niveau" : "classe",
+  "enfants" : [ "66.22Z" ],
+  "parents" : [ "K", "66", "66.2" ],
+  "noteGenerale" : null
+}

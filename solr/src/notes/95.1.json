@@ -1,0 +1,8 @@
+{
+  "code" : "95.1",
+  "libelle" : "Réparation d'ordinateurs et d'équipements de communication",
+  "niveau" : "groupe",
+  "enfants" : [ "95.12", "95.11" ],
+  "parents" : [ "S", "95" ],
+  "noteGenerale" : null
+}

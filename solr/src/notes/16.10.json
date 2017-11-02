@@ -1,0 +1,8 @@
+{
+  "code" : "16.10",
+  "libelle" : "Sciage et rabotage du bois",
+  "niveau" : "classe",
+  "enfants" : [ "16.10B", "16.10A" ],
+  "parents" : [ "C", "16", "16.1" ],
+  "noteGenerale" : null
+}

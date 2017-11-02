@@ -1,0 +1,8 @@
+{
+  "code" : "10.7",
+  "libelle" : "Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires",
+  "niveau" : "groupe",
+  "enfants" : [ "10.73", "10.72", "10.71" ],
+  "parents" : [ "C", "10" ],
+  "noteGenerale" : null
+}
