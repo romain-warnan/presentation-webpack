@@ -5,8 +5,4 @@ Cette situation peut s’améliorer grâce à une meilleure formation mais aussi
 
  - Installation de Webpack : rappels rapides sur NodeJs et npm, installation des paquets webpack et webpack-dev-server.
  - Comment ajouter Webpack à un projet existant et qui contient déjà du code Javascript, et comment commencer un projet avec Webpack.
- - Fonctionnalités de Webpack :
-  * rendre le code JavaScript modulaire ;
-  * utiliser les dernières versions d’EcmaScript tout en étant compatibles avec les anciens navigateurs ;
-  * voir ses modifications instantanément prises en compte dans le navigateur ;
-  * etc.
+ - Fonctionnalités de Webpack : rendre le code JavaScript modulaire ; utiliser les dernières versions d’EcmaScript tout en étant compatibles avec les anciens navigateurs ; voir ses modifications instantanément prises en compte dans le navigateur ; etc.
