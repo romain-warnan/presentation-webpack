@@ -13,17 +13,13 @@ Cette situation peut s’améliorer grâce à une meilleure formation mais aussi
 
 ```bash
 git clone https://github.com/romain-warnan/webpack.git
-cd webpack/
-cd solr/
+cd webpack/solr/
+npm update
+cd ../src/main/webapp
 npm update
 ```
 
 Dans Eclipse, lancer `fr.insee.demo.solr.loader.Launcher`.
-
-```bash
-cd src/main/webapp
-npm update
-```
 
 ## Lancer l’application
 
