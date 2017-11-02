@@ -1,5 +1,9 @@
 # Utiliser Webpack pour développer plus proprement et plus rapidement les parties Javascript
 
+:arrow_forward: [Diaporama](https://romain-warnan.github.io/presentation-webpack/)
+
+:bookmark_tabs: [Imprimer](https://romain-warnan.github.io/presentation-webpack/?print-pdf#/) (avec Chrome)
+
 ## Contenu de la présentation
 
 Les applications comportent de plus en plus de Javascript, et pourtant, l’attention portée à la qualité du code Javascript est moindre.
