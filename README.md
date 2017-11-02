@@ -1,4 +1,4 @@
-# Utiliser Webpack développer plus proprement et plus rapidement les parties Javascript
+# Utiliser Webpack pour développer plus proprement et plus rapidement les parties Javascript
 
 Les applications comportent de plus en plus de Javascript, et pourtant, l’attention portée à la qualité du code Javascript est moindre.
 Cette situation peut s’améliorer grâce à une meilleure formation mais aussi grâce à l’utilisation d’outils adaptés comme Webpack.
