@@ -19,6 +19,8 @@ cd ../src/main/webapp
 npm update
 ```
 
+Démarrer SolR (`npm start` dans `npm solr/`).
+
 Dans Eclipse, lancer `fr.insee.demo.solr.loader.Launcher`.
 
 ## Lancer l’application
@@ -27,7 +29,7 @@ Dans Eclipse, lancer `fr.insee.demo.solr.loader.Launcher`.
 
 Branche `javascript-version`
 
- 1. Démarrer SolR (`npm start` dans `npm solr/`)
+ 1. Démarrer SolR (`npm start` dans `npm solr/`) si nécessaire.
  2. Démarrer Tomcat
  3. [http://localhost:8080/demo-js](http://localhost:8080/demo-js)
 
@@ -35,7 +37,7 @@ Branche `javascript-version`
 
 Branche `webpack-version`
 
- 1. Démarrer SolR (`npm start` dans `npm solr/`)
+ 1. Démarrer SolR (`npm start` dans `npm solr/`) si nécessaire.
  1. Démarrer Webpack (`npm start` dans `npm src/main/webapp/`)
  2. Démarrer Tomcat
  3. [http://localhost:3030/demo-js](http://localhost:3030/demo-js)
