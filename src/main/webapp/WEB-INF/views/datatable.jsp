@@ -7,12 +7,11 @@
 <head>
 <link rel="stylesheet" type="text/css" href="/demo-js/static/css/application.css">
 <link rel="stylesheet" type="text/css" href="/demo-js/static/css/jquery/jquery-ui.min.css">
-<link rel="stylesheet" type="text/css" href="/demo-js/static/css/datatables/jquery.dataTables.css">
 <title>Application demo</title>
 </head>
 <body>
 	<div id="application">
-		<a href="/demo-js/accueil">accueil</a><br/>
+		<a href="/demo-js/accueil">accueil</a><br />
 		<a href="/demo-js/nomenclature">parcourir l'arbre de la Nafrev2</a>
 
 		<table class="table">
@@ -35,6 +34,8 @@
 		</table>
 	</div>
 
-	<script type="text/javascript" src="/demo-js/static/js/bundle.js"></script>
+	<script type="text/javascript" src="/demo-js/static/js/jquery/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src="/demo-js/static/js/datatable/datatables.min.js"></script>
+	<script type="text/javascript" src="/demo-js/static/js/table.js"></script>
 </body>
 </html>

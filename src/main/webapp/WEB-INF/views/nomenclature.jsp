@@ -10,10 +10,8 @@
 	</head>
 	<body>
 	<div id="application">
-		<div id="wait" class="wait" ><img src="/demo-js/static/images/preloader.svg" alt="Veuillez-patienter..." /></div>
+	<a href="/demo-js/accueil">retour</a>
 		<div class="arbre">
-			<a href="/demo-js/accueil">accueil</a><br/>
-			<a href="/demo-js/datatable">datatable</a>
 			<ul class="liste-note racine">
 				<c:forEach items="${sections}" var="section">
 					<li class="arbre-fiche" data-code="${section.code}"
@@ -44,6 +42,8 @@
 		</div>
 	</div>
 
-	<script type="text/javascript" src="/demo-js/static/js/bundle.js"></script>
+	<script type="text/javascript" src="/demo-js/static/js/jquery/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src="/demo-js/static/js/jquery/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/demo-js/static/js/nomenclature.js"></script>
 	</body>
 </html>

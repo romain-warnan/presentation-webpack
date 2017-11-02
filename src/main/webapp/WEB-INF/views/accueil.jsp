@@ -11,9 +11,8 @@
 </head>
 <body>
 	<div id="application">
-		<div id="wait" class="wait" ><img src="/demo-js/static/images/preloader.svg" alt="Veuillez-patienter..." /></div>
-		<a href="/demo-js/nomenclature">parcourir l'arbre de la Nafrev2</a><br/>
-		<a href="/demo-js/datatable">datatable</a>
+
+		<a href="/demo-js/nomenclature">Parcourir l'arbre de la Nafrev2</a>
 		<div id="accordion">
 			<h3>Consulter la Nafrev2</h3>
 			<div>
@@ -26,6 +25,8 @@
 		</div>
 	</div>
 
-	<script type="text/javascript" src="/demo-js/static/js/bundle.js"></script>
+	<script type="text/javascript" src="/demo-js/static/js/jquery/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src="/demo-js/static/js/jquery/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/demo-js/static/js/accueil.js"></script>
 </body>
 </html>
