@@ -42,3 +42,4 @@ Branche `webpack-version`
  2. Démarrer Tomcat
  3. [http://localhost:3030/demo-js/accueil](http://localhost:3030/demo-js/accueil)
 
+bonjour
