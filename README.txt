@@ -1,3 +1,0 @@
-- src/resources contient un petit core solr embedded
-- il faut configurer son path fr.insee.demo.solr.server.SolrConfig (chemin complet)
-- lancer le batch qui va le remplir fr.insee.demo.solr.loader.Launcher

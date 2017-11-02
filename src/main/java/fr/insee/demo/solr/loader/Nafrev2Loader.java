@@ -19,8 +19,10 @@ public class Nafrev2Loader {
 	
 	@Autowired
 	private ServerFactory serverFactory;
+	
 	@Autowired
 	private RubriqueResource rubriqueResource;
+	
 	@Autowired
 	private RubriqueRepo RubriqueRepo;
 
@@ -43,6 +45,5 @@ public class Nafrev2Loader {
 		} finally {
 			serverFactory.shutdown();	
 		}
-					
 	}
 }

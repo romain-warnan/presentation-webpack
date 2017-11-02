@@ -12,6 +12,7 @@ import org.apache.solr.common.SolrException;
 import org.apache.solr.core.CoreContainer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.core.io.ClassPathResource;
 
 
 
@@ -25,8 +26,13 @@ public class EmbeddedServerFactory implements ServerFactory {
 
 	private SolrClient server;
 
-	public EmbeddedServerFactory(String solrHome, String core) {
-		this.solrHome = solrHome;
+	public EmbeddedServerFactory(String core) {
+		try {
+			this.solrHome = new ClassPathResource("solr/nafrev2").getFile().getAbsolutePath();
+		}
+		catch (IOException e) {
+			logger.error(e.getMessage());
+		}
 		this.core = core;
 	}
 
