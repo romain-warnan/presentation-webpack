@@ -41,7 +41,7 @@ public class Nafrev2Loader {
 			}	
 			
 		} catch (ResourceException e) {
-			throw new SolrInseeException("hooo !, e");
+			throw new SolrInseeException("Une erreur c'est produite durant le chargment de la naf", e);
 		} finally {
 			serverFactory.shutdown();	
 		}

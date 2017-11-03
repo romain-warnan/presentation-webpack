@@ -23,6 +23,7 @@ public class RubriqueWS implements RubriqueResource {
 	private static Map<String, Rubrique> map = Maps.newHashMap();
 	
 	public Rubrique getRubrique(String niveau, String code) throws ResourceException{
+		try{
 		if(map.containsKey(code)){
 			return map.get(code);
 		} else {
@@ -39,6 +40,9 @@ public class RubriqueWS implements RubriqueResource {
 			map.put(code,  rubrique);
 			
 			return  rubrique;
+		}
+		}catch(Exception e){
+			throw new ResourceException("Impossible d'atteindre les rubriques (le serveur node est-il actif ?)", e);
 		}
 	}
 	

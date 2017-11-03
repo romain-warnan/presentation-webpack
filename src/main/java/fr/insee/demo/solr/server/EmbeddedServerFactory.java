@@ -29,6 +29,7 @@ public class EmbeddedServerFactory implements ServerFactory {
 	public EmbeddedServerFactory(String core) {
 		try {
 			this.solrHome = new ClassPathResource("solr/nafrev2").getFile().getAbsolutePath();
+			logger.info("SOLR_HOME " + this.solrHome);
 		}
 		catch (IOException e) {
 			logger.error(e.getMessage());
