@@ -65,13 +65,6 @@ ECMAScript 5 encore largement répandu dans les navigateurs en circulation
  - nombreuse fonctionnalités manquantes
  - syntaxe absconse
 
-__Solution :__
-
-Transpilation
- - compilation source à source
- - ex. : ES2016 vers ES5
- - Babel
-
 
 ===
 
@@ -84,15 +77,6 @@ Quasiment aucune modularité
  - pas de gestion des dépendances
  - donc un gros fichiers JavaScript par page
 
-__Solutions :__
- 
-Gestionnaires de dépendances
- - npm
-
-Gestion des imports
- - RequireJS
- - ECMAScript 6
-
 
 ===
 
@@ -102,12 +86,6 @@ Gestion des imports
 
 jQuery est une librairie, pas un *framework*
  - pas de cadre de développement structuré
-
-__Solution :__
-
-*Frameworks* (hors sujet)
- - React
- - Angular
 
 
 ===
