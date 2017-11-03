@@ -35,7 +35,7 @@ Branche `javascript-version`
 
  1. Démarrer SolR (`npm start` dans `npm solr/`) si nécessaire.
  2. Démarrer Tomcat
- 3. [http://localhost:8080/demo-js/accueil](http://localhost:8080/demo-js/demo-js/accueil)
+ 3. [http://localhost:8080/demo-js/accueil](http://localhost:8080/demo-js/accueil)
 
 ### Version Webpack
 
