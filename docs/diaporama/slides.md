@@ -44,6 +44,14 @@
 
 <!-- .slide: data-background-image="images/webpack-2.png" data-background-size="600px" class="chapter" -->
 ## 2
+### Démonstration
+
+
+===
+
+
+<!-- .slide: data-background-image="images/webpack-2.png" data-background-size="600px" class="chapter" -->
+## 3
 ### Limites du modèle
 
 
@@ -102,6 +110,31 @@ __Solution :__
  - Angular
 
 
+===
+
+
+<!-- .slide: data-background-image="images/webpack-2.png" data-background-size="600px" class="chapter" -->
+## 4
+### Outils
+
+
+===
+
+
+<!-- .slide: class="slide" -->
+### NodeJS
+
+*Runtime* JavaScript
+ - exécute du JS en dehors d’un navigateur
+  - permet donc tout le reste 
+ - basé sur V8 de Google
+ - de plus en plus utilisé côté serveur
+  - plus léger que Tomcat et autre
+  - développer en JS côté serveur et client 
+
+<div class="center">
+    <img src="images/nodejs.png" />
+</div>
 
 ===
 
@@ -116,11 +149,10 @@ __Webpack permet de mettre en œuvre ces solutions__
 Y compris dans les applications déjà développées « à l’ancienne »
 
 
-
 ===
 
 
 <!-- .slide: data-background-image="images/webpack-2.png" data-background-size="600px" class="chapter" -->
-## 3
+## 5
 ### Démonstration
 
