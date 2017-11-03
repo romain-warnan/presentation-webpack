@@ -1,0 +1,23 @@
+.fiche {
+  background-color: #d0e0f4;
+  position: absolute;
+  right: 0;
+  overflow: auto;
+  width: calc(80% - 21px);
+  height: 100%;
+  padding: 5px;
+
+  .titre {
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+  }
+
+  .paragraphe {
+    .titre {
+    }
+    .contenu {
+    }
+  }
+}

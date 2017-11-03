@@ -1,0 +1,15 @@
+ul li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+
+html {
+  height: 100%; }
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0; }
+
+#application {
+  height: 100%; }
