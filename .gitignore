@@ -9,3 +9,4 @@ yarn.lock
 *.class
 classes/
 src/main/resources/solr/nafrev2/data/
+docs/
