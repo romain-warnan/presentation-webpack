@@ -42,16 +42,75 @@
 ===
 
 
+<!-- .slide: data-background-image="images/webpack-2.png" data-background-size="600px" class="chapter" -->
+## 2
+### Limites du modèle
+
+
+===
+
+
 <!-- .slide: class="slide" -->
-### Webpack diapo 2
+### ECMAScript 5
 
-```bash
-git clone git@github.com:romain-warnan/git-au-quotidien.git
-cd git-au-quotidien
-```
+ECMAScript 5 encore largement répandu dans les navigateurs en circulation
+ - nombreuse fonctionnalités manquantes
+ - syntaxe absconse
 
-Différence majeure par rapport à SVN
- - le dépôt entier est cloné : y compris l’historique
-  - répertoire `.git/`
-  - `git log`
- - dépôt local ≠ dépôt distant
+__Solution :__
+
+Transpilation
+ - compilation source à source
+ - ex. : ES2016 vers ES5
+ - Babel
+
+
+===
+
+
+<!-- .slide: class="slide" -->
+### Modularité
+
+Quasiment aucune modularité
+ - pas de système sérieux de gestion des imports
+ - pas de gestion des dépendances
+ - donc un gros fichiers JavaScript par page
+
+__Solutions :__
+ 
+Gestionnaires de dépendances
+ - npm
+
+Gestion des imports
+ - RequireJS
+ - ECMAScript 6
+
+
+===
+
+
+<!-- .slide: class="slide" -->
+### Structuration du code
+
+jQuery est une librairie, pas un *framework*
+ - pas de cadre de développement structuré
+
+__Solution :__
+
+*Frameworks* (hors sujet)
+ - React
+ - Angular
+
+
+
+===
+
+
+<!-- .slide: class="slide" -->
+### Webpack
+
+__Webpack permet de mettre en œuvre ces solutions__
+ - et plus encore :
+  - css, obfuscation, débugage, rechargement à la volée…
+
+Y compris dans les applications déjà développées « à l’ancienne »
