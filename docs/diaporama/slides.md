@@ -107,8 +107,8 @@ jQuery est une librairie, pas un *framework*
   - permet donc tout le reste 
  - basé sur V8 de Google
  - de plus en plus utilisé côté serveur
-  - plus léger que Tomcat et autre
-  - développer en JS côté serveur et client 
+  - plus léger que Tomcat et autres
+  - développer en JS côté client et serveur 
 
 <div class="center">
     <img src="images/nodejs.png" style="width: 200px;" />
