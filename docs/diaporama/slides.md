@@ -51,7 +51,7 @@
 
 
 <!-- .slide: class="slide" -->
-### ECMAScript 5
+### Les navigateurs
 
 ECMAScript 5 encore largement répandu dans les navigateurs en circulation
  - nombreuse fonctionnalités manquantes
@@ -114,3 +114,13 @@ __Webpack permet de mettre en œuvre ces solutions__
   - css, obfuscation, débugage, rechargement à la volée…
 
 Y compris dans les applications déjà développées « à l’ancienne »
+
+
+
+===
+
+
+<!-- .slide: data-background-image="images/webpack-2.png" data-background-size="600px" class="chapter" -->
+## 3
+### Démonstration
+
