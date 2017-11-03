@@ -62,7 +62,7 @@ Code historique
 ### Les navigateurs
 
 ECMAScript 5 encore largement répandu dans les navigateurs en circulation
- - nombreuse fonctionnalités manquantes
+ - nombreuse fonctionnalités manquantes ou «non-natives»
  - syntaxe absconse
 
 
