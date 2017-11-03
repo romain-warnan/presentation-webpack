@@ -133,8 +133,76 @@ __Solution :__
   - développer en JS côté serveur et client 
 
 <div class="center">
-    <img src="images/nodejs.png" />
+    <img src="images/nodejs.png" style="width: 200px;" />
 </div>
+
+
+===
+
+
+<!-- .slide: class="slide" -->
+### npm
+
+Gestionnaire de paquet
+ - *node package manager*
+ - gestion des dépendances
+
+<div class="center">
+    <img src="images/npm.png" style="width: 200px;" />
+</div>
+
+
+===
+
+
+<!-- .slide: class="slide" -->
+### Yarn
+
+Remplace peu à peu npm
+ - plus rapide
+ - `npm install yarn -g`
+
+<div class="center">
+    <img src="images/yarn.png" style="width: 200px;" />
+</div>
+
+
+===
+
+
+<!-- .slide: class="slide" -->
+### ECMAScript
+
+Normalisation du langage
+
+Une nouvelle version tous les ans
+ - les navigateurs ne peuvent pas suivre
+ - les entreprises encore moins
+
+Quelques caractéristiques
+ - langage de script sans typage
+ - orienté programmation fonctionnelle
+
+<div class="center">
+    <img src="images/es6.svg" style="width: 150px;" />
+</div>
+
+
+===
+
+
+<!-- .slide: class="slide" -->
+### Babel
+
+Transpilation
+ - compilation source à source
+ - vers ES5 en général
+ - ex. : ES2016 vers ES5
+
+<div class="center">
+    <img src="images/babel.png" style="width: 200px;" />
+</div>
+
 
 ===
 
@@ -142,11 +210,15 @@ __Solution :__
 <!-- .slide: class="slide" -->
 ### Webpack
 
-__Webpack permet de mettre en œuvre ces solutions__
+__Webpack permet d’utiliser simplement tous ces outils__
  - et plus encore :
   - css, obfuscation, débugage, rechargement à la volée…
 
 Y compris dans les applications déjà développées « à l’ancienne »
+
+<div class="center">
+    <img src="images/webpack.png" style="width: 200px;" />
+</div>
 
 
 ===
