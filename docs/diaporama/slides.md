@@ -45,7 +45,7 @@
 <!-- .slide: data-background-image="images/webpack-2.png" data-background-size="600px" class="chapter" -->
 ## 2
 ### Démonstration
-
+Code historique
 
 ===
 
@@ -227,4 +227,5 @@ Y compris dans les applications déjà développées « à l’ancienne »
 <!-- .slide: data-background-image="images/webpack-2.png" data-background-size="600px" class="chapter" -->
 ## 5
 ### Démonstration
+Code avec Webpack
 
