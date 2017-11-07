@@ -1,45 +1,85 @@
-import { getJson } from "./../fetch/fetch-api";
-import { getSousNiveau, getSurNiveau } from "./../model/nomenclature-niveaux";
-import fetchFiche from "./../store/get-fiche";
+import { fetchFiche, fetchFiches, fetchSections } from "./../store/get-fiche";
+import { startWaiting, stopWaiting } from "./app-actions";
 
-export const LOAD_SECTIONS = "__LOAD_SECTIONS__";
-export const SECTIONS_LOADED = "__SECTIONS_LOADED__";
-export const OPEN_FICHE = "__OPEN_FICHE__";
-export const OPEN_FICHE_DONE = "__OPEN_FICHE_DONE__";
+export const SHOW_FICHE = "__SHOW_FICHE__";
+export const SHOW_FICHE_DONE = "__SHOW_FICHE_DONE__";
+export const SHOW_FICHE_RACINE_DONE = "__SHOW_FICHE_RACINE_DONE__";
 
-export const HOST_PATH = process.env.REACT_APP_WS_NAFREV2_HOST;
+export const OPEN_SECTIONS = "__OPEN_SECTIONS__";
+export const OPEN_SECTIONS_DONE = "__OPEN_SECTIONS_DONE__";
+export const CLOSE_FICHE = "__CLOSE_FICHE__";
+export const CLOSE_FICHE_DONE = "__CLOSE_FICHE_DONE__";
 
-export const loadSections = () => (dispatch, getState) => {
-  getJson(`${HOST_PATH}/sections`).then(sections => {
-    const promises = Object.keys(sections).map(code => fetchFiche(code, "section"));
-    Promise.all(promises).then(sections => {
-      dispatch(sectionsLoaded(sections));
-    });
+export const openSections = fiche => (dispatch, getState) => {
+  dispatch(startWaiting());
+  fetchSections_(getState().nomenclatureReducer.ficheActive).then(result => {
+    const { sections, ficheActive } = result;
+    dispatch(stopWaiting());
+    dispatch(openSectionsDone(sections, ficheActive));
   });
 };
 
-const sectionsLoaded = sections => ({ type: SECTIONS_LOADED, sections });
+const fetchSections_ = async ficheActiveFille => {
+  const sections = await fetchSections();
+  let ficheActive = ficheActiveFille;
+  if (ficheActiveFille.parents && ficheActiveFille.parents.length > 0) {
+    ficheActive = await fetchFiche(ficheActiveFille.parents[ficheActiveFille.parents.length - 1]);
+  }
 
-export const openFiche = fiche => (dispatch, getState) => {
-  if (fiche.niveau === "section") {
-    fetchFiche(fiche.code, "section").then(fiche => {
-      fetchChildren(fiche, dispatch);
+  return { sections, ficheActive };
+};
+
+export const closeFiche = fiche => (dispatch, getState) => {
+  const parent = fiche.parents.length > 0 ? fiche.parents[fiche.parents.length - 1] : null;
+  if (parent) {
+    dispatch(startWaiting());
+    fetchParent(parent).then(result => {
+      dispatch(stopWaiting());
+      const { items, selection } = result;
+      dispatch(closeFicheDone(items, selection, fiche));
     });
-  } else if (fiche.niveau !== "sousClasse") {
-    fetchChildren(fiche, dispatch);
+  } else {
+    dispatch(closeFicheDone(getState().nomenclatureReducer.sections, null, fiche));
   }
 };
 
-const fetchChildren = (fiche, dispatch) => {
-  if (fiche.enfants) {
-    const niveau = getSousNiveau(fiche.niveau);
-    if (niveau) {
-      const promises = fiche.enfants.map(code => fetchFiche(code, niveau));
-      Promise.all(promises).then(enfants => {
-        dispatch(openFicheDone(fiche, enfants));
-      });
+const openSectionsDone = (sections, ficheActive) => ({ type: OPEN_SECTIONS_DONE, sections, ficheActive });
+const closeFicheDone = (items, selection, ficheActive) => ({ type: CLOSE_FICHE_DONE, items, selection, ficheActive });
+
+/* ** */
+export const showFiche = code => (dispatch, getState) => {
+  dispatch(startWaiting());
+  fetchFiche_(code).then(result => {
+    dispatch(stopWaiting());
+    const { fiche } = result;
+    if (fiche.enfants.length === 0) {
+      const { parent, enfants } = result;
+      dispatch(showFicheRacineDone(fiche, parent, enfants));
+    } else {
+      const { enfants } = result;
+      dispatch(showFicheDone(fiche, enfants));
     }
+  });
+};
+
+const fetchFiche_ = async code => {
+  const fiche = await fetchFiche(code);
+  if (fiche.enfants.length === 0) {
+    const parent = await fetchFiche(fiche.parents[fiche.parents.length - 1]);
+    const enfants = await fetchFiches(parent.enfants);
+    return { fiche, enfants, parent };
+  } else {
+    const enfants = await fetchFiches(fiche.enfants);
+    return { fiche, enfants };
   }
 };
 
-const openFicheDone = (fiche, enfants) => ({ type: OPEN_FICHE_DONE, fiche, enfants });
+const showFicheDone = (fiche, enfants) => ({ type: SHOW_FICHE_DONE, fiche, enfants });
+const showFicheRacineDone = (fiche, parent, enfants) => ({ type: SHOW_FICHE_RACINE_DONE, fiche, parent, enfants });
+
+/* ***************************************************************************************************** */
+
+async function fetchParent(code) {
+  const parent = await fetchFiche(code);
+  return { selection: parent, items: await fetchFiches(parent.enfants) };
+}

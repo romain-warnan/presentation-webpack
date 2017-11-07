@@ -40,7 +40,7 @@ public class Nafrev2Loader {
 			}	
 			
 		} catch (ResourceException e) {
-			throw new SolrInseeException("hooo !, e");
+			throw new SolrInseeException("Impossible de charger la nafrev2.", e);
 		} finally {
 			serverFactory.shutdown();	
 		}

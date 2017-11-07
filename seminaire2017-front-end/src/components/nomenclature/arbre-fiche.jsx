@@ -1,25 +1,25 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import Fiche from "./fiche";
+import FicheSelection from "./fiche-selection";
 import "./arbre.css";
 
 class ArbreFiche extends Component {
   constructor(props) {
     super(props);
-    this.handleClikFiche = this.handleClikFiche.bind(this);
-    this.current = null;
+    this.handleClickBack = this.handleClickBack.bind(this);
   }
 
-  handleClikFiche(fiche, open) {
-    this.props.openFiche(fiche);
+  handleClickBack(fiche) {
+    this.props.closeFiche(fiche);
   }
-
-  componentWillMount() {}
 
   render() {
-    const { items, selection } = this.props;
-    const li = items.map((fiche, i) => <Fiche key={i + 1} open={false} fiche={fiche} handleClick={this.handleClikFiche} />);
-    const liSelection = selection ? <Fiche key={0} open={true} fiche={selection} handleClick={this.handleClikFiche} /> : null;
+    const { items, selection, ficheActive } = this.props;
+    const liSelection = selection ? (
+      <FicheSelection key={0} active={selection.code === ficheActive.code} fiche={selection} handleClick={this.handleClickBack} />
+    ) : null;
+    const li = items.map((fiche, i) => <Fiche key={i + 1} indent={fiche.parents.length > 0} active={fiche.code === ficheActive.code} fiche={fiche} />);
     return (
       <ul className="racine">
         {liSelection}
@@ -31,7 +31,9 @@ class ArbreFiche extends Component {
 
 ArbreFiche.propTypes = {
   selection: PropTypes.object,
-  items: PropTypes.array.isRequired
+  items: PropTypes.array.isRequired,
+  code: PropTypes.string,
+  niveau: PropTypes.string
 };
 
 export default ArbreFiche;

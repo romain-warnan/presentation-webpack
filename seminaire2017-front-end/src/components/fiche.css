@@ -11,3 +11,6 @@
     font-weight: bold;
     margin-top: 0.67em;
     margin-bottom: 0.67em; }
+  .fiche .selected {
+    background-color: #3d6699 !important;
+    color: white; }

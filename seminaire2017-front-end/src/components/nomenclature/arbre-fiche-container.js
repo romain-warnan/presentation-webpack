@@ -1,15 +1,15 @@
 import { connect } from "react-redux";
-import { openFiche } from "./../../actions/nomenclature-actions";
 import ArbreFiche from "./arbre-fiche";
+import { closeFiche } from "./../../actions/nomenclature-actions";
 
-const arbreFicheProps = state => {
-  const { selection, items } = state.nomenclatureReducer;
-  return { selection, items };
+const arbreFicheProps = (state, ownProps) => {
+  const { selection, items, ficheActive } = state.nomenclatureReducer;
+  return { selection, items, ficheActive };
 };
 
 const arbreFicheDispatch = dispatch => ({
-  openFiche: fiche => {
-    dispatch(openFiche(fiche));
+  closeFiche: fiche => {
+    dispatch(closeFiche(fiche));
   }
 });
 

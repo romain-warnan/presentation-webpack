@@ -1,12 +1,15 @@
 import { connect } from "react-redux";
-import { loadSections } from "./../../actions/nomenclature-actions";
+import { openSections, showFiche } from "./../../actions/nomenclature-actions";
 import Nomenclature from "./nomenclature";
 
 const nomenclatureProps = state => ({});
 
 const nomenclatureDispatch = dispatch => ({
-  loadSections: () => {
-    dispatch(loadSections());
+  openSections: () => {
+    dispatch(openSections());
+  },
+  showFiche: code => {
+    dispatch(showFiche(code));
   }
 });
 
