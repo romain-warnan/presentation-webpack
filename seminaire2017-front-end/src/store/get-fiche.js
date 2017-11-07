@@ -4,7 +4,7 @@ const LOCAL_STORE = new Map();
 let LOCAL_SECTION = null;
 const HOST_PATH = process.env.REACT_APP_WS_NAFREV2_HOST;
 
-export const fetchFiche = async code => {
+export const fetchFiche = code => {
   let promise = null;
   if (LOCAL_STORE.has(code)) {
     promise = new Promise(resolve => {
@@ -17,7 +17,7 @@ export const fetchFiche = async code => {
     });
   }
 
-  return await promise;
+  return promise;
 };
 
 export const fetchFiches = codes => {

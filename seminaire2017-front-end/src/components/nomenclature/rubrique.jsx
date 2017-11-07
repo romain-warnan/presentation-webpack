@@ -2,12 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 import "./rubrique.css";
 
-//      <h1 id="titre-fiche" class="titre"></h1>
-// 			<div id="note-generale" class="paragraphe">
-// 				<h2 class="titre">Note générale :</h2>
-// 				<div class="contenu"></div>
-// 			</div>
-
 const Paragraphe = ({ title, content }) => (
   <div className="paragraphe">
     <h2 className="titre">{`${title} : `}</h2>
