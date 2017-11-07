@@ -34,8 +34,6 @@ Fiche.propTypes = {
     libelle: PropTypes.string.isrequired,
     niveau: PropTypes.string.isrequired
   })
-
-  // handleClick: PropTypes.func.isRequired
 };
 
 export default Fiche;

@@ -1,5 +1,7 @@
 import React, { Component } from "react";
+import PropTypes from "prop-types";
 import ArbreFiche from "./arbre-fiche-container";
+import Rubrique from "./rubrique-container";
 
 class Nomenclature extends Component {
   componentWillMount() {
@@ -25,11 +27,18 @@ class Nomenclature extends Component {
       <div key="fiches" className="fiches">
         <ArbreFiche />
       </div>,
-      <div key="fiche" className="fiche">
-        fiche
-      </div>
+
+      <Rubrique key="rubrique" />
     ];
   }
 }
+
+Nomenclature.propTypes = {
+  rubrique: PropTypes.shape({
+    code: PropTypes.string.isRequired,
+    libelle: PropTypes.string.isrequired,
+    niveau: PropTypes.string.isrequired
+  })
+};
 
 export default Nomenclature;
