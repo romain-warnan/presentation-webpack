@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import removeAccents from "remove-accents";
 import { Highlight } from "./../autocomplete/default-suggestion";
 import { fetchFiche } from "./../../store/get-fiche";
 

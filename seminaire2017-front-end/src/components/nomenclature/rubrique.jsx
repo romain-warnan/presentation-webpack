@@ -1,13 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
+import Paragraphe from "./../commons/paragraphe";
 import "./rubrique.css";
-
-const Paragraphe = ({ title, content }) => (
-  <div className="paragraphe">
-    <h2 className="titre">{`${title} : `}</h2>
-    <div className="contenu" dangerouslySetInnerHTML={{ __html: content }} />
-  </div>
-);
 
 const Rubrique = ({ fiche }) => {
   if (fiche.code) {
@@ -30,7 +24,7 @@ const Rubrique = ({ fiche }) => {
 
 Rubrique.propTypes = {
   fiche: PropTypes.shape({
-    code: PropTypes.string.isRequired,
+    code: PropTypes.string,
     libelle: PropTypes.string.isrequired,
     niveau: PropTypes.string.isrequired
   })

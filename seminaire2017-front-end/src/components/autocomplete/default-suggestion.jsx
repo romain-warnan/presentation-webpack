@@ -3,12 +3,8 @@ import PropTypes from "prop-types";
 import removeAccents from "remove-accents";
 
 class DefaultSuggestion extends Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
-    const { label, value } = this.props.item;
+    const { label } = this.props.item;
     const tokens = this.props.prefix.split(" ");
     return (
       <div className="suggestion">

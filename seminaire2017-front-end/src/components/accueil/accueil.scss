@@ -4,8 +4,6 @@
 
     .items-liste {
       background-color: rgb(35, 41, 51);
-      padding-left: 0;
-      padding-right: 0;
     }
 
     .suggestion {
@@ -42,5 +40,12 @@
         }
       }
     }
+  }
+
+  .rubrique {
+    width: 80%;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }

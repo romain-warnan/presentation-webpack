@@ -91,7 +91,7 @@ class Autocomplete extends Component {
       </div>
     ) : null;
     return (
-      <div className="autocomplete" onFocus={this.handleFocus} onBlur={this.handleBlur}>
+      <div className="insee-autocomplete" onFocus={this.handleFocus} onBlur={this.handleBlur}>
         <div className="input-zone">
           {iconeCross}
           <input type="text" placeholder="Veuillez saisir..." onChange={this.handleChange} value={this.state.value} />
