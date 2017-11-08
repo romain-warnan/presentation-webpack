@@ -13,7 +13,9 @@
     "react-router-dom": "4.2.2",
     "react-scripts": "1.0.14",
     "redux": "^3.7.2",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.2.0",
+    "remove-accents": "^0.4.2",
+    "string-tokenizer": "^0.0.8"
   },
   "scripts": {
     "build-css": "node-sass-chokidar src/ -o src/",

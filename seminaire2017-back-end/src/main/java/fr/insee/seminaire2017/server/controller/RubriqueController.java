@@ -1,6 +1,8 @@
 package fr.insee.seminaire2017.server.controller;
 
 import java.util.List;
+import java.util.StringTokenizer;
+import java.util.stream.Stream;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -11,6 +13,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+
+import com.google.common.collect.Streams;
 
 import fr.insee.seminaire2017.model.Rubrique;
 import fr.insee.seminaire2017.model.RubriqueRepo;
@@ -32,9 +36,17 @@ public class RubriqueController {
 	private RubriqueResource rubriqueResource;
 	
 	@GetMapping("/search")
-	public List<Rubrique> search(@RequestParam(value = "q", required = false, defaultValue = "*:*") String q) throws SolrInseeException{
-		logger.info("search " + q);
-		return rubriqueRepo.search(q);
+	public List<Rubrique> search(@RequestParam(value = "q", required = false, defaultValue = "*:*") String q) throws SolrInseeException{		
+		StringBuilder query = new StringBuilder();
+		StringTokenizer st = new StringTokenizer(q);
+		while (st.hasMoreTokens()) {
+			String token = st.nextToken();
+			query.append(token).append(" ").append(token).append("* ");
+		}
+
+		logger.info("recherche initiale " + q);
+		logger.info("recherche effective " + query);
+		return rubriqueRepo.search(query.toString());
 	}
 	
 	@GetMapping("/sections")
