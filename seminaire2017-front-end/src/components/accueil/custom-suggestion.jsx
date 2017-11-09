@@ -9,7 +9,7 @@ class ItemSuggestion extends Component {
     this.state = { niveau: null, code: null, libelle: null, ready: false };
   }
 
-  componentWillMount() {
+  componentDidMount() {
     fetchFiche(this.props.item.value).then(fiche => {
       this.setState({ ready: true, code: fiche.code, libelle: fiche.libelle, niveau: fiche.niveau });
     });
