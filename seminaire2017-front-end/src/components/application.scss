@@ -7,6 +7,7 @@ ul li {
 html {
   height: 100%;
 }
+
 body {
   height: 100%;
   margin: 0;
@@ -18,35 +19,37 @@ body {
 }
 
 .nav-bar {
-  margin: 4px;
-  a {
-    text-decoration: none;
-  }
-  .active {
-    display: inline-block;
-    margin: 1px;
-    padding: 8px 15px;
-    border-radius: 4px;
-    background-color: #4479ba;
-    color: #fff;
-    &:hover {
-      background-color: gray;
-      color: white;
-      border-radius: 4px;
+  background-color: LightGray;
+  padding: 5px 10px;
+  .liens {
+    a {
+      text-decoration: none;
+      margin-right: 2px;
     }
-  }
-
-  .inactive {
-    display: inline-block;
-    margin: 1px;
-    margin: 1px;
-    padding: 8px 15px;
-    color: gray;
-    background-color: white;
-    &:hover {
-      background-color: gray;
-      color: white;
+    .active {
+      display: inline-block;
+      padding: 8px 15px;
       border-radius: 4px;
+      background-color: #4479ba;
+      color: #fff;
+      &:hover {
+        background-color: gray;
+        color: white;
+        border-radius: 4px;
+      }
+    }
+
+    .inactive {
+      display: inline-block;
+      padding: 8px 15px;
+      border-radius: 4px;
+      color: gray;
+      background-color: white;
+      &:hover {
+        background-color: gray;
+        color: white;
+        border-radius: 4px;
+      }
     }
   }
 }

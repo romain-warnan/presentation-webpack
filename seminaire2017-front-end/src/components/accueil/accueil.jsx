@@ -3,7 +3,8 @@ import React, { Component } from "react";
 import Paragraphe from "./../commons/paragraphe";
 import Autocomplete from "./../autocomplete/autocomplete";
 import ItemSuggestion from "./custom-suggestion";
-import { fetchSuggestion } from "./../../store/fetch-suggestion";
+import { PageHeader } from "react-bootstrap";
+import { fetchSuggestion } from "./../../store/fetch-solr";
 import { Panel } from "react-bootstrap";
 import "./accueil.css";
 
@@ -19,7 +20,7 @@ const Rubrique = ({ fiche }) => {
   const comprend = fiche.comprend ? <Paragraphe title="Comprend" content={fiche.comprend} /> : null;
   const neComprendPas = fiche.neComprendPas ? <Paragraphe title="Ne comprend pas" content={fiche.neComprendPas} /> : null;
   return (
-    <Panel header={`${niveau} ${code} ${libelle}`}>
+    <Panel header={`${niveau} ${code} – ${libelle}`} bsStyle="primary">
       {noteGenerale}
       {comprend}
       {neComprendPas}
@@ -40,7 +41,7 @@ class Accueil extends Component {
     const rubrique = this.props.fiche.code != null ? <Rubrique fiche={this.props.fiche} /> : null;
     return (
       <div className="accueil">
-        <h1>Consulter la nafrev2 avec react et redux</h1>
+        <PageHeader>Consulter la nafrev2 avec react et redux</PageHeader>
 
         <div className="suggestions">
           <Autocomplete suggestionProvider={suggestionProvider} onSelect={this.handleSelect} itemComponent={ItemSuggestion} />

@@ -5,6 +5,7 @@ import Rubrique from "./rubrique-container";
 
 class Nomenclature extends Component {
   componentWillMount() {
+    this.props.setNavIndex(2);
     if (this.props.match.path === "/nomenclature/sections") {
       this.props.openSections();
     } else {

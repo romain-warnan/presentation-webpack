@@ -8,6 +8,7 @@ import java.util.stream.Collectors;
 import org.apache.solr.client.solrj.SolrClient;
 import org.apache.solr.client.solrj.SolrQuery;
 import org.apache.solr.client.solrj.SolrServerException;
+import org.apache.solr.client.solrj.SolrQuery.SortClause;
 import org.apache.solr.client.solrj.beans.Field;
 import org.apache.solr.client.solrj.response.QueryResponse;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,11 +16,14 @@ import org.springframework.stereotype.Component;
 
 import com.google.common.collect.Lists;
 
+import fr.insee.seminaire2017.solr.params.SortParam;
+import fr.insee.seminaire2017.solr.server.Repository;
+import fr.insee.seminaire2017.solr.server.Response;
 import fr.insee.seminaire2017.solr.server.ServerFactory;
 import fr.insee.seminaire2017.solr.server.SolrInseeException;
 
 @Component
-public class RubriqueRepo {
+public class RubriqueRepo implements Repository<Rubrique> {
 	
 	@Autowired
 	private ServerFactory serverFactory;
@@ -62,6 +66,31 @@ public class RubriqueRepo {
 	   
 	}
 	
+
+	@Override
+	public Response<Rubrique> find(String query, int start, int rows,List<SortParam> sortParams) throws SolrInseeException {
+		try {
+			SolrClient client = serverFactory.getServer();
+			SolrQuery sq = new SolrQuery();
+			sq.setRequestHandler("/nomenclature");
+		    sq.setQuery(query);
+		    sq.setStart(start);
+		    sq.setRows(rows);
+		    sq.setSorts(sortParams.stream().map(s -> new SortClause(s.getId(), s.getOrder().name())).collect(Collectors.toList()));		    
+		    
+		    QueryResponse rsp = client.query(sq);	
+		    List<Rubrique> documents = rsp.getBeans(SolrBean.class).stream().map(SolrBean::makeRubrique).collect(Collectors.toList());
+		   		    
+			return Response.<Rubrique>newInstance()
+					.setDocuments(documents)
+					.setNumFounds(rsp.getResults().getNumFound()).setRows(rows)
+					.setStart(start)
+					.build();
+			
+		} catch (SolrServerException | IOException e) {
+			throw new SolrInseeException("hooo !", e);
+		}
+	}
 	
 	public Rubrique getRubrique(String id) throws SolrInseeException{
 		try {
@@ -252,4 +281,7 @@ public class RubriqueRepo {
 			}
 		}
 	}
+
+
+
 }

@@ -2,7 +2,6 @@ package fr.insee.seminaire2017.server.controller;
 
 import java.util.List;
 import java.util.StringTokenizer;
-import java.util.stream.Stream;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -10,16 +9,19 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.google.common.collect.Streams;
 
 import fr.insee.seminaire2017.model.Rubrique;
 import fr.insee.seminaire2017.model.RubriqueRepo;
 import fr.insee.seminaire2017.resources.ResourceException;
 import fr.insee.seminaire2017.resources.RubriqueResource;
+import fr.insee.seminaire2017.solr.params.SearchParam;
+import fr.insee.seminaire2017.solr.server.Response;
 import fr.insee.seminaire2017.solr.server.SolrInseeException;
 
 @CrossOrigin(origins = "*")
@@ -35,7 +37,7 @@ public class RubriqueController {
 	@Autowired
 	private RubriqueResource rubriqueResource;
 	
-	@GetMapping("/search")
+	@GetMapping("/suggestions")
 	public List<Rubrique> search(@RequestParam(value = "q", required = false, defaultValue = "*:*") String q) throws SolrInseeException{		
 		StringBuilder query = new StringBuilder();
 		StringTokenizer st = new StringTokenizer(q);
@@ -47,6 +49,11 @@ public class RubriqueController {
 		logger.info("recherche initiale " + q);
 		logger.info("recherche effective " + query);
 		return rubriqueRepo.search(query.toString());
+	}
+	
+	@PostMapping("/recherche")	
+	public Response<Rubrique> recherche(@RequestBody SearchParam params) throws SolrInseeException{	
+		return rubriqueRepo.find(params.getQ(),params.getStart(),params.getRows(),params.getSortParams());
 	}
 	
 	@GetMapping("/sections")
