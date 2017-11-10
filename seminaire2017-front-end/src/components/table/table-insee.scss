@@ -1,4 +1,16 @@
 .table-insee {
+  .paginer {
+    position: relative;
+    display: bloack;
+    clear: both;
+
+    .rows {
+      float: right;
+      width: 80px;
+      display: inline-block;
+    }
+  }
+
   .sortable {
     position: relative;
     .icone {
@@ -15,4 +27,22 @@
       }
     }
   }
+}
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+.clearfix {
+  display: block;
+}
+html[xmlns].clearfix {
+  display: block;
+}
+*.clearfix {
+  height: 1%;
 }

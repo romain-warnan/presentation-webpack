@@ -42,6 +42,16 @@ public class SearchParam implements Serializable {
 		this.sortParams = sortParams;
 	}
 	
-	
+	public static class Builder {
+		private SearchParam s;
+		
+		private Builder(){
+			s = new SearchParam();
+		}
+		
+		public SearchParam build(){
+			return s;
+		}
+	}
 
 }

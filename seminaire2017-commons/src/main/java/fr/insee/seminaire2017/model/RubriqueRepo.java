@@ -3,6 +3,7 @@ package fr.insee.seminaire2017.model;
 import java.io.IOException;
 import java.io.Serializable;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 import org.apache.solr.client.solrj.SolrClient;
@@ -14,6 +15,7 @@ import org.apache.solr.client.solrj.response.QueryResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.Lists;
 
 import fr.insee.seminaire2017.solr.params.SortParam;
@@ -24,6 +26,19 @@ import fr.insee.seminaire2017.solr.server.SolrInseeException;
 
 @Component
 public class RubriqueRepo implements Repository<Rubrique> {
+	
+	
+	public static Map<String, String> fields;
+	
+	
+	static{
+		fields = ImmutableMap.<String, String> builder()
+		      .put("code", "nomenclature_code")
+		      .put("libelle", "nomenclature_libelle")
+		      .put("niveau", "nomenclature_niveau")
+		      .put("id", "id")
+		      .build();
+	}
 	
 	@Autowired
 	private ServerFactory serverFactory;

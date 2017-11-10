@@ -6,8 +6,8 @@ export const fetchSuggestion = prefix => {
   return getJson(`${HOST_PATH}/nomenclature/suggestions?q=${encodedPrefix}`);
 };
 
-export const fetchSolrRubrique = (q, start, rows) => {
+export const fetchSolrRubrique = (q, start, rows, sortParams) => {
   const encodedPrefix = encodeURIComponent(q);
 
-  return postJson(`${HOST_PATH}/nomenclature/recherche`, { q, start, rows });
+  return postJson(`${HOST_PATH}/nomenclature/recherche`, { q, start, rows, sortParams });
 };

@@ -5,27 +5,26 @@ import TableInsee, { Colonne } from "./../table/table-insee";
 import { fetchSolrRubrique } from "./../../store/fetch-solr";
 import "./recherche.css";
 
-const ROWS = 3;
-
-const rubriquesPromiseBuilder = q => indexPage => {
-  const start = ROWS * indexPage;
-  const rows = ROWS;
-  return fetchSolrRubrique(q, start, rows).then(response => {
+const rubriquesPromiseBuilder = q => (indexPage, sortables = [], rows) => {
+  const start = rows * indexPage;
+  return fetchSolrRubrique(q, start, rows, sortables).then(response => {
     return {
       nbPages: Math.trunc(response.numFounds / rows) + (response.numFounds % rows > 0 ? 1 : 0),
       nbLignes: rows,
       page: start / rows,
-      documents: response.documents
+      documents: response.documents,
+      nbLignesTotal: response.numFounds
     };
   });
 };
 
-const nullPromiseBuilder = indexPage => {
+const nullPromiseBuilder = () => {
   return new Promise(resolve => {
     resolve({
       nbPages: 0,
       nbLignes: 0,
       page: 0,
+      nbLignesTotal: 0,
       documents: []
     });
   });
@@ -76,7 +75,7 @@ class Recherche extends Component {
         </div>
         <TableInsee dataProvider={this.state.dataProvider}>
           <Colonne label="code" id="code" sortable={true} />
-          <Colonne label="niveau" id="niveau" />
+          <Colonne label="niveau" id="niveau" sortable={true} />
           <Colonne label="libelle" id="libelle" />
         </TableInsee>
       </div>

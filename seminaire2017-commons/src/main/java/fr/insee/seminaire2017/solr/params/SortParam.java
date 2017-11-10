@@ -29,7 +29,31 @@ public class SortParam implements Serializable{
 		this.order = order;
 	}
 
-
+	public static Builder newInstance(){
+		return new Builder();
+	}
+	
+	public static class Builder {
+		private SortParam s;
+		
+		private Builder(){
+			s = new SortParam();
+		}
+		
+		public Builder setId(String id) {
+			s.id = id;
+			return this;
+		}
+		
+		public Builder setOrder(ORDER order) {
+			s.order = order;
+			return this;
+		}
+		
+		public SortParam build(){
+			return s;
+		}
+	}
 
 
 	/* *** */

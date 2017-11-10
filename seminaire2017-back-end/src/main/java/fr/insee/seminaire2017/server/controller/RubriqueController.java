@@ -2,7 +2,10 @@ package fr.insee.seminaire2017.server.controller;
 
 import java.util.List;
 import java.util.StringTokenizer;
+import java.util.stream.Collector;
+import java.util.stream.Collectors;
 
+import org.apache.solr.common.params.SolrParams;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -21,6 +24,7 @@ import fr.insee.seminaire2017.model.RubriqueRepo;
 import fr.insee.seminaire2017.resources.ResourceException;
 import fr.insee.seminaire2017.resources.RubriqueResource;
 import fr.insee.seminaire2017.solr.params.SearchParam;
+import fr.insee.seminaire2017.solr.params.SortParam;
 import fr.insee.seminaire2017.solr.server.Response;
 import fr.insee.seminaire2017.solr.server.SolrInseeException;
 
@@ -53,7 +57,11 @@ public class RubriqueController {
 	
 	@PostMapping("/recherche")	
 	public Response<Rubrique> recherche(@RequestBody SearchParam params) throws SolrInseeException{	
-		return rubriqueRepo.find(params.getQ(),params.getStart(),params.getRows(),params.getSortParams());
+		return rubriqueRepo.find(params.getQ(),params.getStart(),params.getRows(),params.getSortParams().stream()
+				.map(sp -> SortParam.newInstance()
+						.setOrder(sp.getOrder())
+						.setId(RubriqueRepo.fields.get(sp.getId())).build())
+				.collect(Collectors.toList()));
 	}
 	
 	@GetMapping("/sections")

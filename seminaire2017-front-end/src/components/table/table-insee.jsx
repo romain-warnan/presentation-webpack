@@ -1,17 +1,35 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import { Table, Pagination } from "react-bootstrap";
+import { Table, Pagination, FormControl, FormGroup, option, ControlLabel } from "react-bootstrap";
 import "./table-insee.css";
 
-// <th className="sortable">
-//   {label}
-//   {sortable ? <span className="icone">▼</span> : null}
-// </th>
+const SelectRows = ({ handleChange, rowsOptions }) => {
+  rowsOptions = Array.isArray(rowsOptions) && rowsOptions.length > 0 ? rowsOptions : [5, 10, 15, 20, 30, 50];
+  const options = rowsOptions.map((val, i) => (
+    <option key={i} value={val}>
+      {val}
+    </option>
+  ));
+  return (
+    <FormGroup controlId="formControlsSelectMultiple">
+      <FormControl
+        componentClass="select"
+        onChange={e => {
+          handleChange(e.target.value);
+        }}
+      >
+        {options}
+      </FormControl>
+    </FormGroup>
+  );
+};
 
+/* ** */
 export const Colonne = ({ label, id, sortable }) => {
   return null;
 };
 
+/* ** */
 const Cellule = ({ data, colonnes }) => {
   const td = colonnes.map((col, i) => {
     if (col.id in data) {
@@ -23,68 +41,122 @@ const Cellule = ({ data, colonnes }) => {
   return td;
 };
 
+/* ** */
+const Colonnes = ({ colonnes, handleSort }) => {
+  return [
+    colonnes.map((col, i) => {
+      const click = () => {
+        handleSort(col);
+      };
+      return (
+        <th className="sortable" key={i}>
+          {col.label}
+          {col.sortable ? (
+            col.order === "desc" ? (
+              <span className="icone" onClick={click}>
+                ▼
+              </span>
+            ) : (
+              <span className="icone" onClick={click}>
+                ▲
+              </span>
+            )
+          ) : null}
+        </th>
+      );
+    })
+  ];
+};
+
 /* *** */
 class TableInsee extends Component {
   constructor(props) {
     super(props);
     this.colonnes = null;
-    this.sortColonnes = null;
-    this.state = { documents: [], nbPages: 0, nbLignes: 0, page: 0 };
+    this.sortClauses = null;
+    this.mapSortClauses = {};
+    this.rows = 5;
+    this.state = { documents: [], nbPages: 0, nbLignes: 0, page: 0, nbLignesTotal: 0 };
     this.handleSelect = this.handleSelect.bind(this);
     this.handleSort = this.handleSort.bind(this);
+    this.handleRowsChange = this.handleRowsChange.bind(this);
   }
 
-  handleClick(id) {
-    this.sortColonnes.forEach(c => {
-      if (c.id === id) {
-      }
-    });
+  handleClick(id) {}
+
+  handleRowsChange(rows) {
+    this.rows = rows;
+    this.refresh(this.state.page);
   }
 
   componentWillMount() {
     // traitement des colonnes
     if (this.props.children) {
       if (Array.isArray(this.props.children)) {
-        this.colonnes = this.props.children.map(c => ({ label: c.props.label, id: c.props.id, sortable: c.props.sortable ? true : false, order: "asc" }));
-        this.sortColonnes = this.props.children.filter(c => c.props.sortable).map(c => c.props.id);
+        this.colonnes = this.props.children.map(c => ({ label: c.props.label, id: c.props.id, sortable: c.props.sortable ? true : false, order: "desc" }));
+        this.sortClauses = this.props.children.filter(c => c.props.sortable).map(c => ({ id: c.props.id, order: "desc" }));
+        this.mapSortClauses = this.sortClauses.reduce((map, clause) => {
+          map[clause.id] = clause;
+
+          return map;
+        }, {});
       } else {
         this.colonnes = {
           label: this.props.children.props.label,
           id: this.props.children.props.id,
-          sortable: this.props.children.props.sortable ? true : false
+          sortable: this.props.children.props.sortable ? true : false,
+          order: "asc"
         };
       }
     }
-    // traitement des lignes
-    if (typeof this.props.dataProvider === "function") {
-      this.props.dataProvider(0).then(result => {
-        this.setState({ documents: result.documents, nbPages: result.nbPages, nbLignes: result.nbLignes, page: result.page });
-      });
-    }
+    // traitement initial des lignes
+    this.refresh(0);
   }
 
   componentWillReceiveProps(nextProps) {
-    if (this.props.dataProvider !== nextProps.dataProvider) {
-      nextProps.dataProvider(0).then(result => {
-        this.setState({ documents: result.documents, nbPages: result.nbPages, nbLignes: result.nbLignes, page: result.page });
+    if (nextProps.dataProvider && nextProps.dataProvider != this.props.dataProvider) {
+      nextProps.dataProvider(0, this.sortClauses, this.rows).then(result => {
+        this.setState({ ...result });
       });
     }
   }
 
   handleSelect(page) {
+    this.refresh(page - 1);
+  }
+
+  refresh(page) {
     if (this.props.dataProvider) {
-      this.props.dataProvider(page - 1).then(result => {
-        this.setState({ documents: result.documents, nbPages: result.nbPages, nbLignes: result.nbLignes, page: result.page });
+      this.props.dataProvider(page, this.sortClauses, this.rows).then(result => {
+        this.setState({ ...result });
       });
     }
   }
 
-  handleSort(col) {
-    console.log(col);
+  handleSort(c) {
+    let other = [],
+      witch;
+    this.sortClauses.forEach(clause => {
+      if (clause.id === c.id) {
+        witch = [clause];
+        if (c.order === "asc") {
+          clause.order = "desc";
+          c.order = "desc";
+        } else {
+          clause.order = "asc";
+          c.order = "asc";
+        }
+      } else {
+        other.push(clause);
+      }
+    });
+
+    this.sortClauses = [].concat(witch, other);
+    this.refresh(this.state.page);
   }
 
   render() {
-    const { documents, nbPages, nbLignes, page } = this.state;
+    const { documents, nbPages, nbLignes, page, nbLignesTotal } = this.state;
     const htmlDoc = documents.map((d, i) => {
       return (
         <tr key={i}>
@@ -96,24 +168,19 @@ class TableInsee extends Component {
       nbPages > 1 ? (
         <Pagination prev next first last ellipsis boundaryLinks items={nbPages} maxButtons={5} activePage={page + 1} onSelect={this.handleSelect} />
       ) : null;
-
-    const htmlCols = this.colonnes.map((col, i) => (
-      <th
-        className="sortable"
-        key={i}
-        onClick={() => {
-          this.handleSort(col);
-        }}
-      >
-        {col.label}
-        {col.sortable ? <span className="icone">▼</span> : null}
-      </th>
-    ));
     return (
       <div className="table-insee">
+        <div className="paginer clearfix">
+          <span>{`${nbLignesTotal} documents trouvés.`}</span>
+          <span className="rows ">
+            <SelectRows handleChange={this.handleRowsChange} />
+          </span>
+        </div>
         <Table striped bordered condensed hover>
           <thead>
-            <tr>{htmlCols}</tr>
+            <tr>
+              <Colonnes colonnes={this.colonnes} handleSort={this.handleSort} />
+            </tr>
           </thead>
           <tbody>{htmlDoc}</tbody>
         </Table>
@@ -123,14 +190,14 @@ class TableInsee extends Component {
   }
 }
 
-TableInsee.propYypes = {
+TableInsee.propTypes = {
   children: (props, propName, componentName) => {
     const prop = props[propName];
 
     let error = null;
     React.Children.forEach(prop, child => {
       if (child.type !== Colonne) {
-        error = new Error(`${componentName} n'acceppte que le type Collone`); // '`' + componentName + '` children should be of type `Card`.'
+        error = new Error(`${componentName} n'acceppte que le type 'Collone'`);
       }
     });
     return error;
