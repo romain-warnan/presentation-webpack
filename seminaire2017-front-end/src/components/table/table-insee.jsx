@@ -1,6 +1,5 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
-import { Table, Pagination, FormControl, FormGroup, option, ControlLabel } from "react-bootstrap";
+import { Table, Pagination, FormControl, FormGroup, option } from "react-bootstrap";
 import "./table-insee.css";
 
 const SelectRows = ({ handleChange, rowsOptions }) => {
@@ -27,6 +26,19 @@ const SelectRows = ({ handleChange, rowsOptions }) => {
 /* ** */
 export const Colonne = ({ label, id, sortable }) => {
   return null;
+};
+
+/* ** */
+export const nullPromiseBuilder = () => {
+  return new Promise(resolve => {
+    resolve({
+      nbPages: 0,
+      nbLignes: 0,
+      page: 0,
+      nbLignesTotal: 0,
+      documents: []
+    });
+  });
 };
 
 /* ** */
@@ -80,13 +92,14 @@ class TableInsee extends Component {
     this.handleSelect = this.handleSelect.bind(this);
     this.handleSort = this.handleSort.bind(this);
     this.handleRowsChange = this.handleRowsChange.bind(this);
+    this.dataProvider = nullPromiseBuilder;
   }
 
   handleClick(id) {}
 
   handleRowsChange(rows) {
     this.rows = rows;
-    this.refresh(this.state.page);
+    this.refresh(0);
   }
 
   componentWillMount() {
@@ -114,7 +127,7 @@ class TableInsee extends Component {
   }
 
   componentWillReceiveProps(nextProps) {
-    if (nextProps.dataProvider && nextProps.dataProvider != this.props.dataProvider) {
+    if (nextProps.dataProvider && nextProps.dataProvider !== this.props.dataProvider) {
       nextProps.dataProvider(0, this.sortClauses, this.rows).then(result => {
         this.setState({ ...result });
       });
@@ -156,7 +169,7 @@ class TableInsee extends Component {
   }
 
   render() {
-    const { documents, nbPages, nbLignes, page, nbLignesTotal } = this.state;
+    const { documents, nbPages, page, nbLignesTotal, nbLignes } = this.state;
     const htmlDoc = documents.map((d, i) => {
       return (
         <tr key={i}>
@@ -166,12 +179,17 @@ class TableInsee extends Component {
     });
     const pagination =
       nbPages > 1 ? (
-        <Pagination prev next first last ellipsis boundaryLinks items={nbPages} maxButtons={5} activePage={page + 1} onSelect={this.handleSelect} />
+        <div className="paginer clearfix">
+          <span>{`${page * nbLignes + 1} à ${page * nbLignes + Math.min(nbLignes, nbLignesTotal - page * nbLignes)} entrées sur ${nbLignesTotal}`}</span>
+          <span className="nav">
+            <Pagination prev next first last ellipsis boundaryLinks items={nbPages} maxButtons={5} activePage={page + 1} onSelect={this.handleSelect} />
+          </span>
+        </div>
       ) : null;
     return (
       <div className="table-insee">
         <div className="paginer clearfix">
-          <span>{`${nbLignesTotal} documents trouvés.`}</span>
+          <span>Afficher par </span>
           <span className="rows ">
             <SelectRows handleChange={this.handleRowsChange} />
           </span>

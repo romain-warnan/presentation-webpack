@@ -1,7 +1,6 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
-import { PageHeader, FormGroup, ControlLabel, HelpBlock, FormControl, InputGroup, Button, Glyphicon } from "react-bootstrap";
-import TableInsee, { Colonne } from "./../table/table-insee";
+import { PageHeader, FormGroup, FormControl, InputGroup, Button, Glyphicon } from "react-bootstrap";
+import TableInsee, { Colonne, nullPromiseBuilder } from "./../table/table-insee";
 import { fetchSolrRubrique } from "./../../store/fetch-solr";
 import "./recherche.css";
 
@@ -18,40 +17,35 @@ const rubriquesPromiseBuilder = q => (indexPage, sortables = [], rows) => {
   });
 };
 
-const nullPromiseBuilder = () => {
-  return new Promise(resolve => {
-    resolve({
-      nbPages: 0,
-      nbLignes: 0,
-      page: 0,
-      nbLignesTotal: 0,
-      documents: []
-    });
-  });
-};
-
 class Recherche extends Component {
   constructor(props) {
     super(props);
     this.searchbar = null;
-    this.state = { dataProvider: nullPromiseBuilder };
-    this.handleRchercher = this.handleRchercher.bind(this);
+    this.handleRechercher = this.handleRechercher.bind(this);
+  }
+
+  componentDidMount() {
+    this.searchbar.value = this.props.q;
   }
 
   componentWillMount(nextProps) {
     this.props.setNavIndex(3);
   }
 
-  handleRchercher() {
+  handleRechercher() {
     const q = this.searchbar.value.trim();
-    if (q.length > 0) {
-      this.setState({ dataProvider: rubriquesPromiseBuilder(q) });
-    } else {
-      this.setState({ dataProvider: nullPromiseBuilder });
+    if (this.props.q !== q) {
+      if (q.length > 0) {
+        this.props.nouvelleRecherche(q);
+      } else {
+        this.props.nouvelleRecherche("");
+      }
     }
   }
 
   render() {
+    const { q } = this.props;
+    const dataProvider = q && q.trim().length > 0 ? rubriquesPromiseBuilder(q) : nullPromiseBuilder;
     return (
       <div className="recherche">
         <PageHeader>Rechercher dans nafrev2</PageHeader>
@@ -65,7 +59,7 @@ class Recherche extends Component {
                   this.searchbar = ref;
                 }}
               />
-              <InputGroup.Button onClick={this.handleRchercher}>
+              <InputGroup.Button onClick={this.handleRechercher}>
                 <Button>
                   <Glyphicon glyph="glyphicon glyphicon-search" />
                 </Button>
@@ -73,7 +67,7 @@ class Recherche extends Component {
             </InputGroup>
           </FormGroup>
         </div>
-        <TableInsee dataProvider={this.state.dataProvider}>
+        <TableInsee dataProvider={dataProvider}>
           <Colonne label="code" id="code" sortable={true} />
           <Colonne label="niveau" id="niveau" sortable={true} />
           <Colonne label="libelle" id="libelle" />
