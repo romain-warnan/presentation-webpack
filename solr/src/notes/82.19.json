@@ -1,8 +1,0 @@
-{
-  "code" : "82.19",
-  "libelle" : "Photocopie, préparation de documents et autres activités spécialisées de soutien de bureau",
-  "niveau" : "classe",
-  "enfants" : [ "82.19Z" ],
-  "parents" : [ "N", "82", "82.1" ],
-  "noteGenerale" : null
-}

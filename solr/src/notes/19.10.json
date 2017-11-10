@@ -1,8 +1,0 @@
-{
-  "code" : "19.10",
-  "libelle" : "Cokéfaction",
-  "niveau" : "classe",
-  "enfants" : [ "19.10Z" ],
-  "parents" : [ "C", "19", "19.1" ],
-  "noteGenerale" : null
-}

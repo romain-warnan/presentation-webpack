@@ -1,8 +1,0 @@
-{
-  "code" : "20.41",
-  "libelle" : "Fabrication de savons, détergents et produits d'entretien",
-  "niveau" : "classe",
-  "enfants" : [ "20.41Z" ],
-  "parents" : [ "C", "20", "20.4" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "85.60",
-  "libelle" : "Activités de soutien à l'enseignement",
-  "niveau" : "classe",
-  "enfants" : [ "85.60Z" ],
-  "parents" : [ "P", "85", "85.6" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "23.99",
-  "libelle" : "Fabrication d'autres produits minéraux non métalliques n.c.a.",
-  "niveau" : "classe",
-  "enfants" : [ "23.99Z" ],
-  "parents" : [ "C", "23", "23.9" ],
-  "noteGenerale" : null
-}

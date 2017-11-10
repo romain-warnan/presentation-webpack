@@ -1,7 +1,0 @@
-{
-  "code" : "M",
-  "libelle" : "Activités spécialisées, scientifiques et techniques",
-  "niveau" : "section",
-  "enfants" : [ "75", "74", "73", "72", "71", "70", "69" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette section comprend les activités professionnelles, scientifiques et techniques spécialisées. Ces activités requièrent un niveau de formation élevé et apportent aux utilisateurs des connaissances et compétences spécialisées.</p>\n    </div:div>\n"
-}

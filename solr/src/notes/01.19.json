@@ -1,8 +1,0 @@
-{
-  "code" : "01.19",
-  "libelle" : "Autres cultures non permanentes",
-  "niveau" : "classe",
-  "enfants" : [ "01.19Z" ],
-  "parents" : [ "A", "01", "01.1" ],
-  "noteGenerale" : null
-}

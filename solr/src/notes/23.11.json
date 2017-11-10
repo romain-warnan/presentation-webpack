@@ -1,8 +1,0 @@
-{
-  "code" : "23.11",
-  "libelle" : "Fabrication de verre plat",
-  "niveau" : "classe",
-  "enfants" : [ "23.11Z" ],
-  "parents" : [ "C", "23", "23.1" ],
-  "noteGenerale" : null
-}

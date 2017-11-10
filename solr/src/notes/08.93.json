@@ -1,8 +1,0 @@
-{
-  "code" : "08.93",
-  "libelle" : "Production de sel",
-  "niveau" : "classe",
-  "enfants" : [ "08.93Z" ],
-  "parents" : [ "B", "08", "08.9" ],
-  "noteGenerale" : null
-}

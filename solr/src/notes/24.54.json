@@ -1,8 +1,0 @@
-{
-  "code" : "24.54",
-  "libelle" : "Fonderie d'autres métaux non ferreux",
-  "niveau" : "classe",
-  "enfants" : [ "24.54Z" ],
-  "parents" : [ "C", "24", "24.5" ],
-  "noteGenerale" : null
-}

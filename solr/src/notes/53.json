@@ -1,8 +1,0 @@
-{
-  "code" : "53",
-  "libelle" : "Activités de poste et de courrier",
-  "niveau" : "division",
-  "enfants" : [ "53.2", "53.1" ],
-  "parents" : [ "H" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend les activités de poste et de courrier, telles que la levée, l'acheminement et la distribution de lettres et de petits colis sous différents régimes. Elle inclut également les services de livraison locale et de messagerie.</p>\n    </div:div>\n"
-}

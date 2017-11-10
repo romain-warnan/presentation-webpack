@@ -1,8 +1,0 @@
-{
-  "code" : "51.21",
-  "libelle" : "Transports aériens de fret",
-  "niveau" : "classe",
-  "enfants" : [ "51.21Z" ],
-  "parents" : [ "H", "51", "51.2" ],
-  "noteGenerale" : null
-}

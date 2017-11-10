@@ -1,8 +1,0 @@
-{
-  "code" : "56.29",
-  "libelle" : "Autres services de restauration",
-  "niveau" : "classe",
-  "enfants" : [ "56.29B", "56.29A" ],
-  "parents" : [ "I", "56", "56.2" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette classe comprend la fourniture de services de restauration industrielle sur la base de dispositions contractuelles conclues avec le client, pour une durée déterminée. L'exploitation en concession de services de restauration, comme dans des installations sportives ou autres, est également comprise. Les repas sont généralement préparés dans des cuisines centrales.</p>\n    </div:div>\n"
-}

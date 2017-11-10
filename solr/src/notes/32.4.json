@@ -1,8 +1,0 @@
-{
-  "code" : "32.4",
-  "libelle" : "Fabrication de jeux et jouets",
-  "niveau" : "groupe",
-  "enfants" : [ "32.40" ],
-  "parents" : [ "C", "32" ],
-  "noteGenerale" : null
-}

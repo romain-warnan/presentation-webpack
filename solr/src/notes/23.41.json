@@ -1,8 +1,0 @@
-{
-  "code" : "23.41",
-  "libelle" : "Fabrication d'articles céramiques à usage domestique ou ornemental",
-  "niveau" : "classe",
-  "enfants" : [ "23.41Z" ],
-  "parents" : [ "C", "23", "23.4" ],
-  "noteGenerale" : null
-}

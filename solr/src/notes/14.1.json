@@ -1,8 +1,0 @@
-{
-  "code" : "14.1",
-  "libelle" : "Fabrication de vêtements, autres qu'en fourrure",
-  "niveau" : "groupe",
-  "enfants" : [ "14.19", "14.14", "14.13", "14.12", "14.11" ],
-  "parents" : [ "C", "14" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend la fabrication de vêtements. Les matériaux utilisés peuvent être de tout type et peuvent être enduits, imprégnés ou recouverts de caoutchouc.</p>\n    </div:div>\n"
-}

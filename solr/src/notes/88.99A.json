@@ -1,8 +1,0 @@
-{
-  "code" : "88.99A",
-  "libelle" : "Autre accueil ou accompagnement sans hébergement d'enfants et d'adolescents",
-  "niveau" : "sousClasse",
-  "parents" : [ "Q", "88", "88.9", "88.99" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>autres activités d'accueil ou d'accompagnement sans hébergement d'enfants et d'adolescents :</p>\n                <ul class=\"list1\">\n                    <li>\n                        <p>services des œuvres d'adoption</p>\n                    </li>\n                    <li>\n                        <p>protection des enfants et adolescents contre les mauvais traitements, guidance infantile</p>\n                    </li>\n                    <li>\n                        <p>actions socio-éducatives en milieu ouvert à destination des enfants et adolescents, y compris via les familles</p>\n                    </li>\n                </ul>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null
-}

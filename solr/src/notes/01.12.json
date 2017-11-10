@@ -1,8 +1,0 @@
-{
-  "code" : "01.12",
-  "libelle" : "Culture du riz",
-  "niveau" : "classe",
-  "enfants" : [ "01.12Z" ],
-  "parents" : [ "A", "01", "01.1" ],
-  "noteGenerale" : null
-}

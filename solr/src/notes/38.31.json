@@ -1,8 +1,0 @@
-{
-  "code" : "38.31",
-  "libelle" : "Démantèlement d'épaves",
-  "niveau" : "classe",
-  "enfants" : [ "38.31Z" ],
-  "parents" : [ "E", "38", "38.3" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "25.94",
-  "libelle" : "Fabrication de vis et de boulons",
-  "niveau" : "classe",
-  "enfants" : [ "25.94Z" ],
-  "parents" : [ "C", "25", "25.9" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "14.3",
-  "libelle" : "Fabrication d'articles à mailles",
-  "niveau" : "groupe",
-  "enfants" : [ "14.39", "14.31" ],
-  "parents" : [ "C", "14" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "95.25",
-  "libelle" : "Réparation d'articles d'horlogerie et de bijouterie",
-  "niveau" : "classe",
-  "enfants" : [ "95.25Z" ],
-  "parents" : [ "S", "95", "95.2" ],
-  "noteGenerale" : null
-}

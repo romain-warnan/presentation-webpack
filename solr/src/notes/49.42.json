@@ -1,8 +1,0 @@
-{
-  "code" : "49.42",
-  "libelle" : "Services de déménagement",
-  "niveau" : "classe",
-  "enfants" : [ "49.42Z" ],
-  "parents" : [ "H", "49", "49.4" ],
-  "noteGenerale" : null
-}

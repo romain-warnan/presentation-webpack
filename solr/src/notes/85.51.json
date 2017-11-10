@@ -1,8 +1,0 @@
-{
-  "code" : "85.51",
-  "libelle" : "Enseignement de disciplines sportives et d'activités de loisirs",
-  "niveau" : "classe",
-  "enfants" : [ "85.51Z" ],
-  "parents" : [ "P", "85", "85.5" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "72.19Z",
-  "libelle" : "Recherche-développement en autres sciences physiques et naturelles",
-  "niveau" : "sousClasse",
-  "parents" : [ "M", "72", "72.1", "72.19" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la recherche et le développement expérimental en sciences naturelles et de l'ingénieur autres qu'en biotechnologie :</p>\n                <ul class=\"list1\">\n                    <li>\n                        <p>recherche-développement en sciences naturelles</p>\n                    </li>\n                    <li>\n                        <p>recherche-développement en ingénierie et technologie</p>\n                    </li>\n                    <li>\n                        <p>recherche-développement en sciences médicales</p>\n                    </li>\n                    <li>\n                        <p>recherche-développement en agronomie</p>\n                    </li>\n                    <li>\n                        <p>recherche-développement interdisciplinaire, principalement en sciences naturelles et ingénierie</p>\n                    </li>\n                </ul>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null
-}

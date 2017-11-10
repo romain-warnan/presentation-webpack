@@ -1,8 +1,0 @@
-{
-  "code" : "22.21",
-  "libelle" : "Fabrication de plaques, feuilles, tubes et profilés en matières plastiques",
-  "niveau" : "classe",
-  "enfants" : [ "22.21Z" ],
-  "parents" : [ "C", "22", "22.2" ],
-  "noteGenerale" : null
-}

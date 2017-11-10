@@ -1,8 +1,0 @@
-{
-  "code" : "45",
-  "libelle" : "Commerce et réparation d'automobiles et de motocycles",
-  "niveau" : "division",
-  "enfants" : [ "45.4", "45.3", "45.2", "45.1" ],
-  "parents" : [ "G" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend toutes les activités (sauf la fabrication et la location) en rapport avec les véhicules automobiles et les motocycles, y compris les camions, telles que le commerce de gros et de détail de véhicules neufs et usagés, la réparation et l'entretien des véhicules et le commerce de gros et de détail de pièces et d'accessoires de véhicules automobiles et de motocycles. Les activités des intermédiaires du commerce de gros et de détail de véhicules, ainsi que les activités des maisons de vente aux enchères en gros et de la vente en gros par Internet sont également comprises.</p>\n        <p>Cette division comprend également les activités de lavage et de lustrage de véhicules, etc.</p>\n        <p>Cette division ne comprend pas le commerce de détail de carburants, de lubrifiants et de produits de refroidissement pour véhicules automobiles, ni les activités de location de véhicules automobiles et de motocycles.</p>\n    </div:div>\n"
-}

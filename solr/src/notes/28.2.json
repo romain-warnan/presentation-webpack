@@ -1,8 +1,0 @@
-{
-  "code" : "28.2",
-  "libelle" : "Fabrication d'autres machines d'usage général",
-  "niveau" : "groupe",
-  "enfants" : [ "28.29", "28.25", "28.24", "28.23", "28.22", "28.21" ],
-  "parents" : [ "C", "28" ],
-  "noteGenerale" : null
-}

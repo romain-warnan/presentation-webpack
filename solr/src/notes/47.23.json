@@ -1,8 +1,0 @@
-{
-  "code" : "47.23",
-  "libelle" : "Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.23Z" ],
-  "parents" : [ "G", "47", "47.2" ],
-  "noteGenerale" : null
-}

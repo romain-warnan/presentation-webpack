@@ -1,8 +1,0 @@
-{
-  "code" : "42.91",
-  "libelle" : "Construction d'ouvrages maritimes et fluviaux",
-  "niveau" : "classe",
-  "enfants" : [ "42.91Z" ],
-  "parents" : [ "F", "42", "42.9" ],
-  "noteGenerale" : null
-}

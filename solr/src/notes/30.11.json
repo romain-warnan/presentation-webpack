@@ -1,8 +1,0 @@
-{
-  "code" : "30.11",
-  "libelle" : "Construction de navires et de structures flottantes",
-  "niveau" : "classe",
-  "enfants" : [ "30.11Z" ],
-  "parents" : [ "C", "30", "30.1" ],
-  "noteGenerale" : null
-}

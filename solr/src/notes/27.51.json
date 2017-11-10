@@ -1,8 +1,0 @@
-{
-  "code" : "27.51",
-  "libelle" : "Fabrication d'appareils électroménagers",
-  "niveau" : "classe",
-  "enfants" : [ "27.51Z" ],
-  "parents" : [ "C", "27", "27.5" ],
-  "noteGenerale" : null
-}

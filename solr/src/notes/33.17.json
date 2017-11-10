@@ -1,8 +1,0 @@
-{
-  "code" : "33.17",
-  "libelle" : "Réparation et maintenance d'autres équipements de transport",
-  "niveau" : "classe",
-  "enfants" : [ "33.17Z" ],
-  "parents" : [ "C", "33", "33.1" ],
-  "noteGenerale" : null
-}

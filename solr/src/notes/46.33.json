@@ -1,8 +1,0 @@
-{
-  "code" : "46.33",
-  "libelle" : "Commerce de gros de produits laitiers, œufs, huiles et matières grasses comestibles",
-  "niveau" : "classe",
-  "enfants" : [ "46.33Z" ],
-  "parents" : [ "G", "46", "46.3" ],
-  "noteGenerale" : null
-}

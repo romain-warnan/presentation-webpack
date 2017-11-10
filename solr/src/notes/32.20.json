@@ -1,8 +1,0 @@
-{
-  "code" : "32.20",
-  "libelle" : "Fabrication d'instruments de musique",
-  "niveau" : "classe",
-  "enfants" : [ "32.20Z" ],
-  "parents" : [ "C", "32", "32.2" ],
-  "noteGenerale" : null
-}

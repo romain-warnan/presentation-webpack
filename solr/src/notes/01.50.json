@@ -1,8 +1,0 @@
-{
-  "code" : "01.50",
-  "libelle" : "Culture et élevage associés",
-  "niveau" : "classe",
-  "enfants" : [ "01.50Z" ],
-  "parents" : [ "A", "01", "01.5" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "28.93",
-  "libelle" : "Fabrication de machines pour l'industrie agro-alimentaire",
-  "niveau" : "classe",
-  "enfants" : [ "28.93Z" ],
-  "parents" : [ "C", "28", "28.9" ],
-  "noteGenerale" : null
-}

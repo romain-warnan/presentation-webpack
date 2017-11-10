@@ -1,8 +1,0 @@
-{
-  "code" : "47.22",
-  "libelle" : "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.22Z" ],
-  "parents" : [ "G", "47", "47.2" ],
-  "noteGenerale" : null
-}

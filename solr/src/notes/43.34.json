@@ -1,8 +1,0 @@
-{
-  "code" : "43.34",
-  "libelle" : "Travaux de peinture et vitrerie",
-  "niveau" : "classe",
-  "enfants" : [ "43.34Z" ],
-  "parents" : [ "F", "43", "43.3" ],
-  "noteGenerale" : null
-}

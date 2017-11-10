@@ -1,8 +1,0 @@
-{
-  "code" : "75.0",
-  "libelle" : "Activités vétérinaires",
-  "niveau" : "groupe",
-  "enfants" : [ "75.00" ],
-  "parents" : [ "M", "75" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "10.9",
-  "libelle" : "Fabrication d'aliments pour animaux",
-  "niveau" : "groupe",
-  "enfants" : [ "10.92", "10.91" ],
-  "parents" : [ "C", "10" ],
-  "noteGenerale" : null
-}

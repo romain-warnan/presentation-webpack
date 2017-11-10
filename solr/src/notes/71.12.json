@@ -1,8 +1,0 @@
-{
-  "code" : "71.12",
-  "libelle" : "Activités d'ingénierie",
-  "niveau" : "classe",
-  "enfants" : [ "71.12B", "71.12A" ],
-  "parents" : [ "M", "71", "71.1" ],
-  "noteGenerale" : null
-}

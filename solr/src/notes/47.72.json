@@ -1,8 +1,0 @@
-{
-  "code" : "47.72",
-  "libelle" : "Commerce de détail de chaussures et d'articles en cuir en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.72B", "47.72A" ],
-  "parents" : [ "G", "47", "47.7" ],
-  "noteGenerale" : null
-}

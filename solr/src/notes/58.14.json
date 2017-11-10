@@ -1,8 +1,0 @@
-{
-  "code" : "58.14",
-  "libelle" : "Édition de revues et périodiques",
-  "niveau" : "classe",
-  "enfants" : [ "58.14Z" ],
-  "parents" : [ "J", "58", "58.1" ],
-  "noteGenerale" : null
-}

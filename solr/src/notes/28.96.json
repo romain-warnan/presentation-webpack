@@ -1,8 +1,0 @@
-{
-  "code" : "28.96",
-  "libelle" : "Fabrication de machines pour le travail du caoutchouc ou des plastiques",
-  "niveau" : "classe",
-  "enfants" : [ "28.96Z" ],
-  "parents" : [ "C", "28", "28.9" ],
-  "noteGenerale" : null
-}

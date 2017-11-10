@@ -1,8 +1,0 @@
-{
-  "code" : "46.36",
-  "libelle" : "Commerce de gros de sucre, chocolat et confiserie",
-  "niveau" : "classe",
-  "enfants" : [ "46.36Z" ],
-  "parents" : [ "G", "46", "46.3" ],
-  "noteGenerale" : null
-}

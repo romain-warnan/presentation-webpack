@@ -1,8 +1,0 @@
-{
-  "code" : "73.20Z",
-  "libelle" : "Études de marché et sondages",
-  "niveau" : "sousClasse",
-  "parents" : [ "M", "73", "73.2", "73.20" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>les études portant sur le potentiel commercial de biens et de services, leur reconnaissance, acceptation et connaissance par le public, ainsi que sur les habitudes d'achat des consommateurs aux fins de la promotion des ventes et de la mise au point de produits nouveaux ; sont comprises également les analyses statistiques des résultats</p>\n            </li>\n            <li>\n                <p>les sondages d'opinion sur des questions politiques, économiques et sociales ainsi que l'analyse statistique des résultats</p>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null
-}

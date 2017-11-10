@@ -1,8 +1,0 @@
-{
-  "code" : "82.1",
-  "libelle" : "Activités administratives",
-  "niveau" : "groupe",
-  "enfants" : [ "82.19", "82.11" ],
-  "parents" : [ "N", "82" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend la prestation d'un ensemble de services administratifs de bureau quotidiens, comme la planification financière, la facturation, la gestion de dossiers et l'archivage, les activités liées au personnel, l'organisation des locaux et la logistique, pour le compte de tiers.</p>\n        <p>Ce groupe comprend également les activités de soutien effectuées pour le compte de tiers, qui sont des fonctions de soutien courantes et continues que les entreprises et organisations assument généralement pour elles mêmes.</p>\n        <p>Les unités classées dans ce groupe ne fournissent pas le personnel d'exploitation nécessaire à l'exécution de toutes les activités de l'entreprise. Les unités n'effectuant qu'une partie donnée de ces activités sont classées selon leur activité spécifique.</p>\n    </div:div>\n"
-}

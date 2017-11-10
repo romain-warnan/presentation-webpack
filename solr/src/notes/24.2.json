@@ -1,8 +1,0 @@
-{
-  "code" : "24.2",
-  "libelle" : "Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier",
-  "niveau" : "groupe",
-  "enfants" : [ "24.20" ],
-  "parents" : [ "C", "24" ],
-  "noteGenerale" : null
-}

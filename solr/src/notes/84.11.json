@@ -1,8 +1,0 @@
-{
-  "code" : "84.11",
-  "libelle" : "Administration publique générale",
-  "niveau" : "classe",
-  "enfants" : [ "84.11Z" ],
-  "parents" : [ "O", "84", "84.1" ],
-  "noteGenerale" : null
-}

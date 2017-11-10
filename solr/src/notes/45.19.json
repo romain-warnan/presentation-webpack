@@ -1,8 +1,0 @@
-{
-  "code" : "45.19",
-  "libelle" : "Commerce d'autres véhicules automobiles",
-  "niveau" : "classe",
-  "enfants" : [ "45.19Z" ],
-  "parents" : [ "G", "45", "45.1" ],
-  "noteGenerale" : null
-}

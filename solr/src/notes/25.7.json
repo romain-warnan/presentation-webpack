@@ -1,8 +1,0 @@
-{
-  "code" : "25.7",
-  "libelle" : "Fabrication de coutellerie, d'outillage et de quincaillerie",
-  "niveau" : "groupe",
-  "enfants" : [ "25.73", "25.72", "25.71" ],
-  "parents" : [ "C", "25" ],
-  "noteGenerale" : null
-}

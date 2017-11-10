@@ -1,8 +1,0 @@
-{
-  "code" : "42.9",
-  "libelle" : "Construction d'autres ouvrages de génie civil",
-  "niveau" : "groupe",
-  "enfants" : [ "42.99", "42.91" ],
-  "parents" : [ "F", "42" ],
-  "noteGenerale" : null
-}

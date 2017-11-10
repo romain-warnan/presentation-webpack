@@ -1,8 +1,0 @@
-{
-  "code" : "11.02",
-  "libelle" : "Production de vin (de raisin)",
-  "niveau" : "classe",
-  "enfants" : [ "11.02B", "11.02A" ],
-  "parents" : [ "C", "11", "11.0" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "55.90",
-  "libelle" : "Autres hébergements",
-  "niveau" : "classe",
-  "enfants" : [ "55.90Z" ],
-  "parents" : [ "I", "55", "55.9" ],
-  "noteGenerale" : null
-}

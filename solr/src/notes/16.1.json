@@ -1,8 +1,0 @@
-{
-  "code" : "16.1",
-  "libelle" : "Sciage et rabotage du bois",
-  "niveau" : "groupe",
-  "enfants" : [ "16.10" ],
-  "parents" : [ "C", "16" ],
-  "noteGenerale" : null
-}

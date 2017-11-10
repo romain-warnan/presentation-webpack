@@ -1,8 +1,0 @@
-{
-  "code" : "47.41",
-  "libelle" : "Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.41Z" ],
-  "parents" : [ "G", "47", "47.4" ],
-  "noteGenerale" : null
-}

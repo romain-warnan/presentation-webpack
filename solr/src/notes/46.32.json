@@ -1,8 +1,0 @@
-{
-  "code" : "46.32",
-  "libelle" : "Commerce de gros de viandes et de produits à base de viande",
-  "niveau" : "classe",
-  "enfants" : [ "46.32C", "46.32B", "46.32A" ],
-  "parents" : [ "G", "46", "46.3" ],
-  "noteGenerale" : null
-}

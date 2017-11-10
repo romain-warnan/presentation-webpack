@@ -1,8 +1,0 @@
-{
-  "code" : "88.9",
-  "libelle" : "Autre action sociale sans hébergement",
-  "niveau" : "groupe",
-  "enfants" : [ "88.99", "88.91" ],
-  "parents" : [ "Q", "88" ],
-  "noteGenerale" : null
-}

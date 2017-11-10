@@ -1,8 +1,0 @@
-{
-  "code" : "35",
-  "libelle" : "Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné",
-  "niveau" : "division",
-  "enfants" : [ "35.3", "35.2", "35.1" ],
-  "parents" : [ "D" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "84.2",
-  "libelle" : "Services de prérogative publique",
-  "niveau" : "groupe",
-  "enfants" : [ "84.25", "84.24", "84.23", "84.22", "84.21" ],
-  "parents" : [ "O", "84" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend les activités liées aux affaires étrangères, à la défense, à la justice, à l'ordre public et à la sécurité.</p>\n    </div:div>\n"
-}

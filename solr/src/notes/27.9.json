@@ -1,8 +1,0 @@
-{
-  "code" : "27.9",
-  "libelle" : "Fabrication d'autres matériels électriques",
-  "niveau" : "groupe",
-  "enfants" : [ "27.90" ],
-  "parents" : [ "C", "27" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "01.47",
-  "libelle" : "Élevage de volailles",
-  "niveau" : "classe",
-  "enfants" : [ "01.47Z" ],
-  "parents" : [ "A", "01", "01.4" ],
-  "noteGenerale" : null
-}

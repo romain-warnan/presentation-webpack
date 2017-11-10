@@ -1,8 +1,0 @@
-{
-  "code" : "84.21",
-  "libelle" : "Affaires étrangères",
-  "niveau" : "classe",
-  "enfants" : [ "84.21Z" ],
-  "parents" : [ "O", "84", "84.2" ],
-  "noteGenerale" : null
-}

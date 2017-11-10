@@ -1,8 +1,0 @@
-{
-  "code" : "27.3",
-  "libelle" : "Fabrication de fils et câbles et de matériel d'installation électrique",
-  "niveau" : "groupe",
-  "enfants" : [ "27.33", "27.32", "27.31" ],
-  "parents" : [ "C", "27" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend la fabrication de dispositifs de câblage porteurs et non porteurs de courant pour le câblage d'installations électriques, quel que soit le matériau utilisé. Ce groupe comprend également la fabrication de fils et câbles électriques isolés et de câbles en fibres optiques.</p>\n    </div:div>\n"
-}

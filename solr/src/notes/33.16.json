@@ -1,8 +1,0 @@
-{
-  "code" : "33.16",
-  "libelle" : "Réparation et maintenance d'aéronefs et d'engins spatiaux",
-  "niveau" : "classe",
-  "enfants" : [ "33.16Z" ],
-  "parents" : [ "C", "33", "33.1" ],
-  "noteGenerale" : null
-}

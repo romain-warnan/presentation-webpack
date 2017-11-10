@@ -1,8 +1,0 @@
-{
-  "code" : "01.2",
-  "libelle" : "Cultures permanentes",
-  "niveau" : "groupe",
-  "enfants" : [ "01.29", "01.28", "01.27", "01.26", "01.25", "01.24", "01.23", "01.22", "01.21" ],
-  "parents" : [ "A", "01" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend les cultures permanentes, c'est-à-dire les plantes dont la durée de vie est supérieure à deux saisons de croissance végétale et qui perdent leurs feuilles après chaque saison ou dont la croissance est continue. La culture de ces plantes aux fins de la production de semences est incluse.</p>\n    </div:div>\n"
-}

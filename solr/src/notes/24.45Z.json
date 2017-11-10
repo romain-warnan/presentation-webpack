@@ -1,8 +1,0 @@
-{
-  "code" : "24.45Z",
-  "libelle" : "Métallurgie des autres métaux non ferreux",
-  "niveau" : "sousClasse",
-  "parents" : [ "C", "24", "24.4", "24.45" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la production de chrome, de nickel, de manganèse, etc. (première ou deuxième fusion)</p>\n            </li>\n            <li>\n                <p>la production d'alliages, de nickel, de chrome, de manganèse, etc.</p>\n            </li>\n            <li>\n                <p>la production de tôles, feuilles minces, barres, fils, profilés, etc., en nickel, chrome, manganèse, etc.</p>\n            </li>\n            <li>\n                <p>la production de mattes de nickel</p>\n            </li>\n            <li>\n                <p>la production d'autres métaux non ferreux et de cermets</p>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null
-}

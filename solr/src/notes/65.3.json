@@ -1,8 +1,0 @@
-{
-  "code" : "65.3",
-  "libelle" : "Caisses de retraite",
-  "niveau" : "groupe",
-  "enfants" : [ "65.30" ],
-  "parents" : [ "K", "65" ],
-  "noteGenerale" : null
-}

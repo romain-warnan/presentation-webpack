@@ -1,8 +1,0 @@
-{
-  "code" : "56.21",
-  "libelle" : "Services des traiteurs",
-  "niveau" : "classe",
-  "enfants" : [ "56.21Z" ],
-  "parents" : [ "I", "56", "56.2" ],
-  "noteGenerale" : null
-}

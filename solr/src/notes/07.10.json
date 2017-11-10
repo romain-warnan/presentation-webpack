@@ -1,8 +1,0 @@
-{
-  "code" : "07.10",
-  "libelle" : "Extraction de minerais de fer",
-  "niveau" : "classe",
-  "enfants" : [ "07.10Z" ],
-  "parents" : [ "B", "07", "07.1" ],
-  "noteGenerale" : null
-}

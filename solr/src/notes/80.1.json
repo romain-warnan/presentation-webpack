@@ -1,8 +1,0 @@
-{
-  "code" : "80.1",
-  "libelle" : "Activités de sécurité privée",
-  "niveau" : "groupe",
-  "enfants" : [ "80.10" ],
-  "parents" : [ "N", "80" ],
-  "noteGenerale" : null
-}

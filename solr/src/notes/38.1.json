@@ -1,8 +1,0 @@
-{
-  "code" : "38.1",
-  "libelle" : "Collecte des déchets",
-  "niveau" : "groupe",
-  "enfants" : [ "38.12", "38.11" ],
-  "parents" : [ "E", "38" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend l'enlèvement de déchets des ménages et des entreprises au moyen de poubelles, de bacs à roulettes, de conteneurs, etc. Il comprend la collecte des déchets non dangereux et dangereux, comme les déchets ménagers, les piles usagées, les huiles et graisses de cuisson usagées, les huiles usagées de navires ou de garages, ainsi que les déchets de construction et de démolition.</p>\n    </div:div>\n"
-}

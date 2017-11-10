@@ -1,8 +1,0 @@
-{
-  "code" : "72.19",
-  "libelle" : "Recherche-développement en autres sciences physiques et naturelles",
-  "niveau" : "classe",
-  "enfants" : [ "72.19Z" ],
-  "parents" : [ "M", "72", "72.1" ],
-  "noteGenerale" : null
-}

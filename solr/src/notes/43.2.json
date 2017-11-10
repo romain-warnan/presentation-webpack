@@ -1,8 +1,0 @@
-{
-  "code" : "43.2",
-  "libelle" : "Travaux d'installation électrique, plomberie et autres travaux d'installation",
-  "niveau" : "groupe",
-  "enfants" : [ "43.29", "43.22", "43.21" ],
-  "parents" : [ "F", "43" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend l'installation de toutes sortes de commodités qui rendent la construction fonctionnelle, y compris l'installation de systèmes électriques, les travaux de plomberie (installations d'eau, de gaz et des eaux usées), de systèmes de chauffage et de conditionnement d'air, d'ascenseurs et d'escaliers mécaniques, etc.</p>\n    </div:div>\n"
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "91.01",
-  "libelle" : "Gestion des bibliothèques et des archives",
-  "niveau" : "classe",
-  "enfants" : [ "91.01Z" ],
-  "parents" : [ "R", "91", "91.0" ],
-  "noteGenerale" : null
-}

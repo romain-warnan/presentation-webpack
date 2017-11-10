@@ -1,8 +1,0 @@
-{
-  "code" : "21.20",
-  "libelle" : "Fabrication de préparations pharmaceutiques",
-  "niveau" : "classe",
-  "enfants" : [ "21.20Z" ],
-  "parents" : [ "C", "21", "21.2" ],
-  "noteGenerale" : null
-}

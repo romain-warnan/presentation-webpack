@@ -1,8 +1,0 @@
-{
-  "code" : "32.13",
-  "libelle" : "Fabrication d'articles de bijouterie fantaisie et articles similaires",
-  "niveau" : "classe",
-  "enfants" : [ "32.13Z" ],
-  "parents" : [ "C", "32", "32.1" ],
-  "noteGenerale" : null
-}

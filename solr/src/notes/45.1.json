@@ -1,8 +1,0 @@
-{
-  "code" : "45.1",
-  "libelle" : "Commerce de véhicules automobiles",
-  "niveau" : "groupe",
-  "enfants" : [ "45.19", "45.11" ],
-  "parents" : [ "G", "45" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "32.99",
-  "libelle" : "Autres activités manufacturières n.c.a.",
-  "niveau" : "classe",
-  "enfants" : [ "32.99Z" ],
-  "parents" : [ "C", "32", "32.9" ],
-  "noteGenerale" : null
-}

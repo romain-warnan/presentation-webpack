@@ -1,9 +1,0 @@
-{
-  "code" : "96.02A",
-  "libelle" : "Coiffure",
-  "niveau" : "sousClasse",
-  "parents" : [ "S", "96", "96.0", "96.02" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>le lavage, la coupe, la mise en plis, la teinture, la coloration, l'ondulation, le défrisage de cheveux et les services analogues pour hommes et femmes</p>\n            </li>\n            <li>\n                <p>le rasage et la taille de la barbe</p>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null,
-  "neComprendPas" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la fabrication de perruques (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/32.99Z\">32.99Z</a>)</p>\n            </li>\n        </ul>\n    </div:div>\n"
-}

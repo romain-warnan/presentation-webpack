@@ -1,8 +1,0 @@
-{
-  "code" : "56.3",
-  "libelle" : "Débits de boissons",
-  "niveau" : "groupe",
-  "enfants" : [ "56.30" ],
-  "parents" : [ "I", "56" ],
-  "noteGenerale" : null
-}

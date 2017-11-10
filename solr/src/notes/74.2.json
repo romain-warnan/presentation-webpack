@@ -1,8 +1,0 @@
-{
-  "code" : "74.2",
-  "libelle" : "Activités photographiques",
-  "niveau" : "groupe",
-  "enfants" : [ "74.20" ],
-  "parents" : [ "M", "74" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "25.73",
-  "libelle" : "Fabrication d'outillage",
-  "niveau" : "classe",
-  "enfants" : [ "25.73B", "25.73A" ],
-  "parents" : [ "C", "25", "25.7" ],
-  "noteGenerale" : null
-}

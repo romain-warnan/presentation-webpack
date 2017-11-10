@@ -1,8 +1,0 @@
-{
-  "code" : "65.11",
-  "libelle" : "Assurance vie",
-  "niveau" : "classe",
-  "enfants" : [ "65.11Z" ],
-  "parents" : [ "K", "65", "65.1" ],
-  "noteGenerale" : null
-}

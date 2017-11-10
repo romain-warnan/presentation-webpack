@@ -1,8 +1,0 @@
-{
-  "code" : "30.2",
-  "libelle" : "Construction de locomotives et d'autre matériel ferroviaire roulant",
-  "niveau" : "groupe",
-  "enfants" : [ "30.20" ],
-  "parents" : [ "C", "30" ],
-  "noteGenerale" : null
-}

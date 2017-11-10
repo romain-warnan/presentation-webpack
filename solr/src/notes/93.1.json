@@ -1,8 +1,0 @@
-{
-  "code" : "93.1",
-  "libelle" : "Activités liées au sport",
-  "niveau" : "groupe",
-  "enfants" : [ "93.19", "93.13", "93.12", "93.11" ],
-  "parents" : [ "R", "93" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend l'exploitation d'installations sportives, les activités des équipes ou clubs sportifs participant principalement à des manifestations sportives devant un public payant, les activités des athlètes indépendants participants à des courses ou manifestations sportives devant un public payant, l'activité des propriétaires de voitures, chiens, chevaux, etc. de course consistant principalement à engager ceux ci dans des courses ou d'autres manifestations de sports-spectacles, les activités des entraîneurs sportifs fournissant des services spécialisés de soutien aux participants de manifestations ou compétitions sportives, les activités des exploitants de stades et les autres activités d'organisation, de promotion ou de gestion de manifestations sportives n.c.a.</p>\n    </div:div>\n"
-}

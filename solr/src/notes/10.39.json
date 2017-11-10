@@ -1,8 +1,0 @@
-{
-  "code" : "10.39",
-  "libelle" : "Autre transformation et conservation de fruits et légumes",
-  "niveau" : "classe",
-  "enfants" : [ "10.39B", "10.39A" ],
-  "parents" : [ "C", "10", "10.3" ],
-  "noteGenerale" : null
-}

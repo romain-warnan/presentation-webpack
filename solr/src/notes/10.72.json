@@ -1,8 +1,0 @@
-{
-  "code" : "10.72",
-  "libelle" : "Fabrication de biscuits, biscottes et pâtisseries de conservation",
-  "niveau" : "classe",
-  "enfants" : [ "10.72Z" ],
-  "parents" : [ "C", "10", "10.7" ],
-  "noteGenerale" : null
-}

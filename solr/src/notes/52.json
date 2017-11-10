@@ -1,8 +1,0 @@
-{
-  "code" : "52",
-  "libelle" : "Entreposage et services auxiliaires des transports",
-  "niveau" : "division",
-  "enfants" : [ "52.2", "52.1" ],
-  "parents" : [ "H" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend les activités d'entreposage et les services auxiliaires des transports, tels que l'exploitation des infrastructures de transport (comme les ports, aéroports, gares, infrastructures à péage, etc.), les activités de manutention du fret et l'organisation du transport de fret (acheminement des produits, recherche de transporteurs).</p>\n    </div:div>\n"
-}

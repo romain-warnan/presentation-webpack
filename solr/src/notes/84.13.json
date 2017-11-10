@@ -1,8 +1,0 @@
-{
-  "code" : "84.13",
-  "libelle" : "Administration publique (tutelle) des activités économiques",
-  "niveau" : "classe",
-  "enfants" : [ "84.13Z" ],
-  "parents" : [ "O", "84", "84.1" ],
-  "noteGenerale" : null
-}

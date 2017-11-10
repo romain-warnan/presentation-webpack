@@ -1,8 +1,0 @@
-{
-  "code" : "26.52",
-  "libelle" : "Horlogerie",
-  "niveau" : "classe",
-  "enfants" : [ "26.52Z" ],
-  "parents" : [ "C", "26", "26.5" ],
-  "noteGenerale" : null
-}

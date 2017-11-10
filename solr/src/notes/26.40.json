@@ -1,8 +1,0 @@
-{
-  "code" : "26.40",
-  "libelle" : "Fabrication de produits électroniques grand public",
-  "niveau" : "classe",
-  "enfants" : [ "26.40Z" ],
-  "parents" : [ "C", "26", "26.4" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "17.29",
-  "libelle" : "Fabrication d'autres articles en papier ou en carton",
-  "niveau" : "classe",
-  "enfants" : [ "17.29Z" ],
-  "parents" : [ "C", "17", "17.2" ],
-  "noteGenerale" : null
-}

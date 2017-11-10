@@ -1,8 +1,0 @@
-{
-  "code" : "39.0",
-  "libelle" : "Dépollution et autres services de gestion des déchets",
-  "niveau" : "groupe",
-  "enfants" : [ "39.00" ],
-  "parents" : [ "E", "39" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "16.29",
-  "libelle" : "Fabrication d'objets divers en bois ; fabrication d'objets en liège, vannerie et sparterie",
-  "niveau" : "classe",
-  "enfants" : [ "16.29Z" ],
-  "parents" : [ "C", "16", "16.2" ],
-  "noteGenerale" : null
-}

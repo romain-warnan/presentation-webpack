@@ -1,8 +1,0 @@
-{
-  "code" : "61.10",
-  "libelle" : "Télécommunications filaires",
-  "niveau" : "classe",
-  "enfants" : [ "61.10Z" ],
-  "parents" : [ "J", "61", "61.1" ],
-  "noteGenerale" : null
-}

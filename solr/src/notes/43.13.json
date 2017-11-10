@@ -1,8 +1,0 @@
-{
-  "code" : "43.13",
-  "libelle" : "Forages et sondages",
-  "niveau" : "classe",
-  "enfants" : [ "43.13Z" ],
-  "parents" : [ "F", "43", "43.1" ],
-  "noteGenerale" : null
-}

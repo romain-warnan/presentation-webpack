@@ -1,8 +1,0 @@
-{
-  "code" : "64.1",
-  "libelle" : "Intermédiation monétaire",
-  "niveau" : "groupe",
-  "enfants" : [ "64.19", "64.11" ],
-  "parents" : [ "K", "64" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend la collecte de fonds sous la forme de dépôts transférables, c'est-à-dire des fonds fixes en termes monétaires obtenus au jour le jour, qui proviennent, en dehors des banques centrales, de sources non financières.</p>\n    </div:div>\n"
-}

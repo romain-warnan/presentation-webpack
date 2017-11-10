@@ -1,8 +1,0 @@
-{
-  "code" : "01.11",
-  "libelle" : "Culture de céréales (à l'exception du riz), de légumineuses et de graines oléagineuses",
-  "niveau" : "classe",
-  "enfants" : [ "01.11Z" ],
-  "parents" : [ "A", "01", "01.1" ],
-  "noteGenerale" : null
-}

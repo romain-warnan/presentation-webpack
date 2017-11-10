@@ -1,8 +1,0 @@
-{
-  "code" : "06.10",
-  "libelle" : "Extraction de pétrole brut",
-  "niveau" : "classe",
-  "enfants" : [ "06.10Z" ],
-  "parents" : [ "B", "06", "06.1" ],
-  "noteGenerale" : null
-}

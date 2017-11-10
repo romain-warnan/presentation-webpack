@@ -1,8 +1,0 @@
-{
-  "code" : "30",
-  "libelle" : "Fabrication d'autres matériels de transport",
-  "niveau" : "division",
-  "enfants" : [ "30.9", "30.4", "30.3", "30.2", "30.1" ],
-  "parents" : [ "C" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend la fabrication de matériel de transport telle que la construction de bateaux et de navires, la fabrication de matériel ferroviaire roulant et de locomotives, la construction aéronautique et spatiale et la fabrication d'équipements pour ces matériels. Le champ concerne les matériels civils, militaires ou de plaisance.</p>\n    </div:div>\n"
-}

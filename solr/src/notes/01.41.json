@@ -1,8 +1,0 @@
-{
-  "code" : "01.41",
-  "libelle" : "Élevage de vaches laitières",
-  "niveau" : "classe",
-  "enfants" : [ "01.41Z" ],
-  "parents" : [ "A", "01", "01.4" ],
-  "noteGenerale" : null
-}

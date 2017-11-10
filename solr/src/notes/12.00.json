@@ -1,8 +1,0 @@
-{
-  "code" : "12.00",
-  "libelle" : "Fabrication de produits à base de tabac",
-  "niveau" : "classe",
-  "enfants" : [ "12.00Z" ],
-  "parents" : [ "C", "12", "12.0" ],
-  "noteGenerale" : null
-}

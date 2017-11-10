@@ -1,8 +1,0 @@
-{
-  "code" : "28.30",
-  "libelle" : "Fabrication de machines agricoles et forestières",
-  "niveau" : "classe",
-  "enfants" : [ "28.30Z" ],
-  "parents" : [ "C", "28", "28.3" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "05.10",
-  "libelle" : "Extraction de houille",
-  "niveau" : "classe",
-  "enfants" : [ "05.10Z" ],
-  "parents" : [ "B", "05", "05.1" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "43.91",
-  "libelle" : "Travaux de couverture",
-  "niveau" : "classe",
-  "enfants" : [ "43.91B", "43.91A" ],
-  "parents" : [ "F", "43", "43.9" ],
-  "noteGenerale" : null
-}
