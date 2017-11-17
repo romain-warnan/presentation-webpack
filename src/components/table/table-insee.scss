@@ -1,0 +1,51 @@
+.table-insee {
+  .paginer {
+    position: relative;
+    display: bloack;
+    clear: both;
+
+    .nav {
+      float: right;
+    }
+
+    .rows {
+      width: 80px;
+      display: inline-block;
+    }
+  }
+
+  .sortable {
+    position: relative;
+    .icone {
+      right: 0px;
+      position: absolute;
+      cursor: pointer;
+    }
+
+    .pagination-insee {
+      .pagination {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+  }
+}
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+.clearfix {
+  display: block;
+}
+html[xmlns].clearfix {
+  display: block;
+}
+*.clearfix {
+  height: 1%;
+}

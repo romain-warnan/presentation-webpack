@@ -1,0 +1,8 @@
+.fiche {
+  background-color: #d0e0f4;
+  position: absolute;
+  right: 0;
+  overflow: auto;
+  width: calc(80% - 21px);
+  height: 100%;
+  padding: 5px; }

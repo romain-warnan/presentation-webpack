@@ -1,0 +1,32 @@
+@charset "UTF-8";
+.accueil {
+  padding-left: 10%;
+  padding-right: 10%; }
+  .accueil .suggestions {
+    width: 450px; }
+    .accueil .suggestions .items-liste {
+      background-color: #232933; }
+    .accueil .suggestions .suggestion {
+      color: white;
+      padding-left: 4px;
+      padding-right: 4px; }
+      .accueil .suggestions .suggestion .highlight {
+        color: orange; }
+      .accueil .suggestions .suggestion .complements {
+        font-size: small;
+        font-style: italic;
+        color: LightGray; }
+        .accueil .suggestions .suggestion .complements:before {
+          content: "–";
+          padding: 0px 2px; }
+        .accueil .suggestions .suggestion .complements .suggestion-niveau {
+          margin-right: 4px; }
+        .accueil .suggestions .suggestion .complements .suggestion-code {
+          margin-right: 3px; }
+      .accueil .suggestions .suggestion:hover {
+        cursor: pointer;
+        background-color: gray; }
+  .accueil .rubrique {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto; }
