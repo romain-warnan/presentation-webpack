@@ -1,0 +1,8 @@
+{
+  "code" : "47.99",
+  "libelle" : "Autres commerces de détail hors magasin, éventaires ou marchés",
+  "niveau" : "classe",
+  "enfants" : [ "47.99B", "47.99A" ],
+  "parents" : [ "G", "47", "47.9" ],
+  "noteGenerale" : null
+}

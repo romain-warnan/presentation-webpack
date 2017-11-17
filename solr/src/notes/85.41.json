@@ -1,0 +1,8 @@
+{
+  "code" : "85.41",
+  "libelle" : "Enseignement post-secondaire non supérieur",
+  "niveau" : "classe",
+  "enfants" : [ "85.41Z" ],
+  "parents" : [ "P", "85", "85.4" ],
+  "noteGenerale" : null
+}

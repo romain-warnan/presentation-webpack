@@ -1,0 +1,8 @@
+{
+  "code" : "95.21",
+  "libelle" : "Réparation de produits électroniques grand public",
+  "niveau" : "classe",
+  "enfants" : [ "95.21Z" ],
+  "parents" : [ "S", "95", "95.2" ],
+  "noteGenerale" : null
+}

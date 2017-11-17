@@ -1,0 +1,8 @@
+{
+  "code" : "86.1",
+  "libelle" : "Activités hospitalières",
+  "niveau" : "groupe",
+  "enfants" : [ "86.10" ],
+  "parents" : [ "Q", "86" ],
+  "noteGenerale" : null
+}

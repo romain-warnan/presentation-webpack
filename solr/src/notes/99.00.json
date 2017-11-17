@@ -1,0 +1,8 @@
+{
+  "code" : "99.00",
+  "libelle" : "Activités des organisations et organismes extraterritoriaux",
+  "niveau" : "classe",
+  "enfants" : [ "99.00Z" ],
+  "parents" : [ "U", "99", "99.0" ],
+  "noteGenerale" : null
+}

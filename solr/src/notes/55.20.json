@@ -1,0 +1,8 @@
+{
+  "code" : "55.20",
+  "libelle" : "Hébergement touristique et autre hébergement de courte durée",
+  "niveau" : "classe",
+  "enfants" : [ "55.20Z" ],
+  "parents" : [ "I", "55", "55.2" ],
+  "noteGenerale" : null
+}

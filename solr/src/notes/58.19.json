@@ -1,0 +1,8 @@
+{
+  "code" : "58.19",
+  "libelle" : "Autres activités d'édition",
+  "niveau" : "classe",
+  "enfants" : [ "58.19Z" ],
+  "parents" : [ "J", "58", "58.1" ],
+  "noteGenerale" : null
+}

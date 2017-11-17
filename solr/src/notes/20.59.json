@@ -1,0 +1,8 @@
+{
+  "code" : "20.59",
+  "libelle" : "Fabrication d'autres produits chimiques n.c.a.",
+  "niveau" : "classe",
+  "enfants" : [ "20.59Z" ],
+  "parents" : [ "C", "20", "20.5" ],
+  "noteGenerale" : null
+}

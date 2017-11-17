@@ -1,0 +1,8 @@
+{
+  "code" : "82.9",
+  "libelle" : "Activités de soutien aux entreprises n.c.a.",
+  "niveau" : "groupe",
+  "enfants" : [ "82.99", "82.92", "82.91" ],
+  "parents" : [ "N", "82" ],
+  "noteGenerale" : null
+}

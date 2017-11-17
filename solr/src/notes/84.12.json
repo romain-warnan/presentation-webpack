@@ -1,0 +1,8 @@
+{
+  "code" : "84.12",
+  "libelle" : "Administration publique (tutelle) de la santé, de la formation, de la culture et des services sociaux, autre que sécurité sociale",
+  "niveau" : "classe",
+  "enfants" : [ "84.12Z" ],
+  "parents" : [ "O", "84", "84.1" ],
+  "noteGenerale" : null
+}

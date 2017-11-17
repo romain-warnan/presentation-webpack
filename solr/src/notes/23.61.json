@@ -1,0 +1,8 @@
+{
+  "code" : "23.61",
+  "libelle" : "Fabrication d'éléments en béton pour la construction",
+  "niveau" : "classe",
+  "enfants" : [ "23.61Z" ],
+  "parents" : [ "C", "23", "23.6" ],
+  "noteGenerale" : null
+}

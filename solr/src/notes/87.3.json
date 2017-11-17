@@ -1,0 +1,8 @@
+{
+  "code" : "87.3",
+  "libelle" : "Hébergement social pour personnes âgées ou handicapées physiques",
+  "niveau" : "groupe",
+  "enfants" : [ "87.30" ],
+  "parents" : [ "Q", "87" ],
+  "noteGenerale" : null
+}

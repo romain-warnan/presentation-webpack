@@ -1,0 +1,8 @@
+{
+  "code" : "11.01",
+  "libelle" : "Production de boissons alcooliques distillées",
+  "niveau" : "classe",
+  "enfants" : [ "11.01Z" ],
+  "parents" : [ "C", "11", "11.0" ],
+  "noteGenerale" : null
+}

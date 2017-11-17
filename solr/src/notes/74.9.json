@@ -1,0 +1,8 @@
+{
+  "code" : "74.9",
+  "libelle" : "Autres activités spécialisées, scientifiques et techniques n.c.a.",
+  "niveau" : "groupe",
+  "enfants" : [ "74.90" ],
+  "parents" : [ "M", "74" ],
+  "noteGenerale" : null
+}

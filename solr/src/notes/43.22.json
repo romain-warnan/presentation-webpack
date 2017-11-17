@@ -1,0 +1,8 @@
+{
+  "code" : "43.22",
+  "libelle" : "Travaux de plomberie et installation de chauffage et de conditionnement d'air",
+  "niveau" : "classe",
+  "enfants" : [ "43.22B", "43.22A" ],
+  "parents" : [ "F", "43", "43.2" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette classe comprend des activités telles que la plomberie, l'installation de systèmes de chauffage et de conditionnement d'air, y compris extensions, transformations, entretien et réparations.</p>\n    </div:div>\n"
+}

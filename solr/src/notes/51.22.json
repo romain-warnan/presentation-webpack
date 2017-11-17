@@ -1,0 +1,8 @@
+{
+  "code" : "51.22",
+  "libelle" : "Transports spatiaux",
+  "niveau" : "classe",
+  "enfants" : [ "51.22Z" ],
+  "parents" : [ "H", "51", "51.2" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "06.2",
+  "libelle" : "Extraction de gaz naturel",
+  "niveau" : "groupe",
+  "enfants" : [ "06.20" ],
+  "parents" : [ "B", "06" ],
+  "noteGenerale" : null
+}

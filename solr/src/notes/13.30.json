@@ -1,0 +1,8 @@
+{
+  "code" : "13.30",
+  "libelle" : "Ennoblissement textile",
+  "niveau" : "classe",
+  "enfants" : [ "13.30Z" ],
+  "parents" : [ "C", "13", "13.3" ],
+  "noteGenerale" : null
+}

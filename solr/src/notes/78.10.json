@@ -1,0 +1,8 @@
+{
+  "code" : "78.10",
+  "libelle" : "Activités des agences de placement de main-d'œuvre",
+  "niveau" : "classe",
+  "enfants" : [ "78.10Z" ],
+  "parents" : [ "N", "78", "78.1" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "22",
+  "libelle" : "Fabrication de produits en caoutchouc et en plastique",
+  "niveau" : "division",
+  "enfants" : [ "22.2", "22.1" ],
+  "parents" : [ "C" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division couvre la fabrication du caoutchouc et des plastiques. Cette division se caractérise par les matières premières travaillées. Ce qui ne veut pas dire que tous les produits en ces matières relèvent nécessairement de cette division.</p>\n    </div:div>\n"
+}

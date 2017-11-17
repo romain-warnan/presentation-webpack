@@ -1,0 +1,7 @@
+{
+  "code" : "47.77Z",
+  "libelle" : "Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé",
+  "niveau" : "sousClasse",
+  "parents" : [ "G", "47", "47.7", "47.77" ],
+  "noteGenerale" : null
+}

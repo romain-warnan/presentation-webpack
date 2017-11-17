@@ -1,0 +1,8 @@
+{
+  "code" : "95.24",
+  "libelle" : "Réparation de meubles et d'équipements du foyer",
+  "niveau" : "classe",
+  "enfants" : [ "95.24Z" ],
+  "parents" : [ "S", "95", "95.2" ],
+  "noteGenerale" : null
+}

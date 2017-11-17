@@ -1,0 +1,8 @@
+{
+  "code" : "26.1",
+  "libelle" : "Fabrication de composants et cartes électroniques",
+  "niveau" : "groupe",
+  "enfants" : [ "26.12", "26.11" ],
+  "parents" : [ "C", "26" ],
+  "noteGenerale" : null
+}

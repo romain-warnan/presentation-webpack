@@ -1,0 +1,8 @@
+{
+  "code" : "47.81",
+  "libelle" : "Commerce de détail alimentaire sur éventaires et marchés",
+  "niveau" : "classe",
+  "enfants" : [ "47.81Z" ],
+  "parents" : [ "G", "47", "47.8" ],
+  "noteGenerale" : null
+}

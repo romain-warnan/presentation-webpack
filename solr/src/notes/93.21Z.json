@@ -1,0 +1,8 @@
+{
+  "code" : "93.21Z",
+  "libelle" : "Activités des parcs d'attractions et parcs à thèmes",
+  "niveau" : "sousClasse",
+  "parents" : [ "R", "93", "93.2", "93.21" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>les activités des parcs d'attractions et parcs à thèmes :</p>\n            </li>\n            <li>\n                <p>l'exploitation de diverses attractions, telles que les manèges mécaniques, ballades aquatiques, jeux, spectacles, expositions thématiques et aires de pique-nique</p>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null
+}

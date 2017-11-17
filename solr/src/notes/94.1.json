@@ -1,0 +1,8 @@
+{
+  "code" : "94.1",
+  "libelle" : "Activités des organisations économiques, patronales et professionnelles",
+  "niveau" : "groupe",
+  "enfants" : [ "94.12", "94.11" ],
+  "parents" : [ "S", "94" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend les activités des unités qui promeuvent les intérêts des membres d'organisations patronales, consulaires et professionnelles. Dans le cas des organisations professionnelles, il comprend également les activités de promotion des intérêts professionnels des membres de la profession concernée.</p>\n    </div:div>\n"
+}

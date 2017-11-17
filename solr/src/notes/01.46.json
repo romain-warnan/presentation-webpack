@@ -1,0 +1,8 @@
+{
+  "code" : "01.46",
+  "libelle" : "Élevage de porcins",
+  "niveau" : "classe",
+  "enfants" : [ "01.46Z" ],
+  "parents" : [ "A", "01", "01.4" ],
+  "noteGenerale" : null
+}

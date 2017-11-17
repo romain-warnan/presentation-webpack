@@ -1,0 +1,8 @@
+{
+  "code" : "52.22",
+  "libelle" : "Services auxiliaires des transports par eau",
+  "niveau" : "classe",
+  "enfants" : [ "52.22Z" ],
+  "parents" : [ "H", "52", "52.2" ],
+  "noteGenerale" : null
+}

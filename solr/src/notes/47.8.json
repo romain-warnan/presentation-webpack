@@ -1,0 +1,8 @@
+{
+  "code" : "47.8",
+  "libelle" : "Commerce de détail sur éventaires et marchés",
+  "niveau" : "groupe",
+  "enfants" : [ "47.89", "47.82", "47.81" ],
+  "parents" : [ "G", "47" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend le commerce de détail de tous types de produits neufs ou d'occasion présentés sur des éventaires, généralement mobiles, installés sur la voie publique ou sur un emplacement de marché déterminé.</p>\n    </div:div>\n"
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "28.11",
+  "libelle" : "Fabrication de moteurs et turbines, à l'exception des moteurs d'avions et de véhicules",
+  "niveau" : "classe",
+  "enfants" : [ "28.11Z" ],
+  "parents" : [ "C", "28", "28.1" ],
+  "noteGenerale" : null
+}

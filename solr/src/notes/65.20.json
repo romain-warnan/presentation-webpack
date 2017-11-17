@@ -1,0 +1,8 @@
+{
+  "code" : "65.20",
+  "libelle" : "Réassurance",
+  "niveau" : "classe",
+  "enfants" : [ "65.20Z" ],
+  "parents" : [ "K", "65", "65.2" ],
+  "noteGenerale" : null
+}

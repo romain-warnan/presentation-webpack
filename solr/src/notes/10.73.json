@@ -1,0 +1,8 @@
+{
+  "code" : "10.73",
+  "libelle" : "Fabrication de pâtes alimentaires",
+  "niveau" : "classe",
+  "enfants" : [ "10.73Z" ],
+  "parents" : [ "C", "10", "10.7" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "43.11",
+  "libelle" : "Travaux de démolition",
+  "niveau" : "classe",
+  "enfants" : [ "43.11Z" ],
+  "parents" : [ "F", "43", "43.1" ],
+  "noteGenerale" : null
+}

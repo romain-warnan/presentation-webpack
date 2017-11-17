@@ -1,0 +1,8 @@
+{
+  "code" : "23.44",
+  "libelle" : "Fabrication d'autres produits céramiques à usage technique",
+  "niveau" : "classe",
+  "enfants" : [ "23.44Z" ],
+  "parents" : [ "C", "23", "23.4" ],
+  "noteGenerale" : null
+}

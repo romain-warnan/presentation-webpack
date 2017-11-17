@@ -1,0 +1,8 @@
+{
+  "code" : "13.91",
+  "libelle" : "Fabrication d'étoffes à mailles",
+  "niveau" : "classe",
+  "enfants" : [ "13.91Z" ],
+  "parents" : [ "C", "13", "13.9" ],
+  "noteGenerale" : null
+}

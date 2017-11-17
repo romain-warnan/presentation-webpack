@@ -1,0 +1,8 @@
+{
+  "code" : "70.21",
+  "libelle" : "Conseil en relations publiques et communication",
+  "niveau" : "classe",
+  "enfants" : [ "70.21Z" ],
+  "parents" : [ "M", "70", "70.2" ],
+  "noteGenerale" : null
+}

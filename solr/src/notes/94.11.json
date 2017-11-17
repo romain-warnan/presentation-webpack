@@ -1,0 +1,8 @@
+{
+  "code" : "94.11",
+  "libelle" : "Activités des organisations patronales et consulaires",
+  "niveau" : "classe",
+  "enfants" : [ "94.11Z" ],
+  "parents" : [ "S", "94", "94.1" ],
+  "noteGenerale" : null
+}

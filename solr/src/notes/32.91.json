@@ -1,0 +1,8 @@
+{
+  "code" : "32.91",
+  "libelle" : "Fabrication d'articles de brosserie",
+  "niveau" : "classe",
+  "enfants" : [ "32.91Z" ],
+  "parents" : [ "C", "32", "32.9" ],
+  "noteGenerale" : null
+}

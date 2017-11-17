@@ -1,0 +1,8 @@
+{
+  "code" : "46.14",
+  "libelle" : "Intermédiaires du commerce en machines, équipements industriels, navires et avions",
+  "niveau" : "classe",
+  "enfants" : [ "46.14Z" ],
+  "parents" : [ "G", "46", "46.1" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "46.39",
+  "libelle" : "Commerce de gros non spécialisé de denrées, boissons et tabac",
+  "niveau" : "classe",
+  "enfants" : [ "46.39B", "46.39A" ],
+  "parents" : [ "G", "46", "46.3" ],
+  "noteGenerale" : null
+}

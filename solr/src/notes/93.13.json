@@ -1,0 +1,8 @@
+{
+  "code" : "93.13",
+  "libelle" : "Activités des centres de culture physique",
+  "niveau" : "classe",
+  "enfants" : [ "93.13Z" ],
+  "parents" : [ "R", "93", "93.1" ],
+  "noteGenerale" : null
+}

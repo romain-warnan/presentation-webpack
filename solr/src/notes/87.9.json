@@ -1,0 +1,8 @@
+{
+  "code" : "87.9",
+  "libelle" : "Autres activités d'hébergement social",
+  "niveau" : "groupe",
+  "enfants" : [ "87.90" ],
+  "parents" : [ "Q", "87" ],
+  "noteGenerale" : null
+}

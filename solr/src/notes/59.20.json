@@ -1,0 +1,8 @@
+{
+  "code" : "59.20",
+  "libelle" : "Enregistrement sonore et édition musicale",
+  "niveau" : "classe",
+  "enfants" : [ "59.20Z" ],
+  "parents" : [ "J", "59", "59.2" ],
+  "noteGenerale" : null
+}

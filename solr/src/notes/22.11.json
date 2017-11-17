@@ -1,0 +1,8 @@
+{
+  "code" : "22.11",
+  "libelle" : "Fabrication et rechapage de pneumatiques",
+  "niveau" : "classe",
+  "enfants" : [ "22.11Z" ],
+  "parents" : [ "C", "22", "22.1" ],
+  "noteGenerale" : null
+}

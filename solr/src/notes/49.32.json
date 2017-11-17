@@ -1,0 +1,8 @@
+{
+  "code" : "49.32",
+  "libelle" : "Transports de voyageurs par taxis",
+  "niveau" : "classe",
+  "enfants" : [ "49.32Z" ],
+  "parents" : [ "H", "49", "49.3" ],
+  "noteGenerale" : null
+}

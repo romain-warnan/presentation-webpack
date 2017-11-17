@@ -1,0 +1,8 @@
+{
+  "code" : "82.20",
+  "libelle" : "Activités de centres d'appels",
+  "niveau" : "classe",
+  "enfants" : [ "82.20Z" ],
+  "parents" : [ "N", "82", "82.2" ],
+  "noteGenerale" : null
+}

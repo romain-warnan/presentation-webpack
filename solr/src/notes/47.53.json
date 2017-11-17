@@ -1,0 +1,8 @@
+{
+  "code" : "47.53",
+  "libelle" : "Commerce de détail de tapis, moquettes et revêtements de murs et de sols en magasin spécialisé",
+  "niveau" : "classe",
+  "enfants" : [ "47.53Z" ],
+  "parents" : [ "G", "47", "47.5" ],
+  "noteGenerale" : null
+}

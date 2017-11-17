@@ -1,0 +1,8 @@
+{
+  "code" : "49.31",
+  "libelle" : "Transports urbains et suburbains de voyageurs",
+  "niveau" : "classe",
+  "enfants" : [ "49.31Z" ],
+  "parents" : [ "H", "49", "49.3" ],
+  "noteGenerale" : null
+}

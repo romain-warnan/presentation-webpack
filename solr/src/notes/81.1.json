@@ -1,0 +1,8 @@
+{
+  "code" : "81.1",
+  "libelle" : "Activités combinées de soutien lié aux bâtiments",
+  "niveau" : "groupe",
+  "enfants" : [ "81.10" ],
+  "parents" : [ "N", "81" ],
+  "noteGenerale" : null
+}

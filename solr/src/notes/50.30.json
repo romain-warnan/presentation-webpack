@@ -1,0 +1,8 @@
+{
+  "code" : "50.30",
+  "libelle" : "Transports fluviaux de passagers",
+  "niveau" : "classe",
+  "enfants" : [ "50.30Z" ],
+  "parents" : [ "H", "50", "50.3" ],
+  "noteGenerale" : null
+}

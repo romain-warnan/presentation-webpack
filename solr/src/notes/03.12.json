@@ -1,0 +1,8 @@
+{
+  "code" : "03.12",
+  "libelle" : "Pêche en eau douce",
+  "niveau" : "classe",
+  "enfants" : [ "03.12Z" ],
+  "parents" : [ "A", "03", "03.1" ],
+  "noteGenerale" : null
+}

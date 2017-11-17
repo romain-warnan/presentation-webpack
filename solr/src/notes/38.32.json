@@ -1,0 +1,8 @@
+{
+  "code" : "38.32",
+  "libelle" : "Récupération de déchets triés",
+  "niveau" : "classe",
+  "enfants" : [ "38.32Z" ],
+  "parents" : [ "E", "38", "38.3" ],
+  "noteGenerale" : null
+}

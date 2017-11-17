@@ -1,0 +1,8 @@
+{
+  "code" : "81.22",
+  "libelle" : "Autres activités de nettoyage des bâtiments et nettoyage industriel",
+  "niveau" : "classe",
+  "enfants" : [ "81.22Z" ],
+  "parents" : [ "N", "81", "81.2" ],
+  "noteGenerale" : null
+}

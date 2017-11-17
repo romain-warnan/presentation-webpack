@@ -1,0 +1,8 @@
+{
+  "code" : "25.11",
+  "libelle" : "Fabrication de structures métalliques et de parties de structures",
+  "niveau" : "classe",
+  "enfants" : [ "25.11Z" ],
+  "parents" : [ "C", "25", "25.1" ],
+  "noteGenerale" : null
+}

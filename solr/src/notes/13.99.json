@@ -1,0 +1,8 @@
+{
+  "code" : "13.99",
+  "libelle" : "Fabrication d'autres textiles n.c.a.",
+  "niveau" : "classe",
+  "enfants" : [ "13.99Z" ],
+  "parents" : [ "C", "13", "13.9" ],
+  "noteGenerale" : null
+}

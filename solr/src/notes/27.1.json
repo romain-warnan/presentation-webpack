@@ -1,0 +1,8 @@
+{
+  "code" : "27.1",
+  "libelle" : "Fabrication de moteurs, génératrices et transformateurs électriques et de matériel de distribution et de commande électrique",
+  "niveau" : "groupe",
+  "enfants" : [ "27.12", "27.11" ],
+  "parents" : [ "C", "27" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend la fabrication de transformateurs électriques, de matériel de distribution, de moteurs et de générateurs électriques et de groupes électrogènes à moteur.</p>\n    </div:div>\n"
+}

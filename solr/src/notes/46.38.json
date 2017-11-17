@@ -1,0 +1,8 @@
+{
+  "code" : "46.38",
+  "libelle" : "Commerce de gros d'autres produits alimentaires, y compris poissons, crustacés et mollusques",
+  "niveau" : "classe",
+  "enfants" : [ "46.38B", "46.38A" ],
+  "parents" : [ "G", "46", "46.3" ],
+  "noteGenerale" : null
+}

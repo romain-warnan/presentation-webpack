@@ -1,0 +1,8 @@
+{
+  "code" : "46.34",
+  "libelle" : "Commerce de gros de boissons",
+  "niveau" : "classe",
+  "enfants" : [ "46.34Z" ],
+  "parents" : [ "G", "46", "46.3" ],
+  "noteGenerale" : null
+}

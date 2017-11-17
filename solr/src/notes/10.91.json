@@ -1,0 +1,8 @@
+{
+  "code" : "10.91",
+  "libelle" : "Fabrication d'aliments pour animaux de ferme",
+  "niveau" : "classe",
+  "enfants" : [ "10.91Z" ],
+  "parents" : [ "C", "10", "10.9" ],
+  "noteGenerale" : null
+}

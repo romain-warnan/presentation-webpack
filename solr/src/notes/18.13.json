@@ -1,0 +1,8 @@
+{
+  "code" : "18.13",
+  "libelle" : "Activités de pré-presse",
+  "niveau" : "classe",
+  "enfants" : [ "18.13Z" ],
+  "parents" : [ "C", "18", "18.1" ],
+  "noteGenerale" : null
+}

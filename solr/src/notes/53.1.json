@@ -1,0 +1,8 @@
+{
+  "code" : "53.1",
+  "libelle" : "Activités de poste dans le cadre d'une obligation de service universel",
+  "niveau" : "groupe",
+  "enfants" : [ "53.10" ],
+  "parents" : [ "H", "53" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "20.1",
+  "libelle" : "Fabrication de produits chimiques de base, de produits azotés et d'engrais, de matières plastiques de base et de caoutchouc synthétique",
+  "niveau" : "groupe",
+  "enfants" : [ "20.17", "20.16", "20.15", "20.14", "20.13", "20.12", "20.11" ],
+  "parents" : [ "C", "20" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend la fabrication de produits chimiques de base, de produits azotés et d'engrais, ainsi que de matières plastiques de base et de caoutchouc synthétique.</p>\n    </div:div>\n"
+}

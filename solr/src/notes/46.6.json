@@ -1,0 +1,8 @@
+{
+  "code" : "46.6",
+  "libelle" : "Commerce de gros d'autres équipements industriels",
+  "niveau" : "groupe",
+  "enfants" : [ "46.69", "46.66", "46.65", "46.64", "46.63", "46.62", "46.61" ],
+  "parents" : [ "G", "46" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend le commerce de gros de machines d'usage spécifique, d'équipements et de fournitures pour tout type d'industrie et des machines d'usage général.</p>\n    </div:div>\n"
+}

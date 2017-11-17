@@ -1,0 +1,8 @@
+{
+  "code" : "82.91",
+  "libelle" : "Activités des agences de recouvrement de factures et des sociétés d'information financière sur la clientèle",
+  "niveau" : "classe",
+  "enfants" : [ "82.91Z" ],
+  "parents" : [ "N", "82", "82.9" ],
+  "noteGenerale" : null
+}

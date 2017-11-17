@@ -1,0 +1,8 @@
+{
+  "code" : "77.2",
+  "libelle" : "Location et location-bail de biens personnels et domestiques",
+  "niveau" : "groupe",
+  "enfants" : [ "77.29", "77.22", "77.21" ],
+  "parents" : [ "N", "77" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend la location de biens personnels et domestiques, ainsi que la location d'articles de loisirs et de sport et de vidéocassettes. Ces activités couvrent généralement la location à court terme de biens, même si, dans certains cas, ces biens peuvent être loués pour des périodes plus longues.</p>\n    </div:div>\n"
+}

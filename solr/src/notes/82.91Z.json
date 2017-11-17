@@ -1,0 +1,8 @@
+{
+  "code" : "82.91Z",
+  "libelle" : "Activités des agences de recouvrement de factures et des sociétés d'information financière sur la clientèle",
+  "niveau" : "sousClasse",
+  "parents" : [ "N", "82", "82.9", "82.91" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>le recouvrement de créances et le versement des paiements perçus aux clients, tels que les services de recouvrement de factures ou de créances</p>\n            </li>\n            <li>\n                <p>les activités consistant à rassembler des renseignements, tels que les antécédents de crédit et d'emploi de particuliers ou les antécédents de crédit d'entreprises, et à fournir ces informations aux institutions financières, aux détaillants et à des tiers qui doivent évaluer la solvabilité de ces personnes ou entreprises</p>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null
+}

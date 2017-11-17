@@ -1,0 +1,8 @@
+{
+  "code" : "03.2",
+  "libelle" : "Aquaculture",
+  "niveau" : "groupe",
+  "enfants" : [ "03.22", "03.21" ],
+  "parents" : [ "A", "03" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend l' \"aquaculture\" (ou élevage aquicole), c'est-à-dire le processus de production par lequel des organismes aquatiques (poissons, mollusques, crustacés, plantes aquatiques, crocodiles, alligators et amphibiens) sont cultivés ou élevés (et récoltés) en utilisant des techniques visant à augmenter la production de ces organismes au-delà d'un niveau considéré comme durable dans les conditions environnementales naturelles (par exemple mise en charge régulière, alimentation, protection contre les prédateurs).</p>\n        <p>Les termes de culture ou d'élevage font ici référence à l'élevage en captivité de sujets jeunes ou adultes. La notion d' \"aquaculture\" comprend également la notion de propriété individuelle, collective ou nationale des organismes en élevage, jusqu'à leur récolte.</p>\n    </div:div>\n"
+}

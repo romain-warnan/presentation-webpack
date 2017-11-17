@@ -1,0 +1,8 @@
+{
+  "code" : "10.1",
+  "libelle" : "Transformation et conservation de la viande et préparation de produits à base de viande",
+  "niveau" : "groupe",
+  "enfants" : [ "10.13", "10.12", "10.11" ],
+  "parents" : [ "C", "10" ],
+  "noteGenerale" : null
+}

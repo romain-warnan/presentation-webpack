@@ -1,0 +1,7 @@
+{
+  "code" : "Q",
+  "libelle" : "Santé humaine et action sociale",
+  "niveau" : "section",
+  "enfants" : [ "88", "87", "86" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette section comprend les activités liées à la santé humaine et à l'action sociale. Elle englobe un vaste éventail d'activités, allant des soins assurés par des professionnels de la santé dans des établissements hospitaliers et d'autres structures médicales à des activités d'action sociale peu ou pas médicalisées, en passant par des activités d'hébergement médico-social à composante sanitaire plus ou moins importante.</p>\n    </div:div>\n"
+}

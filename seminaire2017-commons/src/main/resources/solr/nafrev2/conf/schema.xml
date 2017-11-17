@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema name="example" version="1.5">
+
+	<field name="_version_" type="long" indexed="true" stored="true" />
+
+	<field name="_root_" type="string" indexed="true" stored="false" />
+	<field name="id" type="string" indexed="true" stored="true" required="true" multiValued="false" />
+
+	<!-- Nomenclature NAF2008 -->
+	<field name="nomenclature_code" type="string" indexed="true" stored="true" multiValued="false" />
+	<field name="nomenclature_codeDotSplited" type="string" indexed="true" stored="false" multiValued="true" />
+	<field name="nomenclature_codeUndotted" type="string" indexed="true" stored="false" multiValued="false" />
+	<field name="nomenclature_libelle" type="string" indexed="false" stored="true" multiValued="false" />
+	<field name="nomenclature_libelle_recherche" type="text_fr" indexed="true" stored="false" multiValued="false" />
+	<field name="nomenclature_niveau" type="string" indexed="true" stored="true" multiValued="false" />
+	<field name="nomenclature_enfants" type="string" indexed="true" stored="true" multiValued="true" />
+	<field name="nomenclature_parents" type="string" indexed="true" stored="true" multiValued="true" />
+
+	<field name="naf2008_comprend" type="string" indexed="false" stored="true" multiValued="false" />
+	<field name="naf2008_neComprendPas" type="string" indexed="false" stored="true" multiValued="false" />
+	<field name="naf2008_noteGenerale" type="string" indexed="false" stored="true" multiValued="false" />
+	
+	<copyField source="nomenclature_libelle" dest="nomenclature_libelle_recherche" />
+	<copyField source="nomenclature_code" dest="nomenclature_codeDotSplited" />
+	<copyField source="nomenclature_code" dest="nomenclature_codeDotSplited" />
+
+	<uniqueKey>id</uniqueKey>
+
+	
+	
+	<!-- Champs dynamiques -->
+	<dynamicField name="*_i"  type="long"    indexed="true"  stored="true"/>
+	<dynamicField name="*_ii"  type="long"    indexed="false"  stored="true"/>
+	<dynamicField name="*_is" type="long"    indexed="true"  stored="true"  multiValued="true"/>
+	<dynamicField name="*_isi" type="long"    indexed="false"  stored="true"  multiValued="true"/>
+	<dynamicField name="*_s"  type="string"  indexed="true"  stored="true" />
+	<dynamicField name="*_ss" type="string"  indexed="true"  stored="true" multiValued="true"/>
+	<dynamicField name="*_sss" type="string"  indexed="true"  stored="false" multiValued="true"/>
+	<dynamicField name="*_ssi" type="string"  indexed="false"  stored="true" multiValued="true"/>
+	<dynamicField name="*_l"  type="long"   indexed="true"  stored="true"/>
+	<dynamicField name="*_ls" type="long"   indexed="true"  stored="true"  multiValued="true"/>
+	<dynamicField name="*_en"  type="text_en"    indexed="true"  stored="true" multiValued="true"/>
+	<dynamicField name="*_b"  type="boolean" indexed="true" stored="true"/>
+	<dynamicField name="*_bs" type="boolean" indexed="true" stored="true"  multiValued="true"/>
+	<dynamicField name="*_f"  type="float"  indexed="true"  stored="true"/>
+	<dynamicField name="*_fs" type="float"  indexed="true"  stored="true"  multiValued="true"/>
+	<dynamicField name="*_d"  type="double" indexed="true"  stored="true"/>
+	<dynamicField name="*_ds" type="double" indexed="true"  stored="true"  multiValued="true"/>
+	<dynamicField name="*_dt"  type="date"    indexed="true"  stored="true"/>
+	<dynamicField name="*_dts" type="date"    indexed="true"  stored="true" multiValued="true"/>
+    
+	
+	
+	
+	<!-- internal -->
+	<field name="simpleEntier" type="int" indexed="true" stored="true" multiValued="false" />
+
+	<fieldType name="string" class="solr.StrField" sortMissingLast="true" />
+	<fieldType name="boolean" class="solr.BoolField" sortMissingLast="true" />
+	<fieldType name="int" class="solr.TrieIntField" precisionStep="0" positionIncrementGap="0" />
+	<fieldType name="float" class="solr.TrieFloatField" precisionStep="0" positionIncrementGap="0" />
+	<fieldType name="long" class="solr.TrieLongField" precisionStep="0" positionIncrementGap="0" />
+	<fieldType name="double" class="solr.TrieDoubleField" precisionStep="0" positionIncrementGap="0" />
+
+
+	<fieldType name="tint" class="solr.TrieIntField" precisionStep="8" positionIncrementGap="0" />
+	<fieldType name="tfloat" class="solr.TrieFloatField" precisionStep="8" positionIncrementGap="0" />
+	<fieldType name="tlong" class="solr.TrieLongField" precisionStep="8" positionIncrementGap="0" />
+	<fieldType name="tdouble" class="solr.TrieDoubleField" precisionStep="8" positionIncrementGap="0" />
+
+
+	<fieldType name="date" class="solr.TrieDateField" precisionStep="0" positionIncrementGap="0" />
+
+	<fieldType name="tdate" class="solr.TrieDateField" precisionStep="6" positionIncrementGap="0" />
+
+	<fieldtype name="binary" class="solr.BinaryField" />
+
+
+	<fieldType name="random" class="solr.RandomSortField" indexed="true" />
+
+
+
+
+	<fieldtype name="phonetic" stored="false" indexed="true" class="solr.TextField">
+		<analyzer>
+			<tokenizer class="solr.StandardTokenizerFactory" />
+			<filter class="solr.DoubleMetaphoneFilterFactory" inject="false" />
+		</analyzer>
+	</fieldtype>
+
+	<fieldtype name="payloads" stored="false" indexed="true" class="solr.TextField">
+		<analyzer>
+			<tokenizer class="solr.WhitespaceTokenizerFactory" />
+			<filter class="solr.DelimitedPayloadTokenFilterFactory" encoder="float" />
+		</analyzer>
+	</fieldtype>
+
+	<fieldType name="lowercase" class="solr.TextField" positionIncrementGap="100">
+		<analyzer>
+			<tokenizer class="solr.KeywordTokenizerFactory" />
+			<filter class="solr.LowerCaseFilterFactory" />
+		</analyzer>
+	</fieldType>
+
+	<fieldType name="descendent_path" class="solr.TextField">
+		<analyzer type="index">
+			<tokenizer class="solr.PathHierarchyTokenizerFactory" delimiter="/" />
+		</analyzer>
+		<analyzer type="query">
+			<tokenizer class="solr.KeywordTokenizerFactory" />
+		</analyzer>
+	</fieldType>
+
+	<fieldType name="ancestor_path" class="solr.TextField">
+		<analyzer type="index">
+			<tokenizer class="solr.KeywordTokenizerFactory" />
+		</analyzer>
+		<analyzer type="query">
+			<tokenizer class="solr.PathHierarchyTokenizerFactory" delimiter="/" />
+		</analyzer>
+	</fieldType>
+
+
+	<fieldtype name="ignored" stored="false" indexed="false" multiValued="true" class="solr.StrField" />
+
+
+
+    <fieldType name="text_nom_propre" class="solr.TextField" positionIncrementGap="100">
+          <analyzer>
+              <tokenizer class="solr.StandardTokenizerFactory"/>
+              <filter class="solr.LengthFilterFactory" min="2" max="50"/>
+              <filter class="solr.SynonymFilterFactory" synonyms="lang/synonyms.txt" ignoreCase="true" expand="false"/>
+              <filter class="solr.ElisionFilterFactory" ignoreCase="true" articles="lang/contractions_fr.txt"/>
+              <filter class="solr.LowerCaseFilterFactory"/>
+              <filter class="solr.ASCIIFoldingFilterFactory"/>
+              <filter class="solr.StopFilterFactory" ignoreCase="true" words="lang/stopwords_fr.txt" format="snowball" />
+          </analyzer>
+    </fieldType>
+
+
+	<!-- French -->
+	<fieldType name="text_fr" class="solr.TextField" positionIncrementGap="100">
+		<analyzer>
+			<tokenizer class="solr.StandardTokenizerFactory" />
+			<!-- removes l', etc -->
+			<filter class="solr.ElisionFilterFactory" ignoreCase="true" articles="lang/contractions_fr.txt" />
+			<filter class="solr.LowerCaseFilterFactory" />
+			<filter class="solr.StopFilterFactory" ignoreCase="true" words="lang/stopwords_fr.txt" format="snowball" />
+			<filter class="solr.FrenchLightStemFilterFactory" />
+			<!-- less aggressive: <filter class="solr.FrenchMinimalStemFilterFactory"/> -->
+			<!-- more aggressive: <filter class="solr.SnowballPorterFilterFactory" language="French"/> -->
+		</analyzer>
+	</fieldType>
+	
+	<!-- Français -->
+    <fieldType name="text_french" class="solr.TextField" positionIncrementGap="100">
+          <analyzer type="index">
+              <charFilter class="solr.HTMLStripCharFilterFactory"/>
+              <tokenizer class="solr.StandardTokenizerFactory"/>
+              <filter class="solr.LengthFilterFactory" min="2" max="50"/>
+              <filter class="solr.SynonymFilterFactory" synonyms="lang/synonyms.txt" ignoreCase="true" expand="true"/>
+              <filter class="solr.ElisionFilterFactory" ignoreCase="true" articles="lang/contractions_fr.txt"/>
+              <filter class="solr.LowerCaseFilterFactory"/>
+              <filter class="solr.ASCIIFoldingFilterFactory"/>
+              <filter class="solr.StopFilterFactory" ignoreCase="true" words="lang/stopwords_fr.txt" format="snowball" />
+              <filter class="solr.FrenchLightStemFilterFactory"/>
+          </analyzer>  
+          <analyzer type="query">
+              <charFilter class="solr.HTMLStripCharFilterFactory"/>
+              <tokenizer class="solr.StandardTokenizerFactory"/>
+              <filter class="solr.LengthFilterFactory" min="2" max="50"/>
+              <filter class="solr.SynonymFilterFactory" synonyms="lang/synonyms.txt" ignoreCase="true" expand="false"/>
+              <filter class="solr.ElisionFilterFactory" ignoreCase="true" articles="lang/contractions_fr.txt"/>
+              <filter class="solr.LowerCaseFilterFactory"/>
+              <filter class="solr.ASCIIFoldingFilterFactory"/>
+              <filter class="solr.StopFilterFactory" ignoreCase="true" words="lang/stopwords_fr.txt" format="snowball" />
+              <filter class="solr.FrenchLightStemFilterFactory"/>
+          </analyzer> 
+      </fieldType>
+
+    <fieldType name="text_en" class="solr.TextField" positionIncrementGap="100">
+      <analyzer>
+        <tokenizer class="solr.StandardTokenizerFactory"/>        
+        <filter class="solr.LowerCaseFilterFactory"/>
+         <filter class="solr.EnglishPossessiveFilterFactory"/>        
+        <filter class="solr.PorterStemFilterFactory"/>
+      </analyzer>
+    </fieldType>
+</schema>

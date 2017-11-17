@@ -1,0 +1,8 @@
+{
+  "code" : "82.92",
+  "libelle" : "Activités de conditionnement",
+  "niveau" : "classe",
+  "enfants" : [ "82.92Z" ],
+  "parents" : [ "N", "82", "82.9" ],
+  "noteGenerale" : null
+}

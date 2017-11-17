@@ -1,0 +1,8 @@
+{
+  "code" : "63.91",
+  "libelle" : "Activités des agences de presse",
+  "niveau" : "classe",
+  "enfants" : [ "63.91Z" ],
+  "parents" : [ "J", "63", "63.9" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "47.63",
+  "libelle" : "Commerce de détail d'enregistrements musicaux et vidéo en magasin spécialisé",
+  "niveau" : "classe",
+  "enfants" : [ "47.63Z" ],
+  "parents" : [ "G", "47", "47.6" ],
+  "noteGenerale" : null
+}

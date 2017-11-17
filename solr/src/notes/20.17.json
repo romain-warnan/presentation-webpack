@@ -1,0 +1,8 @@
+{
+  "code" : "20.17",
+  "libelle" : "Fabrication de caoutchouc synthétique",
+  "niveau" : "classe",
+  "enfants" : [ "20.17Z" ],
+  "parents" : [ "C", "20", "20.1" ],
+  "noteGenerale" : null
+}

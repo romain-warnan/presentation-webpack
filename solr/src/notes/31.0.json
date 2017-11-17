@@ -1,0 +1,8 @@
+{
+  "code" : "31.0",
+  "libelle" : "Fabrication de meubles",
+  "niveau" : "groupe",
+  "enfants" : [ "31.09", "31.03", "31.02", "31.01" ],
+  "parents" : [ "C", "31" ],
+  "noteGenerale" : null
+}

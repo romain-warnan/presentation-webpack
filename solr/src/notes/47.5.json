@@ -1,0 +1,8 @@
+{
+  "code" : "47.5",
+  "libelle" : "Commerce de détail d'autres équipements du foyer en magasin spécialisé",
+  "niveau" : "groupe",
+  "enfants" : [ "47.59", "47.54", "47.53", "47.52", "47.51" ],
+  "parents" : [ "G", "47" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend le commerce de détail d'équipements ménagers, tels que textiles, quincaillerie, tapis, appareils électriques ou meubles, en magasins spécialisés.</p>\n    </div:div>\n"
+}

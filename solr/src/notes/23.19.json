@@ -1,0 +1,8 @@
+{
+  "code" : "23.19",
+  "libelle" : "Fabrication et façonnage d'autres articles en verre, y compris verre technique",
+  "niveau" : "classe",
+  "enfants" : [ "23.19Z" ],
+  "parents" : [ "C", "23", "23.1" ],
+  "noteGenerale" : null
+}

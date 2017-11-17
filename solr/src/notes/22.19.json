@@ -1,0 +1,8 @@
+{
+  "code" : "22.19",
+  "libelle" : "Fabrication d'autres articles en caoutchouc",
+  "niveau" : "classe",
+  "enfants" : [ "22.19Z" ],
+  "parents" : [ "C", "22", "22.1" ],
+  "noteGenerale" : null
+}

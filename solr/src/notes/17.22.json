@@ -1,0 +1,8 @@
+{
+  "code" : "17.22",
+  "libelle" : "Fabrication d'articles en papier à usage sanitaire ou domestique",
+  "niveau" : "classe",
+  "enfants" : [ "17.22Z" ],
+  "parents" : [ "C", "17", "17.2" ],
+  "noteGenerale" : null
+}

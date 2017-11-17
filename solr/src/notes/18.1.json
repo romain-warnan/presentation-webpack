@@ -1,0 +1,8 @@
+{
+  "code" : "18.1",
+  "libelle" : "Imprimerie et services annexes",
+  "niveau" : "groupe",
+  "enfants" : [ "18.14", "18.13", "18.12", "18.11" ],
+  "parents" : [ "C", "18" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe concerne l'impression de produits tels que journaux, livres, périodiques, formulaires commerciaux, cartes de vœux et autres matériaux et recouvre également des activités accessoires telles que les services de reliure, de photogravure et de photocomposition. L'imprimerie peut faire appel à des techniques variées et à différents types de matériaux.</p>\n    </div:div>\n"
+}

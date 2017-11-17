@@ -1,0 +1,8 @@
+{
+  "code" : "41.1",
+  "libelle" : "Promotion immobilière",
+  "niveau" : "groupe",
+  "enfants" : [ "41.10" ],
+  "parents" : [ "F", "41" ],
+  "noteGenerale" : null
+}

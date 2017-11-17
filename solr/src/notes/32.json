@@ -1,0 +1,8 @@
+{
+  "code" : "32",
+  "libelle" : "Autres industries manufacturières",
+  "niveau" : "division",
+  "enfants" : [ "32.9", "32.5", "32.4", "32.3", "32.2", "32.1" ],
+  "parents" : [ "C" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend la fabrication de différents articles non classés ailleurs dans la nomenclature. Dans la mesure où il s'agit d'une division résiduelle, les processus de production, les matières de base et l'utilisation des articles produits peuvent varier considérablement et les critères usuels pour regrouper les classes en divisions n'ont pas été appliqués ici.</p>\n    </div:div>\n"
+}

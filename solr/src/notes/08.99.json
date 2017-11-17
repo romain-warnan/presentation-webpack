@@ -1,0 +1,8 @@
+{
+  "code" : "08.99",
+  "libelle" : "Autres activités extractives n.c.a.",
+  "niveau" : "classe",
+  "enfants" : [ "08.99Z" ],
+  "parents" : [ "B", "08", "08.9" ],
+  "noteGenerale" : null
+}

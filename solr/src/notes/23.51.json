@@ -1,0 +1,8 @@
+{
+  "code" : "23.51",
+  "libelle" : "Fabrication de ciment",
+  "niveau" : "classe",
+  "enfants" : [ "23.51Z" ],
+  "parents" : [ "C", "23", "23.5" ],
+  "noteGenerale" : null
+}

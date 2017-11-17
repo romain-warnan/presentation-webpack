@@ -1,0 +1,8 @@
+{
+  "code" : "10.13",
+  "libelle" : "Préparation de produits à base de viande",
+  "niveau" : "classe",
+  "enfants" : [ "10.13B", "10.13A" ],
+  "parents" : [ "C", "10", "10.1" ],
+  "noteGenerale" : null
+}

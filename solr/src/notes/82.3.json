@@ -1,0 +1,8 @@
+{
+  "code" : "82.3",
+  "libelle" : "Organisation de salons professionnels et congrès",
+  "niveau" : "groupe",
+  "enfants" : [ "82.30" ],
+  "parents" : [ "N", "82" ],
+  "noteGenerale" : null
+}

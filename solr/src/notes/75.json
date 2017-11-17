@@ -1,0 +1,8 @@
+{
+  "code" : "75",
+  "libelle" : "Activités vétérinaires",
+  "niveau" : "division",
+  "enfants" : [ "75.0" ],
+  "parents" : [ "M" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend les activités de soins et de contrôle vétérinaires exercées sur des animaux de ferme ou de compagnie. Ces activités sont exercées par des vétérinaires qualifiés dans des cliniques vétérinaires, lors de la visite de fermes, de chenils ou d'asiles pour animaux, dans les salles de consultation ou d'opération des vétérinaires ou dans d'autres lieux. Elle comprend également les activités des ambulances pour animaux.</p>\n    </div:div>\n"
+}

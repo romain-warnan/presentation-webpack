@@ -1,0 +1,8 @@
+{
+  "code" : "32.3",
+  "libelle" : "Fabrication d'articles de sport",
+  "niveau" : "groupe",
+  "enfants" : [ "32.30" ],
+  "parents" : [ "C", "32" ],
+  "noteGenerale" : null
+}

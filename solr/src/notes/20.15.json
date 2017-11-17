@@ -1,0 +1,8 @@
+{
+  "code" : "20.15",
+  "libelle" : "Fabrication de produits azotés et d'engrais",
+  "niveau" : "classe",
+  "enfants" : [ "20.15Z" ],
+  "parents" : [ "C", "20", "20.1" ],
+  "noteGenerale" : null
+}

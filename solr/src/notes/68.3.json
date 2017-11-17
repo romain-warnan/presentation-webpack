@@ -1,0 +1,8 @@
+{
+  "code" : "68.3",
+  "libelle" : "Activités immobilières pour compte de tiers",
+  "niveau" : "groupe",
+  "enfants" : [ "68.32", "68.31" ],
+  "parents" : [ "L", "68" ],
+  "noteGenerale" : null
+}

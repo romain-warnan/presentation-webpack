@@ -1,0 +1,8 @@
+{
+  "code" : "18.14",
+  "libelle" : "Reliure et activités connexes",
+  "niveau" : "classe",
+  "enfants" : [ "18.14Z" ],
+  "parents" : [ "C", "18", "18.1" ],
+  "noteGenerale" : null
+}

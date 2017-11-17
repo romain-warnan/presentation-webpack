@@ -1,0 +1,8 @@
+{
+  "code" : "47.91",
+  "libelle" : "Vente à distance",
+  "niveau" : "classe",
+  "enfants" : [ "47.91B", "47.91A" ],
+  "parents" : [ "G", "47", "47.9" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette classe comprend le commerce de détail, par correspondance ou par Internet, c'est-à-dire le commerce de détail où l'acheteur fait son choix à l'aide de publicités, de catalogues, d'informations figurant sur un site web, de modèles ou de tout autre moyen publicitaire et effectue sa commande par courrier, téléphone ou Internet (en général grâce à des procédures particulières prévues par les sites web). Les produits achetés peuvent être téléchargés directement sur Internet ou livrés physiquement au client.</p>\n    </div:div>\n"
+}

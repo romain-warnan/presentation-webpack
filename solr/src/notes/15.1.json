@@ -1,0 +1,8 @@
+{
+  "code" : "15.1",
+  "libelle" : "Apprêt et tannage des cuirs ; préparation et teinture des fourrures ; fabrication d'articles de voyage, de maroquinerie et de sellerie",
+  "niveau" : "groupe",
+  "enfants" : [ "15.12", "15.11" ],
+  "parents" : [ "C", "15" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "49.1",
+  "libelle" : "Transport ferroviaire interurbain de voyageurs",
+  "niveau" : "groupe",
+  "enfants" : [ "49.10" ],
+  "parents" : [ "H", "49" ],
+  "noteGenerale" : null
+}

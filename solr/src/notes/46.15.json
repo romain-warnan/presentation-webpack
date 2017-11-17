@@ -1,0 +1,8 @@
+{
+  "code" : "46.15",
+  "libelle" : "Intermédiaires du commerce en meubles, articles de ménage et quincaillerie",
+  "niveau" : "classe",
+  "enfants" : [ "46.15Z" ],
+  "parents" : [ "G", "46", "46.1" ],
+  "noteGenerale" : null
+}

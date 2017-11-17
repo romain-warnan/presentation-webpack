@@ -1,0 +1,8 @@
+{
+  "code" : "27.12",
+  "libelle" : "Fabrication de matériel de distribution et de commande électrique",
+  "niveau" : "classe",
+  "enfants" : [ "27.12Z" ],
+  "parents" : [ "C", "27", "27.1" ],
+  "noteGenerale" : null
+}

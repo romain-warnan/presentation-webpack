@@ -1,0 +1,8 @@
+{
+  "code" : "46.71Z",
+  "libelle" : "Commerce de gros (commerce interentreprises) de combustibles et de produits annexes",
+  "niveau" : "sousClasse",
+  "parents" : [ "G", "46", "46.7", "46.71" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>le commerce de gros de carburants, de graisses, de lubrifiants, d'huiles, tels que :</p>\n                <ul class=\"list1\">\n                    <li>\n                        <p>charbon de bois, charbon, coke, bois de chauffage, naphta</p>\n                    </li>\n                    <li>\n                        <p>pétrole brut, gasoil, essence, mazout, kérosène</p>\n                    </li>\n                    <li>\n                        <p>gaz de pétrole liquéfié, butane et propane</p>\n                    </li>\n                    <li>\n                        <p>huiles de graissage et graisses lubrifiantes, produits pétroliers raffinés</p>\n                    </li>\n                </ul>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null
+}

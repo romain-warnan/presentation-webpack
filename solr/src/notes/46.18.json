@@ -1,0 +1,8 @@
+{
+  "code" : "46.18",
+  "libelle" : "Intermédiaires spécialisés dans le commerce d'autres produits spécifiques",
+  "niveau" : "classe",
+  "enfants" : [ "46.18Z" ],
+  "parents" : [ "G", "46", "46.1" ],
+  "noteGenerale" : null
+}

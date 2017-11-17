@@ -1,0 +1,8 @@
+{
+  "code" : "14.13",
+  "libelle" : "Fabrication de vêtements de dessus",
+  "niveau" : "classe",
+  "enfants" : [ "14.13Z" ],
+  "parents" : [ "C", "14", "14.1" ],
+  "noteGenerale" : null
+}

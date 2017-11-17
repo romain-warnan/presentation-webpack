@@ -1,0 +1,8 @@
+{
+  "code" : "61.1",
+  "libelle" : "Télécommunications filaires",
+  "niveau" : "groupe",
+  "enfants" : [ "61.10" ],
+  "parents" : [ "J", "61" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "20.14",
+  "libelle" : "Fabrication d'autres produits chimiques organiques de base",
+  "niveau" : "classe",
+  "enfants" : [ "20.14Z" ],
+  "parents" : [ "C", "20", "20.1" ],
+  "noteGenerale" : null
+}

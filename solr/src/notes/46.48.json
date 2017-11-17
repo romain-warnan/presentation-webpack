@@ -1,0 +1,8 @@
+{
+  "code" : "46.48",
+  "libelle" : "Commerce de gros d'articles d'horlogerie et de bijouterie",
+  "niveau" : "classe",
+  "enfants" : [ "46.48Z" ],
+  "parents" : [ "G", "46", "46.4" ],
+  "noteGenerale" : null
+}

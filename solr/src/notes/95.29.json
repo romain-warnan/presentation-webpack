@@ -1,0 +1,8 @@
+{
+  "code" : "95.29",
+  "libelle" : "Réparation d'autres biens personnels et domestiques",
+  "niveau" : "classe",
+  "enfants" : [ "95.29Z" ],
+  "parents" : [ "S", "95", "95.2" ],
+  "noteGenerale" : null
+}

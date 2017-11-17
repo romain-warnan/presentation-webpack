@@ -1,0 +1,8 @@
+{
+  "code" : "23.14",
+  "libelle" : "Fabrication de fibres de verre",
+  "niveau" : "classe",
+  "enfants" : [ "23.14Z" ],
+  "parents" : [ "C", "23", "23.1" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "18.12",
+  "libelle" : "Autre imprimerie (labeur)",
+  "niveau" : "classe",
+  "enfants" : [ "18.12Z" ],
+  "parents" : [ "C", "18", "18.1" ],
+  "noteGenerale" : null
+}

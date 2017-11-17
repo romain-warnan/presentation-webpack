@@ -1,0 +1,8 @@
+{
+  "code" : "38.3",
+  "libelle" : "Récupération",
+  "niveau" : "groupe",
+  "enfants" : [ "38.32", "38.31" ],
+  "parents" : [ "E", "38" ],
+  "noteGenerale" : null
+}

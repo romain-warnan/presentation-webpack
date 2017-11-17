@@ -1,0 +1,8 @@
+{
+  "code" : "28.23",
+  "libelle" : "Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques)",
+  "niveau" : "classe",
+  "enfants" : [ "28.23Z" ],
+  "parents" : [ "C", "28", "28.2" ],
+  "noteGenerale" : null
+}

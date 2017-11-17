@@ -1,0 +1,8 @@
+{
+  "code" : "46.22",
+  "libelle" : "Commerce de gros de fleurs et plantes",
+  "niveau" : "classe",
+  "enfants" : [ "46.22Z" ],
+  "parents" : [ "G", "46", "46.2" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "46.9",
+  "libelle" : "Commerce de gros non spécialisé",
+  "niveau" : "groupe",
+  "enfants" : [ "46.90" ],
+  "parents" : [ "G", "46" ],
+  "noteGenerale" : null
+}

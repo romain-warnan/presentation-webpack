@@ -1,0 +1,8 @@
+{
+  "code" : "08.91",
+  "libelle" : "Extraction des minéraux chimiques et d'engrais minéraux",
+  "niveau" : "classe",
+  "enfants" : [ "08.91Z" ],
+  "parents" : [ "B", "08", "08.9" ],
+  "noteGenerale" : null
+}

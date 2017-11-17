@@ -1,0 +1,8 @@
+{
+  "code" : "64.91",
+  "libelle" : "Crédit-bail",
+  "niveau" : "classe",
+  "enfants" : [ "64.91Z" ],
+  "parents" : [ "K", "64", "64.9" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "16.23",
+  "libelle" : "Fabrication de charpentes et d'autres menuiseries",
+  "niveau" : "classe",
+  "enfants" : [ "16.23Z" ],
+  "parents" : [ "C", "16", "16.2" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "69.1",
+  "libelle" : "Activités juridiques",
+  "niveau" : "groupe",
+  "enfants" : [ "69.10" ],
+  "parents" : [ "M", "69" ],
+  "noteGenerale" : null
+}

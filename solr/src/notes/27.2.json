@@ -1,0 +1,8 @@
+{
+  "code" : "27.2",
+  "libelle" : "Fabrication de piles et d'accumulateurs électriques",
+  "niveau" : "groupe",
+  "enfants" : [ "27.20" ],
+  "parents" : [ "C", "27" ],
+  "noteGenerale" : null
+}

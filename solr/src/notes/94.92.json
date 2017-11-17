@@ -1,0 +1,8 @@
+{
+  "code" : "94.92",
+  "libelle" : "Activités des organisations politiques",
+  "niveau" : "classe",
+  "enfants" : [ "94.92Z" ],
+  "parents" : [ "S", "94", "94.9" ],
+  "noteGenerale" : null
+}

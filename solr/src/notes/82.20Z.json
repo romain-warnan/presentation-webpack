@@ -1,0 +1,8 @@
+{
+  "code" : "82.20Z",
+  "libelle" : "Activités de centres d'appels",
+  "niveau" : "sousClasse",
+  "parents" : [ "N", "82", "82.2", "82.20" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>les activités des centres d'appels entrants : la réception d'appels venant de clients par des opérateurs humains, des systèmes de répartition automatique des appels, d'intégration du téléphone à l'ordinateur, de réponse vocale interactive ou des méthodes similaires pour prendre des commandes, donner des informations sur un produit, traiter les demandes d'assistance ou les réclamations des clients</p>\n            </li>\n            <li>\n                <p>les activités des centres d'appels sortants : utilisation de méthodes analogues pour vendre des biens ou des services à des clients potentiels, réaliser des études de marché ou des sondages et effectuer des activités similaires pour des clients</p>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null
+}

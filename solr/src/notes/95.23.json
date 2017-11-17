@@ -1,0 +1,8 @@
+{
+  "code" : "95.23",
+  "libelle" : "Réparation de chaussures et d'articles en cuir",
+  "niveau" : "classe",
+  "enfants" : [ "95.23Z" ],
+  "parents" : [ "S", "95", "95.2" ],
+  "noteGenerale" : null
+}

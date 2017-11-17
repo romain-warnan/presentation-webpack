@@ -1,0 +1,8 @@
+{
+  "code" : "28.13",
+  "libelle" : "Fabrication d'autres pompes et compresseurs",
+  "niveau" : "classe",
+  "enfants" : [ "28.13Z" ],
+  "parents" : [ "C", "28", "28.1" ],
+  "noteGenerale" : null
+}

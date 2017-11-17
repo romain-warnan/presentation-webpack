@@ -1,0 +1,8 @@
+{
+  "code" : "13.94",
+  "libelle" : "Fabrication de ficelles, cordes et filets",
+  "niveau" : "classe",
+  "enfants" : [ "13.94Z" ],
+  "parents" : [ "C", "13", "13.9" ],
+  "noteGenerale" : null
+}

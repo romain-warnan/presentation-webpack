@@ -1,0 +1,8 @@
+{
+  "code" : "03.21",
+  "libelle" : "Aquaculture en mer",
+  "niveau" : "classe",
+  "enfants" : [ "03.21Z" ],
+  "parents" : [ "A", "03", "03.2" ],
+  "noteGenerale" : null
+}

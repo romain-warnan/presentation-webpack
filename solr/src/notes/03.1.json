@@ -1,0 +1,8 @@
+{
+  "code" : "03.1",
+  "libelle" : "Pêche",
+  "niveau" : "groupe",
+  "enfants" : [ "03.12", "03.11" ],
+  "parents" : [ "A", "03" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend la \"pêche de capture\", c'est-à-dire les activités de capture et de collecte visant à prélever ou à recueillir des organismes vivant à l'état sauvage dans le milieu aquatique (essentiellement poissons, coquillages et crustacés), ainsi que des plantes se développant dans les eaux océaniques, côtières ou intérieures pour la consommation humaine ou à d'autres fins, manuellement ou, le plus souvent, avec des filets, des lignes et des pièges fixes. Ces activités peuvent être réalisées dans la zone intertidale (comme dans le cas de la récolte de mollusques tels que les moules ou les huîtres) ou à l'aide de filets depuis le rivage ou à bord de pirogues fabriquées artisanalement ou, le plus souvent, à bord de bateaux fabriqués industriellement, dans les eaux côtières ou en haute mer. Ces activités comprennent également la pêche dans des milieux empoissonnés.</p>\n    </div:div>\n"
+}

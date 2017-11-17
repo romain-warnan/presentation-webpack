@@ -1,0 +1,8 @@
+{
+  "code" : "64.30",
+  "libelle" : "Fonds de placement et entités financières similaires",
+  "niveau" : "classe",
+  "enfants" : [ "64.30Z" ],
+  "parents" : [ "K", "64", "64.3" ],
+  "noteGenerale" : null
+}

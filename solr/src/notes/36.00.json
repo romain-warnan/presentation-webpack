@@ -1,0 +1,8 @@
+{
+  "code" : "36.00",
+  "libelle" : "Captage, traitement et distribution d'eau",
+  "niveau" : "classe",
+  "enfants" : [ "36.00Z" ],
+  "parents" : [ "E", "36", "36.0" ],
+  "noteGenerale" : null
+}

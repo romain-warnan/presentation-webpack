@@ -1,0 +1,8 @@
+{
+  "code" : "96.0",
+  "libelle" : "Autres services personnels",
+  "niveau" : "groupe",
+  "enfants" : [ "96.09", "96.04", "96.03", "96.02", "96.01" ],
+  "parents" : [ "S", "96" ],
+  "noteGenerale" : null
+}

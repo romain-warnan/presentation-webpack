@@ -1,0 +1,8 @@
+{
+  "code" : "95.12",
+  "libelle" : "Réparation d'équipements de communication",
+  "niveau" : "classe",
+  "enfants" : [ "95.12Z" ],
+  "parents" : [ "S", "95", "95.1" ],
+  "noteGenerale" : null
+}

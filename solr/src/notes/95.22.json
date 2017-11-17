@@ -1,0 +1,8 @@
+{
+  "code" : "95.22",
+  "libelle" : "Réparation d'appareils électroménagers et d'équipements pour la maison et le jardin",
+  "niveau" : "classe",
+  "enfants" : [ "95.22Z" ],
+  "parents" : [ "S", "95", "95.2" ],
+  "noteGenerale" : null
+}

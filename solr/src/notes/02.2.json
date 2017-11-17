@@ -1,0 +1,8 @@
+{
+  "code" : "02.2",
+  "libelle" : "Exploitation forestière",
+  "niveau" : "groupe",
+  "enfants" : [ "02.20" ],
+  "parents" : [ "A", "02" ],
+  "noteGenerale" : null
+}

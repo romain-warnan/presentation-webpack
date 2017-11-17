@@ -1,0 +1,8 @@
+{
+  "code" : "64.2",
+  "libelle" : "Activités des sociétés holding",
+  "niveau" : "groupe",
+  "enfants" : [ "64.20" ],
+  "parents" : [ "K", "64" ],
+  "noteGenerale" : null
+}

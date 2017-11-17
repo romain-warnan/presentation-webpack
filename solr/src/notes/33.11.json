@@ -1,0 +1,8 @@
+{
+  "code" : "33.11",
+  "libelle" : "Réparation d'ouvrages en métaux",
+  "niveau" : "classe",
+  "enfants" : [ "33.11Z" ],
+  "parents" : [ "C", "33", "33.1" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "02.3",
+  "libelle" : "Récolte de produits forestiers non ligneux poussant à l'état sauvage",
+  "niveau" : "groupe",
+  "enfants" : [ "02.30" ],
+  "parents" : [ "A", "02" ],
+  "noteGenerale" : null
+}

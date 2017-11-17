@@ -1,0 +1,8 @@
+{
+  "code" : "38.12",
+  "libelle" : "Collecte des déchets dangereux",
+  "niveau" : "classe",
+  "enfants" : [ "38.12Z" ],
+  "parents" : [ "E", "38", "38.1" ],
+  "noteGenerale" : null
+}

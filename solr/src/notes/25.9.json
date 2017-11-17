@@ -1,0 +1,8 @@
+{
+  "code" : "25.9",
+  "libelle" : "Fabrication d'autres ouvrages en métaux",
+  "niveau" : "groupe",
+  "enfants" : [ "25.99", "25.94", "25.93", "25.92", "25.91" ],
+  "parents" : [ "C", "25" ],
+  "noteGenerale" : null
+}

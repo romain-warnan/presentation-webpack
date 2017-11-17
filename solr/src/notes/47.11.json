@@ -1,0 +1,9 @@
+{
+  "code" : "47.11",
+  "libelle" : "Commerce de détail en magasin non spécialisé à prédominance alimentaire",
+  "niveau" : "classe",
+  "enfants" : [ "47.11F", "47.11E", "47.11D", "47.11C", "47.11B", "47.11A" ],
+  "parents" : [ "G", "47", "47.1" ],
+  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>le commerce de détail d'une large gamme de produits, avec toutefois une prédominance des produits alimentaires, des boissons et du tabac, notamment :</p>\n                <ul class=\"list1\">\n                    <li>\n                        <p>les activités des grandes surfaces qui, en sus des produits alimentaires, des boissons et du tabac qui représentent le plus gros des ventes, proposent également diverses autres lignes de produits tels que articles d'habillement, meubles, petits appareils, articles de quincaillerie, produits cosmétiques, etc.</p>\n                    </li>\n                </ul>\n            </li>\n        </ul>\n    </div:div>\n",
+  "noteGenerale" : null
+}

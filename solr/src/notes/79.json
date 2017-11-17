@@ -1,0 +1,8 @@
+{
+  "code" : "79",
+  "libelle" : "Activités des agences de voyage, voyagistes, services de réservation et activités connexes",
+  "niveau" : "division",
+  "enfants" : [ "79.9", "79.1" ],
+  "parents" : [ "N" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend l'activité des agences consistant principalement à vendre des services de voyage, voyage organisé, transport et hébergement au grand public et à des clients du secteur privé et l'activité consistant à planifier et mettre sur pied des voyages organisés vendus par des agences de voyage ou directement par des agents tels que des voyagistes, ainsi que d'autres services liés aux voyages, dont les services de réservation. Les activités des guides touristiques et de promotion du tourisme sont également incluses.</p>\n    </div:div>\n"
+}

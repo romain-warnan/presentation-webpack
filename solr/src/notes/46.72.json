@@ -1,0 +1,8 @@
+{
+  "code" : "46.72",
+  "libelle" : "Commerce de gros de minerais et métaux",
+  "niveau" : "classe",
+  "enfants" : [ "46.72Z" ],
+  "parents" : [ "G", "46", "46.7" ],
+  "noteGenerale" : null
+}

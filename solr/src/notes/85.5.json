@@ -1,0 +1,8 @@
+{
+  "code" : "85.5",
+  "libelle" : "Autres activités d'enseignement",
+  "niveau" : "groupe",
+  "enfants" : [ "85.59", "85.53", "85.52", "85.51" ],
+  "parents" : [ "P", "85" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend la formation continue générale et professionnelle, à des fins professionnelles, de loisirs ou de développement personnel. Il ne comprend pas les activités d'enseignement définies dans les groupes \n            <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/groupe/85.1\">85.1</a> à \n            <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/groupe/85.4\">85.4</a>, c'est-à-dire enseignement pré-primaire, enseignement primaire, enseignement secondaire et enseignement supérieur. Il comprend les camps et les écoles proposant à des groupes ou à des individus des cours de disciplines athlétiques, de langues étrangères, d'arts, de théâtre, de musique ou d'autres cours ou formations spécialisés non comparables à l'enseignement relevant des groupes \n            <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/groupe/85.1\">85.1</a> à \n            <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/groupe/85.4\">85.4</a>.</p>\n    </div:div>\n"
+}

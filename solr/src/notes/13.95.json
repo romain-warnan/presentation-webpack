@@ -1,0 +1,8 @@
+{
+  "code" : "13.95",
+  "libelle" : "Fabrication de non-tissés, sauf habillement",
+  "niveau" : "classe",
+  "enfants" : [ "13.95Z" ],
+  "parents" : [ "C", "13", "13.9" ],
+  "noteGenerale" : null
+}

@@ -1,0 +1,8 @@
+{
+  "code" : "18.2",
+  "libelle" : "Reproduction d'enregistrements",
+  "niveau" : "groupe",
+  "enfants" : [ "18.20" ],
+  "parents" : [ "C", "18" ],
+  "noteGenerale" : null
+}

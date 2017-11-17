@@ -1,0 +1,8 @@
+{
+  "code" : "28.22",
+  "libelle" : "Fabrication de matériel de levage et de manutention",
+  "niveau" : "classe",
+  "enfants" : [ "28.22Z" ],
+  "parents" : [ "C", "28", "28.2" ],
+  "noteGenerale" : null
+}

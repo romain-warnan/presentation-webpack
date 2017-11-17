@@ -1,0 +1,8 @@
+{
+  "code" : "23.5",
+  "libelle" : "Fabrication de ciment, chaux et plâtre",
+  "niveau" : "groupe",
+  "enfants" : [ "23.52", "23.51" ],
+  "parents" : [ "C", "23" ],
+  "noteGenerale" : null
+}

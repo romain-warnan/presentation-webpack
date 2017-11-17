@@ -1,0 +1,8 @@
+{
+  "code" : "50.2",
+  "libelle" : "Transports maritimes et côtiers de fret",
+  "niveau" : "groupe",
+  "enfants" : [ "50.20" ],
+  "parents" : [ "H", "50" ],
+  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend le transport de fret sur des bateaux conçus pour naviguer en mer ou dans les eaux côtières. Le transport de fret sur de grands lacs, etc. est également inclus si le type de bateaux utilisé est similaire.</p>\n    </div:div>\n"
+}
