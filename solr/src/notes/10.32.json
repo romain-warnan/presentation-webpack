@@ -1,8 +1,0 @@
-{
-  "code" : "10.32",
-  "libelle" : "Préparation de jus de fruits et légumes",
-  "niveau" : "classe",
-  "enfants" : [ "10.32Z" ],
-  "parents" : [ "C", "10", "10.3" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "68.32",
-  "libelle" : "Administration de biens immobiliers",
-  "niveau" : "classe",
-  "enfants" : [ "68.32B", "68.32A" ],
-  "parents" : [ "L", "68", "68.3" ],
-  "noteGenerale" : null
-}

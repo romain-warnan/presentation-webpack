@@ -1,8 +1,0 @@
-{
-  "code" : "47.54",
-  "libelle" : "Commerce de détail d'appareils électroménagers en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.54Z" ],
-  "parents" : [ "G", "47", "47.5" ],
-  "noteGenerale" : null
-}

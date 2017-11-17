@@ -1,8 +1,0 @@
-{
-  "code" : "58.2",
-  "libelle" : "Édition de logiciels",
-  "niveau" : "groupe",
-  "enfants" : [ "58.29", "58.21" ],
-  "parents" : [ "J", "58" ],
-  "noteGenerale" : null
-}

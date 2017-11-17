@@ -1,8 +1,0 @@
-{
-  "code" : "46.4",
-  "libelle" : "Commerce de gros de biens domestiques",
-  "niveau" : "groupe",
-  "enfants" : [ "46.49", "46.48", "46.47", "46.46", "46.45", "46.44", "46.43", "46.42", "46.41" ],
-  "parents" : [ "G", "46" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend le commerce de gros de biens domestiques, y compris les articles textiles.</p>\n    </div:div>\n"
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "23.3",
-  "libelle" : "Fabrication de matériaux de construction en terre cuite",
-  "niveau" : "groupe",
-  "enfants" : [ "23.32", "23.31" ],
-  "parents" : [ "C", "23" ],
-  "noteGenerale" : null
-}

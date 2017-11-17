@@ -1,8 +1,0 @@
-{
-  "code" : "35.13",
-  "libelle" : "Distribution d'électricité",
-  "niveau" : "classe",
-  "enfants" : [ "35.13Z" ],
-  "parents" : [ "D", "35", "35.1" ],
-  "noteGenerale" : null
-}

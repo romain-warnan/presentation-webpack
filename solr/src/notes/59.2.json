@@ -1,8 +1,0 @@
-{
-  "code" : "59.2",
-  "libelle" : "Enregistrement sonore et édition musicale",
-  "niveau" : "groupe",
-  "enfants" : [ "59.20" ],
-  "parents" : [ "J", "59" ],
-  "noteGenerale" : null
-}

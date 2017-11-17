@@ -1,8 +1,0 @@
-{
-  "code" : "50.40",
-  "libelle" : "Transports fluviaux de fret",
-  "niveau" : "classe",
-  "enfants" : [ "50.40Z" ],
-  "parents" : [ "H", "50", "50.4" ],
-  "noteGenerale" : null
-}

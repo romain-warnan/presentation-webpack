@@ -1,7 +1,0 @@
-{
-  "code" : "46.38A",
-  "libelle" : "Commerce de gros (commerce interentreprises) de poissons, crustacés et mollusques",
-  "niveau" : "sousClasse",
-  "parents" : [ "G", "46", "46.3", "46.38" ],
-  "noteGenerale" : null
-}

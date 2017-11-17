@@ -1,8 +1,0 @@
-{
-  "code" : "58.12",
-  "libelle" : "Édition de répertoires et de fichiers d'adresses",
-  "niveau" : "classe",
-  "enfants" : [ "58.12Z" ],
-  "parents" : [ "J", "58", "58.1" ],
-  "noteGenerale" : null
-}

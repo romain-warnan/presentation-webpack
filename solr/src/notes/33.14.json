@@ -1,8 +1,0 @@
-{
-  "code" : "33.14",
-  "libelle" : "Réparation d'équipements électriques",
-  "niveau" : "classe",
-  "enfants" : [ "33.14Z" ],
-  "parents" : [ "C", "33", "33.1" ],
-  "noteGenerale" : null
-}

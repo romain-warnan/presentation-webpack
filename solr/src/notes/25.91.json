@@ -1,8 +1,0 @@
-{
-  "code" : "25.91",
-  "libelle" : "Fabrication de fûts et emballages métalliques similaires",
-  "niveau" : "classe",
-  "enfants" : [ "25.91Z" ],
-  "parents" : [ "C", "25", "25.9" ],
-  "noteGenerale" : null
-}

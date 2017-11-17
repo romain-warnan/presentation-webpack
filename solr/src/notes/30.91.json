@@ -1,8 +1,0 @@
-{
-  "code" : "30.91",
-  "libelle" : "Fabrication de motocycles",
-  "niveau" : "classe",
-  "enfants" : [ "30.91Z" ],
-  "parents" : [ "C", "30", "30.9" ],
-  "noteGenerale" : null
-}

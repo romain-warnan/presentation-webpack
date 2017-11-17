@@ -1,8 +1,0 @@
-{
-  "code" : "01.45",
-  "libelle" : "Élevage d'ovins et de caprins",
-  "niveau" : "classe",
-  "enfants" : [ "01.45Z" ],
-  "parents" : [ "A", "01", "01.4" ],
-  "noteGenerale" : null
-}

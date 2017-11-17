@@ -1,8 +1,0 @@
-{
-  "code" : "69",
-  "libelle" : "Activités juridiques et comptables",
-  "niveau" : "division",
-  "enfants" : [ "69.2", "69.1" ],
-  "parents" : [ "M" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend la représentation juridique d'une partie contre une partie adverse, que ce soit ou non devant des tribunaux ou d'autres organes judiciaires, par des membres du barreau ou sous leur contrôle, sous la forme d'activités de conseil et de représentation dans des affaires civiles ou pénales ou dans des conflits du travail. Elle comprend également la rédaction de documents juridiques tels que des statuts, des accords d'association ou des documents analogues relatifs à la constitution de sociétés, les activités relatives aux brevets et aux droits d'auteur, la rédaction d'actes, de testaments, d'actes fiduciaires, etc., ainsi que les autres activités des notaires, huissiers, juges d'instruction et arbitres.</p>\n        <p>Elle comprend également les services comptables et de tenue de livres, comme la vérification des comptes, la préparation des états financiers et la tenue des livres.</p>\n    </div:div>\n"
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "23.20",
-  "libelle" : "Fabrication de produits réfractaires",
-  "niveau" : "classe",
-  "enfants" : [ "23.20Z" ],
-  "parents" : [ "C", "23", "23.2" ],
-  "noteGenerale" : null
-}

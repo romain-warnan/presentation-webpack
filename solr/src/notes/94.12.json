@@ -1,8 +1,0 @@
-{
-  "code" : "94.12",
-  "libelle" : "Activités des organisations professionnelles",
-  "niveau" : "classe",
-  "enfants" : [ "94.12Z" ],
-  "parents" : [ "S", "94", "94.1" ],
-  "noteGenerale" : null
-}

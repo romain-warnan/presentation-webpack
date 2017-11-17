@@ -1,8 +1,0 @@
-{
-  "code" : "64.92",
-  "libelle" : "Autre distribution de crédit",
-  "niveau" : "classe",
-  "enfants" : [ "64.92Z" ],
-  "parents" : [ "K", "64", "64.9" ],
-  "noteGenerale" : null
-}

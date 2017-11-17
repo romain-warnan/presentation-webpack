@@ -1,8 +1,0 @@
-{
-  "code" : "78.3",
-  "libelle" : "Autre mise à disposition de ressources humaines",
-  "niveau" : "groupe",
-  "enfants" : [ "78.30" ],
-  "parents" : [ "N", "78" ],
-  "noteGenerale" : null
-}

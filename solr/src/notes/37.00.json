@@ -1,8 +1,0 @@
-{
-  "code" : "37.00",
-  "libelle" : "Collecte et traitement des eaux usées",
-  "niveau" : "classe",
-  "enfants" : [ "37.00Z" ],
-  "parents" : [ "E", "37", "37.0" ],
-  "noteGenerale" : null
-}

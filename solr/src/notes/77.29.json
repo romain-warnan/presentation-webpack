@@ -1,8 +1,0 @@
-{
-  "code" : "77.29",
-  "libelle" : "Location et location-bail d'autres biens personnels et domestiques",
-  "niveau" : "classe",
-  "enfants" : [ "77.29Z" ],
-  "parents" : [ "N", "77", "77.2" ],
-  "noteGenerale" : null
-}

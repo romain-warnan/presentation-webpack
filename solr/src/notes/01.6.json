@@ -1,8 +1,0 @@
-{
-  "code" : "01.6",
-  "libelle" : "Activités de soutien à l'agriculture et traitement primaire des récoltes",
-  "niveau" : "groupe",
-  "enfants" : [ "01.64", "01.63", "01.62", "01.61" ],
-  "parents" : [ "A", "01" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend les activités annexes à la production agricole. Ces activités comprennent généralement une ou plusieurs opérations élémentaires du processus de production agricole réalisées pour le compte de tiers. En vue de la première commercialisation des produits agricoles, le traitement primaire des récoltes est également inclus.</p>\n    </div:div>\n"
-}

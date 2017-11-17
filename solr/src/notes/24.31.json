@@ -1,8 +1,0 @@
-{
-  "code" : "24.31",
-  "libelle" : "Étirage à froid de barres",
-  "niveau" : "classe",
-  "enfants" : [ "24.31Z" ],
-  "parents" : [ "C", "24", "24.3" ],
-  "noteGenerale" : null
-}

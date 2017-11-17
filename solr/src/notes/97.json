@@ -1,8 +1,0 @@
-{
-  "code" : "97",
-  "libelle" : "Activités des ménages en tant qu'employeurs de personnel domestique",
-  "niveau" : "division",
-  "enfants" : [ "97.0" ],
-  "parents" : [ "T" ],
-  "noteGenerale" : null
-}

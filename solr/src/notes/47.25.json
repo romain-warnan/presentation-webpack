@@ -1,8 +1,0 @@
-{
-  "code" : "47.25",
-  "libelle" : "Commerce de détail de boissons en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.25Z" ],
-  "parents" : [ "G", "47", "47.2" ],
-  "noteGenerale" : null
-}

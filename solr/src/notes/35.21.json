@@ -1,8 +1,0 @@
-{
-  "code" : "35.21",
-  "libelle" : "Production de combustibles gazeux",
-  "niveau" : "classe",
-  "enfants" : [ "35.21Z" ],
-  "parents" : [ "D", "35", "35.2" ],
-  "noteGenerale" : null
-}

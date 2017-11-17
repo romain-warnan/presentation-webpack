@@ -1,9 +1,0 @@
-{
-  "code" : "64.91Z",
-  "libelle" : "Crédit-bail",
-  "niveau" : "sousClasse",
-  "parents" : [ "K", "64", "64.9", "64.91" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>le crédit-bail, lorsque le bail couvre approximativement la durée de service escomptée du bien et que le preneur bénéficie de tous les avantages qu'offre l'utilisation de ce bien et qu'il assume tous les risques découlant de sa propriété. Le bien peut être transmissible ou non et une option d'achat est généralement disponible en fin de bail. Ce type de bail couvre tous les coûts ou presque, y compris les intérêts</p>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null,
-  "neComprendPas" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la location-bail (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/division/77\">77</a>, selon le type de bien loué)</p>\n            </li>\n        </ul>\n    </div:div>\n"
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "25.2",
-  "libelle" : "Fabrication de réservoirs, citernes et conteneurs métalliques",
-  "niveau" : "groupe",
-  "enfants" : [ "25.29", "25.21" ],
-  "parents" : [ "C", "25" ],
-  "noteGenerale" : null
-}

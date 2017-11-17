@@ -1,8 +1,0 @@
-{
-  "code" : "25.72",
-  "libelle" : "Fabrication de serrures et de ferrures",
-  "niveau" : "classe",
-  "enfants" : [ "25.72Z" ],
-  "parents" : [ "C", "25", "25.7" ],
-  "noteGenerale" : null
-}

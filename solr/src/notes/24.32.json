@@ -1,8 +1,0 @@
-{
-  "code" : "24.32",
-  "libelle" : "Laminage à froid de feuillards",
-  "niveau" : "classe",
-  "enfants" : [ "24.32Z" ],
-  "parents" : [ "C", "24", "24.3" ],
-  "noteGenerale" : null
-}

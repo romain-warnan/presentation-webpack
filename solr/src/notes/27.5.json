@@ -1,8 +1,0 @@
-{
-  "code" : "27.5",
-  "libelle" : "Fabrication d'appareils ménagers",
-  "niveau" : "groupe",
-  "enfants" : [ "27.52", "27.51" ],
-  "parents" : [ "C", "27" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend la fabrication de produits \"blancs\" et de petits appareils électroménagers, fonctionnant à l'électricité, au gaz ou avec d'autres sources d'énergie.</p>\n    </div:div>\n"
-}

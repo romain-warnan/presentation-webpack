@@ -1,8 +1,0 @@
-{
-  "code" : "86.10",
-  "libelle" : "Activités hospitalières",
-  "niveau" : "classe",
-  "enfants" : [ "86.10Z" ],
-  "parents" : [ "Q", "86", "86.1" ],
-  "noteGenerale" : null
-}

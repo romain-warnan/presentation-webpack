@@ -1,8 +1,0 @@
-{
-  "code" : "47.89",
-  "libelle" : "Autres commerces de détail sur éventaires et marchés",
-  "niveau" : "classe",
-  "enfants" : [ "47.89Z" ],
-  "parents" : [ "G", "47", "47.8" ],
-  "noteGenerale" : null
-}

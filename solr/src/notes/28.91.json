@@ -1,8 +1,0 @@
-{
-  "code" : "28.91",
-  "libelle" : "Fabrication de machines pour la métallurgie",
-  "niveau" : "classe",
-  "enfants" : [ "28.91Z" ],
-  "parents" : [ "C", "28", "28.9" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "94.92Z",
-  "libelle" : "Activités des organisations politiques",
-  "niveau" : "sousClasse",
-  "parents" : [ "S", "94", "94.9", "94.92" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>les activités des organisations politiques et des organisations auxiliaires comme les groupements de jeunes associés à un parti politique. Ces activités visent principalement à influencer l'opinion et les pouvoirs publics, notamment en faisant accéder des membres ou des sympathisants d'un parti à des postes politiques et peuvent comprendre la diffusion d'informations, les relations publiques, la collecte de fonds, etc.</p>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null
-}

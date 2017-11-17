@@ -1,17 +1,17 @@
 {
-  "name": "demo-3",
+  "name": "tmp_",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.5",
     "node-sass-chokidar": "^0.0.3",
     "npm-run-all": "^4.1.1",
-    "react": "16.0.0",
+    "react": "^16.1.1",
     "react-bootstrap": "^0.31.5",
-    "react-dom": "16.0.0",
+    "react-dom": "^16.1.1",
     "react-redux": "^5.0.6",
-    "react-router-dom": "4.2.2",
-    "react-scripts": "1.0.14",
+    "react-router-dom": "^4.2.2",
+    "react-scripts-ts": "2.8.0",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
     "remove-accents": "^0.4.2",
@@ -20,14 +20,25 @@
   "scripts": {
     "build-css": "node-sass-chokidar src/ -o src/",
     "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
-    "start-js": "react-scripts start",
+    "start-js": "react-scripts-ts start",
     "start": "npm-run-all -p watch-css start-js",
-    "build": "npm run build-css && react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
   },
   "devDependencies": {
+    "@types/classnames": "^2.2.3",
+    "@types/jest": "^21.1.6",
+    "@types/node": "^8.0.51",
+    "@types/react": "^16.0.22",
+    "@types/react-bootstrap": "^0.31.5",
+    "@types/react-dom": "^16.0.3",
+    "@types/react-redux": "^5.0.12",
+    "@types/react-router-dom": "^4.2.1",
+    "@types/redux": "^3.6.0",
+    "@types/redux-thunk": "^2.1.0",
     "compass-importer": "^0.4.1",
+    "eslint": "^4.11.0",
     "react-app-env": "^1.2.0"
   }
 }

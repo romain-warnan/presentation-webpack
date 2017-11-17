@@ -1,8 +1,0 @@
-{
-  "code" : "22.2",
-  "libelle" : "Fabrication de produits en plastique",
-  "niveau" : "groupe",
-  "enfants" : [ "22.29", "22.23", "22.22", "22.21" ],
-  "parents" : [ "C", "22" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend le transformation de résines synthétiques nouvelles ou réutilisées (recyclées) en produits intermédiaires ou finis en utilisant des processus tels que : moulage par compression, moulage par extrusion, moulage par injection, moulage par soufflage et fonderie. Dans la plupart des cas, les processus de production sont tels que les produits en résultant sont très diversifiés.</p>\n    </div:div>\n"
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "22.29",
-  "libelle" : "Fabrication d'autres articles en matières plastiques",
-  "niveau" : "classe",
-  "enfants" : [ "22.29B", "22.29A" ],
-  "parents" : [ "C", "22", "22.2" ],
-  "noteGenerale" : null
-}

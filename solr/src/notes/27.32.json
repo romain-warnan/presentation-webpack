@@ -1,8 +1,0 @@
-{
-  "code" : "27.32",
-  "libelle" : "Fabrication d'autres fils et câbles électroniques ou électriques",
-  "niveau" : "classe",
-  "enfants" : [ "27.32Z" ],
-  "parents" : [ "C", "27", "27.3" ],
-  "noteGenerale" : null
-}

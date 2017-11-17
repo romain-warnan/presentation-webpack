@@ -1,8 +1,0 @@
-{
-  "code" : "74.10",
-  "libelle" : "Activités spécialisées de design",
-  "niveau" : "classe",
-  "enfants" : [ "74.10Z" ],
-  "parents" : [ "M", "74", "74.1" ],
-  "noteGenerale" : null
-}

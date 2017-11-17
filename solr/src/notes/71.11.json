@@ -1,8 +1,0 @@
-{
-  "code" : "71.11",
-  "libelle" : "Activités d'architecture",
-  "niveau" : "classe",
-  "enfants" : [ "71.11Z" ],
-  "parents" : [ "M", "71", "71.1" ],
-  "noteGenerale" : null
-}

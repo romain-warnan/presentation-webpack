@@ -1,8 +1,0 @@
-{
-  "code" : "25.99",
-  "libelle" : "Fabrication d'autres produits métalliques n.c.a.",
-  "niveau" : "classe",
-  "enfants" : [ "25.99B", "25.99A" ],
-  "parents" : [ "C", "25", "25.9" ],
-  "noteGenerale" : null
-}

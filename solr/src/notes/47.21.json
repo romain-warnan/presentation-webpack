@@ -1,8 +1,0 @@
-{
-  "code" : "47.21",
-  "libelle" : "Commerce de détail de fruits et légumes en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.21Z" ],
-  "parents" : [ "G", "47", "47.2" ],
-  "noteGenerale" : null
-}

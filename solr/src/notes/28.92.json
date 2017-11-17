@@ -1,8 +1,0 @@
-{
-  "code" : "28.92",
-  "libelle" : "Fabrication de machines pour l'extraction ou la construction",
-  "niveau" : "classe",
-  "enfants" : [ "28.92Z" ],
-  "parents" : [ "C", "28", "28.9" ],
-  "noteGenerale" : null
-}

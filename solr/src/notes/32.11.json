@@ -1,8 +1,0 @@
-{
-  "code" : "32.11",
-  "libelle" : "Frappe de monnaie",
-  "niveau" : "classe",
-  "enfants" : [ "32.11Z" ],
-  "parents" : [ "C", "32", "32.1" ],
-  "noteGenerale" : null
-}

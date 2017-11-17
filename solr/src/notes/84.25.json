@@ -1,8 +1,0 @@
-{
-  "code" : "84.25",
-  "libelle" : "Services du feu et de secours",
-  "niveau" : "classe",
-  "enfants" : [ "84.25Z" ],
-  "parents" : [ "O", "84", "84.2" ],
-  "noteGenerale" : null
-}

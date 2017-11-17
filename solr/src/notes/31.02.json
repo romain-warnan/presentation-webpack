@@ -1,8 +1,0 @@
-{
-  "code" : "31.02",
-  "libelle" : "Fabrication de meubles de cuisine",
-  "niveau" : "classe",
-  "enfants" : [ "31.02Z" ],
-  "parents" : [ "C", "31", "31.0" ],
-  "noteGenerale" : null
-}

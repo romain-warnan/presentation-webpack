@@ -1,8 +1,0 @@
-{
-  "code" : "96.04",
-  "libelle" : "Entretien corporel",
-  "niveau" : "classe",
-  "enfants" : [ "96.04Z" ],
-  "parents" : [ "S", "96", "96.0" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "25.30",
-  "libelle" : "Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central",
-  "niveau" : "classe",
-  "enfants" : [ "25.30Z" ],
-  "parents" : [ "C", "25", "25.3" ],
-  "noteGenerale" : null
-}

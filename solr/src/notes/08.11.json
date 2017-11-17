@@ -1,8 +1,0 @@
-{
-  "code" : "08.11",
-  "libelle" : "Extraction de pierres ornementales et de construction, de calcaire industriel, de gypse, de craie et d'ardoise",
-  "niveau" : "classe",
-  "enfants" : [ "08.11Z" ],
-  "parents" : [ "B", "08", "08.1" ],
-  "noteGenerale" : null
-}

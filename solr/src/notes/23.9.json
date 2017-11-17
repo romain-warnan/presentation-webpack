@@ -1,8 +1,0 @@
-{
-  "code" : "23.9",
-  "libelle" : "Fabrication de produits abrasifs et de produits minéraux non métalliques n.c.a.",
-  "niveau" : "groupe",
-  "enfants" : [ "23.99", "23.91" ],
-  "parents" : [ "C", "23" ],
-  "noteGenerale" : null
-}

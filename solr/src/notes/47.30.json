@@ -1,8 +1,0 @@
-{
-  "code" : "47.30",
-  "libelle" : "Commerce de détail de carburants en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.30Z" ],
-  "parents" : [ "G", "47", "47.3" ],
-  "noteGenerale" : null
-}

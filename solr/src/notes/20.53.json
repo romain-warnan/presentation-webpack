@@ -1,8 +1,0 @@
-{
-  "code" : "20.53",
-  "libelle" : "Fabrication d'huiles essentielles",
-  "niveau" : "classe",
-  "enfants" : [ "20.53Z" ],
-  "parents" : [ "C", "20", "20.5" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "47.73",
-  "libelle" : "Commerce de détail de produits pharmaceutiques en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.73Z" ],
-  "parents" : [ "G", "47", "47.7" ],
-  "noteGenerale" : null
-}

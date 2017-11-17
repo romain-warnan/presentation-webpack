@@ -1,8 +1,0 @@
-{
-  "code" : "23.1",
-  "libelle" : "Fabrication de verre et d'articles en verre",
-  "niveau" : "groupe",
-  "enfants" : [ "23.19", "23.14", "23.13", "23.12", "23.11" ],
-  "parents" : [ "C", "23" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe inclut le verre sous toutes ses formes, quel que soit le procédé de fabrication et les articles en verre.</p>\n    </div:div>\n"
-}

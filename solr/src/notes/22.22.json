@@ -1,8 +1,0 @@
-{
-  "code" : "22.22",
-  "libelle" : "Fabrication d'emballages en matières plastiques",
-  "niveau" : "classe",
-  "enfants" : [ "22.22Z" ],
-  "parents" : [ "C", "22", "22.2" ],
-  "noteGenerale" : null
-}

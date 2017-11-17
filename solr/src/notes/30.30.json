@@ -1,8 +1,0 @@
-{
-  "code" : "30.30",
-  "libelle" : "Construction aéronautique et spatiale",
-  "niveau" : "classe",
-  "enfants" : [ "30.30Z" ],
-  "parents" : [ "C", "30", "30.3" ],
-  "noteGenerale" : null
-}

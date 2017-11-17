@@ -1,8 +1,0 @@
-{
-  "code" : "55.1",
-  "libelle" : "Hôtels et hébergement similaire",
-  "niveau" : "groupe",
-  "enfants" : [ "55.10" ],
-  "parents" : [ "I", "55" ],
-  "noteGenerale" : null
-}

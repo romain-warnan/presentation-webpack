@@ -1,8 +1,0 @@
-{
-  "code" : "24.42",
-  "libelle" : "Métallurgie de l'aluminium",
-  "niveau" : "classe",
-  "enfants" : [ "24.42Z" ],
-  "parents" : [ "C", "24", "24.4" ],
-  "noteGenerale" : null
-}

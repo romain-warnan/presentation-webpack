@@ -1,8 +1,0 @@
-{
-  "code" : "28.94",
-  "libelle" : "Fabrication de machines pour les industries textiles",
-  "niveau" : "classe",
-  "enfants" : [ "28.94Z" ],
-  "parents" : [ "C", "28", "28.9" ],
-  "noteGenerale" : null
-}

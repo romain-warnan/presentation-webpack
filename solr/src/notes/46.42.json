@@ -1,8 +1,0 @@
-{
-  "code" : "46.42",
-  "libelle" : "Commerce de gros d'habillement et de chaussures",
-  "niveau" : "classe",
-  "enfants" : [ "46.42Z" ],
-  "parents" : [ "G", "46", "46.4" ],
-  "noteGenerale" : null
-}

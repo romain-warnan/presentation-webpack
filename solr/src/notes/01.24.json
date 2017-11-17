@@ -1,8 +1,0 @@
-{
-  "code" : "01.24",
-  "libelle" : "Culture de fruits à pépins et à noyau",
-  "niveau" : "classe",
-  "enfants" : [ "01.24Z" ],
-  "parents" : [ "A", "01", "01.2" ],
-  "noteGenerale" : null
-}

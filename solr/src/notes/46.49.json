@@ -1,8 +1,0 @@
-{
-  "code" : "46.49",
-  "libelle" : "Commerce de gros d'autres biens domestiques",
-  "niveau" : "classe",
-  "enfants" : [ "46.49Z" ],
-  "parents" : [ "G", "46", "46.4" ],
-  "noteGenerale" : null
-}

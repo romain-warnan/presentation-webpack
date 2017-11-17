@@ -1,8 +1,0 @@
-{
-  "code" : "23.4",
-  "libelle" : "Fabrication d'autres produits en céramique et en porcelaine",
-  "niveau" : "groupe",
-  "enfants" : [ "23.49", "23.44", "23.43", "23.42", "23.41" ],
-  "parents" : [ "C", "23" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend la fabrication de produits finis obtenus à partir de minerais non-métalliques extraits de mines ou de carrières, tels que le sable, le gravier, la pierre ou l'argile.</p>\n    </div:div>\n"
-}

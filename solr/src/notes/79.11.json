@@ -1,8 +1,0 @@
-{
-  "code" : "79.11",
-  "libelle" : "Activités des agences de voyage",
-  "niveau" : "classe",
-  "enfants" : [ "79.11Z" ],
-  "parents" : [ "N", "79", "79.1" ],
-  "noteGenerale" : null
-}

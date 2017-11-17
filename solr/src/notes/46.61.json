@@ -1,8 +1,0 @@
-{
-  "code" : "46.61",
-  "libelle" : "Commerce de gros de matériel agricole",
-  "niveau" : "classe",
-  "enfants" : [ "46.61Z" ],
-  "parents" : [ "G", "46", "46.6" ],
-  "noteGenerale" : null
-}

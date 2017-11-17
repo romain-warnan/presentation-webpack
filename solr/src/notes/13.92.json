@@ -1,8 +1,0 @@
-{
-  "code" : "13.92",
-  "libelle" : "Fabrication d'articles textiles, sauf habillement",
-  "niveau" : "classe",
-  "enfants" : [ "13.92Z" ],
-  "parents" : [ "C", "13", "13.9" ],
-  "noteGenerale" : null
-}

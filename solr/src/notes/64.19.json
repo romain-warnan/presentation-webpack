@@ -1,8 +1,0 @@
-{
-  "code" : "64.19",
-  "libelle" : "Autres intermédiations monétaires",
-  "niveau" : "classe",
-  "enfants" : [ "64.19Z" ],
-  "parents" : [ "K", "64", "64.1" ],
-  "noteGenerale" : null
-}

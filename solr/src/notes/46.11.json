@@ -1,8 +1,0 @@
-{
-  "code" : "46.11",
-  "libelle" : "Intermédiaires du commerce en matières premières agricoles, animaux vivants, matières premières textiles et produits semi-finis",
-  "niveau" : "classe",
-  "enfants" : [ "46.11Z" ],
-  "parents" : [ "G", "46", "46.1" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "74.3",
-  "libelle" : "Traduction et interprétation",
-  "niveau" : "groupe",
-  "enfants" : [ "74.30" ],
-  "parents" : [ "M", "74" ],
-  "noteGenerale" : null
-}

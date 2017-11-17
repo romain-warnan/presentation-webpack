@@ -1,8 +1,0 @@
-{
-  "code" : "26.60",
-  "libelle" : "Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques",
-  "niveau" : "classe",
-  "enfants" : [ "26.60Z" ],
-  "parents" : [ "C", "26", "26.6" ],
-  "noteGenerale" : null
-}

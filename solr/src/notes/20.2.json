@@ -1,8 +1,0 @@
-{
-  "code" : "20.2",
-  "libelle" : "Fabrication de pesticides et d'autres produits agrochimiques",
-  "niveau" : "groupe",
-  "enfants" : [ "20.20" ],
-  "parents" : [ "C", "20" ],
-  "noteGenerale" : null
-}

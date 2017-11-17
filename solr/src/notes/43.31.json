@@ -1,8 +1,0 @@
-{
-  "code" : "43.31",
-  "libelle" : "Travaux de plâtrerie",
-  "niveau" : "classe",
-  "enfants" : [ "43.31Z" ],
-  "parents" : [ "F", "43", "43.3" ],
-  "noteGenerale" : null
-}

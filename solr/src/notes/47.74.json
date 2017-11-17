@@ -1,8 +1,0 @@
-{
-  "code" : "47.74",
-  "libelle" : "Commerce de détail d'articles médicaux et orthopédiques en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.74Z" ],
-  "parents" : [ "G", "47", "47.7" ],
-  "noteGenerale" : null
-}

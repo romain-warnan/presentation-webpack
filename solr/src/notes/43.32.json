@@ -1,8 +1,0 @@
-{
-  "code" : "43.32",
-  "libelle" : "Travaux de menuiserie",
-  "niveau" : "classe",
-  "enfants" : [ "43.32C", "43.32B", "43.32A" ],
-  "parents" : [ "F", "43", "43.3" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "38.22",
-  "libelle" : "Traitement et élimination des déchets dangereux",
-  "niveau" : "classe",
-  "enfants" : [ "38.22Z" ],
-  "parents" : [ "E", "38", "38.2" ],
-  "noteGenerale" : null
-}

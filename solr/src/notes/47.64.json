@@ -1,8 +1,0 @@
-{
-  "code" : "47.64",
-  "libelle" : "Commerce de détail d'articles de sport en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.64Z" ],
-  "parents" : [ "G", "47", "47.6" ],
-  "noteGenerale" : null
-}

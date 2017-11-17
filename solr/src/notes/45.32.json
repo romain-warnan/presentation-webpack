@@ -1,8 +1,0 @@
-{
-  "code" : "45.32",
-  "libelle" : "Commerce de détail d'équipements automobiles",
-  "niveau" : "classe",
-  "enfants" : [ "45.32Z" ],
-  "parents" : [ "G", "45", "45.3" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "23.6",
-  "libelle" : "Fabrication d'ouvrages en béton, en ciment ou en plâtre",
-  "niveau" : "groupe",
-  "enfants" : [ "23.69", "23.65", "23.64", "23.63", "23.62", "23.61" ],
-  "parents" : [ "C", "23" ],
-  "noteGenerale" : null
-}

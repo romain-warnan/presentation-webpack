@@ -1,8 +1,0 @@
-{
-  "code" : "79.9",
-  "libelle" : "Autres services de réservation et activités connexes",
-  "niveau" : "groupe",
-  "enfants" : [ "79.90" ],
-  "parents" : [ "N", "79" ],
-  "noteGenerale" : null
-}

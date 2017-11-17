@@ -1,8 +1,0 @@
-{
-  "code" : "01.61",
-  "libelle" : "Activités de soutien aux cultures",
-  "niveau" : "classe",
-  "enfants" : [ "01.61Z" ],
-  "parents" : [ "A", "01", "01.6" ],
-  "noteGenerale" : null
-}

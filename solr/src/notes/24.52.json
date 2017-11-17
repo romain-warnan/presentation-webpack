@@ -1,8 +1,0 @@
-{
-  "code" : "24.52",
-  "libelle" : "Fonderie d'acier",
-  "niveau" : "classe",
-  "enfants" : [ "24.52Z" ],
-  "parents" : [ "C", "24", "24.5" ],
-  "noteGenerale" : null
-}

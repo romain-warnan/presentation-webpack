@@ -1,8 +1,0 @@
-{
-  "code" : "64.11Z",
-  "libelle" : "Activités de banque centrale",
-  "niveau" : "sousClasse",
-  "parents" : [ "K", "64", "64.1", "64.11" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>l'émission et la gestion de la monnaie du pays, en liaison avec la Banque centrale Européenne (BCE)</p>\n            </li>\n            <li>\n                <p>le suivi et le contrôle de la masse monétaire, en liaison avec la Banque centrale Européenne (BCE)</p>\n            </li>\n            <li>\n                <p>la prise en compte de dépôts qui sont utilisés pour des opérations de compensation entre institutions financières</p>\n            </li>\n            <li>\n                <p>la surveillance des opérations bancaires</p>\n            </li>\n            <li>\n                <p>la détention de réserves de change</p>\n            </li>\n            <li>\n                <p>les activités de la banque centrale en tant que banque du gouvernement</p>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "87.2",
-  "libelle" : "Hébergement social pour personnes handicapées mentales, malades mentales et toxicomanes",
-  "niveau" : "groupe",
-  "enfants" : [ "87.20" ],
-  "parents" : [ "Q", "87" ],
-  "noteGenerale" : null
-}

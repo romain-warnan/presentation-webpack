@@ -1,8 +1,0 @@
-{
-  "code" : "29.2",
-  "libelle" : "Fabrication de carrosseries et remorques",
-  "niveau" : "groupe",
-  "enfants" : [ "29.20" ],
-  "parents" : [ "C", "29" ],
-  "noteGenerale" : null
-}

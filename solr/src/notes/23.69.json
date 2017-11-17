@@ -1,8 +1,0 @@
-{
-  "code" : "23.69",
-  "libelle" : "Fabrication d'autres ouvrages en béton, en ciment ou en plâtre",
-  "niveau" : "classe",
-  "enfants" : [ "23.69Z" ],
-  "parents" : [ "C", "23", "23.6" ],
-  "noteGenerale" : null
-}

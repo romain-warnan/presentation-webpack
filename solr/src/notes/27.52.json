@@ -1,8 +1,0 @@
-{
-  "code" : "27.52",
-  "libelle" : "Fabrication d'appareils ménagers non électriques",
-  "niveau" : "classe",
-  "enfants" : [ "27.52Z" ],
-  "parents" : [ "C", "27", "27.5" ],
-  "noteGenerale" : null
-}

@@ -1,9 +1,0 @@
-{
-  "code" : "68.20B",
-  "libelle" : "Location de terrains et d'autres biens immobiliers",
-  "niveau" : "sousClasse",
-  "parents" : [ "L", "68", "68.2", "68.20" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la location et l'exploitation d'immeubles non résidentiels (bureaux, espaces commerciaux, halls d'exposition, salle de conférence, de réception ou de réunion, installations d'entreposage en libre-service, etc.)</p>\n            </li>\n            <li>\n                <p>la location de terres et terrains, notamment à usage agricole</p>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null,
-  "comprendAussi" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la promotion immobilière d'autres biens immobiliers en vue d'une exploitation propre</p>\n            </li>\n            <li>\n                <p>la location de fonds de commerce</p>\n            </li>\n            <li>\n                <p>la location au mois ou à l'année de boxes ou de lieux de garage de véhicules</p>\n            </li>\n        </ul>\n    </div:div>\n"
-}

@@ -1,9 +1,0 @@
-{
-  "code" : "13.91Z",
-  "libelle" : "Fabrication d'étoffes à mailles",
-  "niveau" : "sousClasse",
-  "parents" : [ "C", "13", "13.9", "13.91" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la fabrication de tissus tricotés ou crochetés :</p>\n                <ul class=\"list1\">\n                    <li>\n                        <p>velours, peluches, étoffes bouclées (tissus-éponge), étoffes à longs poils et imitations de fourrures par tricotage</p>\n                    </li>\n                    <li>\n                        <p>étoffes des types utilisés pour filets, rideaux et vitrages, tricotés sur métier Rachel ou similaires</p>\n                    </li>\n                </ul>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null,
-  "neComprendPas" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la fabrication d'articles vestimentaires à mailles (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/14.39Z\">14.39Z</a>)</p>\n            </li>\n        </ul>\n    </div:div>\n"
-}

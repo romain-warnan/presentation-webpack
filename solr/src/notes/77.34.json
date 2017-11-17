@@ -1,8 +1,0 @@
-{
-  "code" : "77.34",
-  "libelle" : "Location et location-bail de matériels de transport par eau",
-  "niveau" : "classe",
-  "enfants" : [ "77.34Z" ],
-  "parents" : [ "N", "77", "77.3" ],
-  "noteGenerale" : null
-}

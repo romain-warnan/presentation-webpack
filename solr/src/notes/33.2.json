@@ -1,8 +1,0 @@
-{
-  "code" : "33.2",
-  "libelle" : "Installation de machines et d'équipements industriels",
-  "niveau" : "groupe",
-  "enfants" : [ "33.20" ],
-  "parents" : [ "C", "33" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "26.7",
-  "libelle" : "Fabrication de matériels optique et photographique",
-  "niveau" : "groupe",
-  "enfants" : [ "26.70" ],
-  "parents" : [ "C", "26" ],
-  "noteGenerale" : null
-}

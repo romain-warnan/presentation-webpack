@@ -1,8 +1,0 @@
-{
-  "code" : "51.10",
-  "libelle" : "Transports aériens de passagers",
-  "niveau" : "classe",
-  "enfants" : [ "51.10Z" ],
-  "parents" : [ "H", "51", "51.1" ],
-  "noteGenerale" : null
-}

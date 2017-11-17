@@ -1,8 +1,0 @@
-{
-  "code" : "01.3",
-  "libelle" : "Reproduction de plantes",
-  "niveau" : "groupe",
-  "enfants" : [ "01.30" ],
-  "parents" : [ "A", "01" ],
-  "noteGenerale" : null
-}

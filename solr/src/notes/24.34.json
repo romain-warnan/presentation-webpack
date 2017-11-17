@@ -1,8 +1,0 @@
-{
-  "code" : "24.34",
-  "libelle" : "Tréfilage à froid",
-  "niveau" : "classe",
-  "enfants" : [ "24.34Z" ],
-  "parents" : [ "C", "24", "24.3" ],
-  "noteGenerale" : null
-}

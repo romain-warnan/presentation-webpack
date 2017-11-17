@@ -1,8 +1,0 @@
-{
-  "code" : "10.86",
-  "libelle" : "Fabrication d'aliments homogénéisés et diététiques",
-  "niveau" : "classe",
-  "enfants" : [ "10.86Z" ],
-  "parents" : [ "C", "10", "10.8" ],
-  "noteGenerale" : null
-}

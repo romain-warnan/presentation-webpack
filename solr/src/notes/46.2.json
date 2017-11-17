@@ -1,8 +1,0 @@
-{
-  "code" : "46.2",
-  "libelle" : "Commerce de gros de produits agricoles bruts et d'animaux vivants",
-  "niveau" : "groupe",
-  "enfants" : [ "46.24", "46.23", "46.22", "46.21" ],
-  "parents" : [ "G", "46" ],
-  "noteGenerale" : null
-}

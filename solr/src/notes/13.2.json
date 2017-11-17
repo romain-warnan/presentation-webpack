@@ -1,8 +1,0 @@
-{
-  "code" : "13.2",
-  "libelle" : "Tissage",
-  "niveau" : "groupe",
-  "enfants" : [ "13.20" ],
-  "parents" : [ "C", "13" ],
-  "noteGenerale" : null
-}

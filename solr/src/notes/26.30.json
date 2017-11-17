@@ -1,8 +1,0 @@
-{
-  "code" : "26.30",
-  "libelle" : "Fabrication d'équipements de communication",
-  "niveau" : "classe",
-  "enfants" : [ "26.30Z" ],
-  "parents" : [ "C", "26", "26.3" ],
-  "noteGenerale" : null
-}

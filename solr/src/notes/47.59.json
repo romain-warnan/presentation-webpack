@@ -1,8 +1,0 @@
-{
-  "code" : "47.59",
-  "libelle" : "Commerce de détail de meubles, appareils d'éclairage et autres articles de ménage en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.59B", "47.59A" ],
-  "parents" : [ "G", "47", "47.5" ],
-  "noteGenerale" : null
-}

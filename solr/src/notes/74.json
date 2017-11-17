@@ -1,8 +1,0 @@
-{
-  "code" : "74",
-  "libelle" : "Autres activités spécialisées, scientifiques et techniques",
-  "niveau" : "division",
-  "enfants" : [ "74.9", "74.3", "74.2", "74.1" ],
-  "parents" : [ "M" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend la prestation de services spécialisés, scientifiques et techniques (à l'exclusion des activités juridiques et comptables, des activités d'architecture et d'ingénierie, des activités de contrôle et analyses techniques, des activités de gestion et conseil de gestion, de la recherche-développement et des activités publicitaires)</p>\n    </div:div>\n"
-}

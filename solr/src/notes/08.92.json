@@ -1,8 +1,0 @@
-{
-  "code" : "08.92",
-  "libelle" : "Extraction de tourbe",
-  "niveau" : "classe",
-  "enfants" : [ "08.92Z" ],
-  "parents" : [ "B", "08", "08.9" ],
-  "noteGenerale" : null
-}

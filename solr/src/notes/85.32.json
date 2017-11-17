@@ -1,8 +1,0 @@
-{
-  "code" : "85.32",
-  "libelle" : "Enseignement secondaire technique ou professionnel",
-  "niveau" : "classe",
-  "enfants" : [ "85.32Z" ],
-  "parents" : [ "P", "85", "85.3" ],
-  "noteGenerale" : null
-}

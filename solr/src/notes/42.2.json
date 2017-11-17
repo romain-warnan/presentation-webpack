@@ -1,8 +1,0 @@
-{
-  "code" : "42.2",
-  "libelle" : "Construction de réseaux et de lignes",
-  "niveau" : "groupe",
-  "enfants" : [ "42.22", "42.21" ],
-  "parents" : [ "F", "42" ],
-  "noteGenerale" : null
-}

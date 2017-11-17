@@ -1,8 +1,0 @@
-{
-  "code" : "23.64",
-  "libelle" : "Fabrication de mortiers et bétons secs",
-  "niveau" : "classe",
-  "enfants" : [ "23.64Z" ],
-  "parents" : [ "C", "23", "23.6" ],
-  "noteGenerale" : null
-}

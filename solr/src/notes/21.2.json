@@ -1,8 +1,0 @@
-{
-  "code" : "21.2",
-  "libelle" : "Fabrication de préparations pharmaceutiques",
-  "niveau" : "groupe",
-  "enfants" : [ "21.20" ],
-  "parents" : [ "C", "21" ],
-  "noteGenerale" : null
-}

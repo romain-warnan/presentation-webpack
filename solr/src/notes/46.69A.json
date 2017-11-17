@@ -1,9 +1,0 @@
-{
-  "code" : "46.69A",
-  "libelle" : "Commerce de gros (commerce interentreprises) de matériel électrique",
-  "niveau" : "sousClasse",
-  "parents" : [ "G", "46", "46.6", "46.69" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>le commerce de gros de fils, d'interrupteurs et d'autres matériels d'installation électrique à usage professionnel</p>\n            </li>\n            <li>\n                <p>le commerce de gros d'autres matériels électriques tels les moteurs et les transformateurs</p>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null,
-  "comprendAussi" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>le commerce de gros de matériel électrique de signalisation routière</p>\n            </li>\n            <li>\n                <p>le commerce de gros d'instruments et d'appareils de mesure</p>\n            </li>\n        </ul>\n    </div:div>\n"
-}

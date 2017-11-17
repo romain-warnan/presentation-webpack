@@ -1,8 +1,0 @@
-{
-  "code" : "17.24",
-  "libelle" : "Fabrication de papiers peints",
-  "niveau" : "classe",
-  "enfants" : [ "17.24Z" ],
-  "parents" : [ "C", "17", "17.2" ],
-  "noteGenerale" : null
-}

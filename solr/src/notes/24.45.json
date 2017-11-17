@@ -1,8 +1,0 @@
-{
-  "code" : "24.45",
-  "libelle" : "Métallurgie des autres métaux non ferreux",
-  "niveau" : "classe",
-  "enfants" : [ "24.45Z" ],
-  "parents" : [ "C", "24", "24.4" ],
-  "noteGenerale" : null
-}

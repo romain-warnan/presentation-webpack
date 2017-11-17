@@ -1,8 +1,0 @@
-{
-  "code" : "25.12",
-  "libelle" : "Fabrication de portes et fenêtres en métal",
-  "niveau" : "classe",
-  "enfants" : [ "25.12Z" ],
-  "parents" : [ "C", "25", "25.1" ],
-  "noteGenerale" : null
-}

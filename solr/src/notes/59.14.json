@@ -1,8 +1,0 @@
-{
-  "code" : "59.14",
-  "libelle" : "Projection de films cinématographiques",
-  "niveau" : "classe",
-  "enfants" : [ "59.14Z" ],
-  "parents" : [ "J", "59", "59.1" ],
-  "noteGenerale" : null
-}

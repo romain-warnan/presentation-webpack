@@ -1,8 +1,0 @@
-{
-  "code" : "20.12",
-  "libelle" : "Fabrication de colorants et de pigments",
-  "niveau" : "classe",
-  "enfants" : [ "20.12Z" ],
-  "parents" : [ "C", "20", "20.1" ],
-  "noteGenerale" : null
-}

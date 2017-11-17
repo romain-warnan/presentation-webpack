@@ -1,8 +1,0 @@
-{
-  "code" : "56.1",
-  "libelle" : "Restaurants et services de restauration mobile",
-  "niveau" : "groupe",
-  "enfants" : [ "56.10" ],
-  "parents" : [ "I", "56" ],
-  "noteGenerale" : null
-}

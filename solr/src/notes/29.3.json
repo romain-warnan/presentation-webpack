@@ -1,8 +1,0 @@
-{
-  "code" : "29.3",
-  "libelle" : "Fabrication d'équipements automobiles",
-  "niveau" : "groupe",
-  "enfants" : [ "29.32", "29.31" ],
-  "parents" : [ "C", "29" ],
-  "noteGenerale" : null
-}

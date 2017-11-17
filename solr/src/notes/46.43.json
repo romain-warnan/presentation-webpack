@@ -1,8 +1,0 @@
-{
-  "code" : "46.43",
-  "libelle" : "Commerce de gros d'appareils électroménagers",
-  "niveau" : "classe",
-  "enfants" : [ "46.43Z" ],
-  "parents" : [ "G", "46", "46.4" ],
-  "noteGenerale" : null
-}

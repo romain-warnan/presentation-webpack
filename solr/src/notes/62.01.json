@@ -1,8 +1,0 @@
-{
-  "code" : "62.01",
-  "libelle" : "Programmation informatique",
-  "niveau" : "classe",
-  "enfants" : [ "62.01Z" ],
-  "parents" : [ "J", "62", "62.0" ],
-  "noteGenerale" : null
-}

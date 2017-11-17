@@ -1,8 +1,0 @@
-{
-  "code" : "01.15",
-  "libelle" : "Culture du tabac",
-  "niveau" : "classe",
-  "enfants" : [ "01.15Z" ],
-  "parents" : [ "A", "01", "01.1" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "26.2",
-  "libelle" : "Fabrication d'ordinateurs et d'équipements périphériques",
-  "niveau" : "groupe",
-  "enfants" : [ "26.20" ],
-  "parents" : [ "C", "26" ],
-  "noteGenerale" : null
-}

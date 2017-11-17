@@ -1,8 +1,0 @@
-{
-  "code" : "53.2",
-  "libelle" : "Autres activités de poste et de courrier",
-  "niveau" : "groupe",
-  "enfants" : [ "53.20" ],
-  "parents" : [ "H", "53" ],
-  "noteGenerale" : null
-}

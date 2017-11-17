@@ -1,8 +1,0 @@
-{
-  "code" : "93.29",
-  "libelle" : "Autres activités récréatives et de loisirs",
-  "niveau" : "classe",
-  "enfants" : [ "93.29Z" ],
-  "parents" : [ "R", "93", "93.2" ],
-  "noteGenerale" : null
-}

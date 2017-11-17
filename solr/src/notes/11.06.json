@@ -1,8 +1,0 @@
-{
-  "code" : "11.06",
-  "libelle" : "Fabrication de malt",
-  "niveau" : "classe",
-  "enfants" : [ "11.06Z" ],
-  "parents" : [ "C", "11", "11.0" ],
-  "noteGenerale" : null
-}

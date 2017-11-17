@@ -1,8 +1,0 @@
-{
-  "code" : "01.22",
-  "libelle" : "Culture de fruits tropicaux et subtropicaux",
-  "niveau" : "classe",
-  "enfants" : [ "01.22Z" ],
-  "parents" : [ "A", "01", "01.2" ],
-  "noteGenerale" : null
-}

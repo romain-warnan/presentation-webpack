@@ -1,8 +1,0 @@
-{
-  "code" : "23.42",
-  "libelle" : "Fabrication d'appareils sanitaires en céramique",
-  "niveau" : "classe",
-  "enfants" : [ "23.42Z" ],
-  "parents" : [ "C", "23", "23.4" ],
-  "noteGenerale" : null
-}

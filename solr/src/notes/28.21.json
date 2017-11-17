@@ -1,8 +1,0 @@
-{
-  "code" : "28.21",
-  "libelle" : "Fabrication de fours et brûleurs",
-  "niveau" : "classe",
-  "enfants" : [ "28.21Z" ],
-  "parents" : [ "C", "28", "28.2" ],
-  "noteGenerale" : null
-}

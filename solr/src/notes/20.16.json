@@ -1,8 +1,0 @@
-{
-  "code" : "20.16",
-  "libelle" : "Fabrication de matières plastiques de base",
-  "niveau" : "classe",
-  "enfants" : [ "20.16Z" ],
-  "parents" : [ "C", "20", "20.1" ],
-  "noteGenerale" : null
-}

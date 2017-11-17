@@ -1,9 +1,0 @@
-{
-  "code" : "85.10Z",
-  "libelle" : "Enseignement pré-primaire",
-  "niveau" : "sousClasse",
-  "parents" : [ "P", "85", "85.1", "85.10" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>l'enseignement préprimaire (enseignement antérieur au niveau 1 de la CITE). L'éducation préprimaire est définie comme la première étape de l'instruction organisée et vise essentiellement à préparer les très jeunes enfants à un environnement scolaire, c'est-à-dire à ménager une transition entre la maison et l'école.</p>\n            </li>\n        </ul>\n        <p>* par exemple, enseignement dispensé par les écoles pré-élémentaires</p>\n    </div:div>\n",
-  "noteGenerale" : null,
-  "neComprendPas" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>les activités de garderies d'enfants (de jour) (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/classe/88.91\">88.91</a>)</p>\n            </li>\n        </ul>\n    </div:div>\n"
-}

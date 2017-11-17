@@ -1,8 +1,0 @@
-{
-  "code" : "01.13",
-  "libelle" : "Culture de légumes, de melons, de racines et de tubercules",
-  "niveau" : "classe",
-  "enfants" : [ "01.13Z" ],
-  "parents" : [ "A", "01", "01.1" ],
-  "noteGenerale" : null
-}

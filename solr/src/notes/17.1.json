@@ -1,8 +1,0 @@
-{
-  "code" : "17.1",
-  "libelle" : "Fabrication de pâte à papier, de papier et de carton",
-  "niveau" : "groupe",
-  "enfants" : [ "17.12", "17.11" ],
-  "parents" : [ "C", "17" ],
-  "noteGenerale" : null
-}

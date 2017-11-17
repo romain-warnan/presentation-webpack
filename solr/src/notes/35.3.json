@@ -1,8 +1,0 @@
-{
-  "code" : "35.3",
-  "libelle" : "Production et distribution de vapeur et d'air conditionné",
-  "niveau" : "groupe",
-  "enfants" : [ "35.30" ],
-  "parents" : [ "D", "35" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "61.90",
-  "libelle" : "Autres activités de télécommunication",
-  "niveau" : "classe",
-  "enfants" : [ "61.90Z" ],
-  "parents" : [ "J", "61", "61.9" ],
-  "noteGenerale" : null
-}

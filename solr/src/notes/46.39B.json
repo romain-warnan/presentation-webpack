@@ -1,7 +1,0 @@
-{
-  "code" : "46.39B",
-  "libelle" : "Commerce de gros (commerce interentreprises) alimentaire non spécialisé",
-  "niveau" : "sousClasse",
-  "parents" : [ "G", "46", "46.3", "46.39" ],
-  "noteGenerale" : null
-}

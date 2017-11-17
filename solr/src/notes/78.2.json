@@ -1,8 +1,0 @@
-{
-  "code" : "78.2",
-  "libelle" : "Activités des agences de travail temporaire",
-  "niveau" : "groupe",
-  "enfants" : [ "78.20" ],
-  "parents" : [ "N", "78" ],
-  "noteGenerale" : null
-}

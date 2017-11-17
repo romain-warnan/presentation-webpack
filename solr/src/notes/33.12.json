@@ -1,8 +1,0 @@
-{
-  "code" : "33.12",
-  "libelle" : "Réparation de machines et équipements mécaniques",
-  "niveau" : "classe",
-  "enfants" : [ "33.12Z" ],
-  "parents" : [ "C", "33", "33.1" ],
-  "noteGenerale" : null
-}

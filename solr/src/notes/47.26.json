@@ -1,8 +1,0 @@
-{
-  "code" : "47.26",
-  "libelle" : "Commerce de détail de produits à base de tabac en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.26Z" ],
-  "parents" : [ "G", "47", "47.2" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "49.2",
-  "libelle" : "Transports ferroviaires de fret",
-  "niveau" : "groupe",
-  "enfants" : [ "49.20" ],
-  "parents" : [ "H", "49" ],
-  "noteGenerale" : null
-}
