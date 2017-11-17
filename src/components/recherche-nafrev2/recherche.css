@@ -1,0 +1,14 @@
+.recherche {
+  padding-left: 10%;
+  padding-right: 10%; }
+  .recherche .search {
+    width: 450px; }
+  .recherche .search .icone-search {
+    display: block;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 7px;
+    right: 3px; }
+    .recherche .search .icone-search:hover {
+      cursor: pointer; }
