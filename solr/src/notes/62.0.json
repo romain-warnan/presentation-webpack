@@ -1,8 +1,0 @@
-{
-  "code" : "62.0",
-  "libelle" : "Programmation, conseil et autres activités informatiques",
-  "niveau" : "groupe",
-  "enfants" : [ "62.09", "62.03", "62.02", "62.01" ],
-  "parents" : [ "J", "62" ],
-  "noteGenerale" : null
-}

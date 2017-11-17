@@ -1,8 +1,0 @@
-{
-  "code" : "68.1",
-  "libelle" : "Activités des marchands de biens immobiliers",
-  "niveau" : "groupe",
-  "enfants" : [ "68.10" ],
-  "parents" : [ "L", "68" ],
-  "noteGenerale" : null
-}

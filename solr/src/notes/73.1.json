@@ -1,8 +1,0 @@
-{
-  "code" : "73.1",
-  "libelle" : "Publicité",
-  "niveau" : "groupe",
-  "enfants" : [ "73.12", "73.11" ],
-  "parents" : [ "M", "73" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "22.23",
-  "libelle" : "Fabrication d'éléments en matières plastiques pour la construction",
-  "niveau" : "classe",
-  "enfants" : [ "22.23Z" ],
-  "parents" : [ "C", "22", "22.2" ],
-  "noteGenerale" : null
-}

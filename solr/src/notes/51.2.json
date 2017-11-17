@@ -1,8 +1,0 @@
-{
-  "code" : "51.2",
-  "libelle" : "Transports aériens de fret et transports spatiaux",
-  "niveau" : "groupe",
-  "enfants" : [ "51.22", "51.21" ],
-  "parents" : [ "H", "51" ],
-  "noteGenerale" : null
-}

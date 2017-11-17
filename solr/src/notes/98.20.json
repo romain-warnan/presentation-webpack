@@ -1,8 +1,0 @@
-{
-  "code" : "98.20",
-  "libelle" : "Activités indifférenciées des ménages en tant que producteurs de services pour usage propre",
-  "niveau" : "classe",
-  "enfants" : [ "98.20Z" ],
-  "parents" : [ "T", "98", "98.2" ],
-  "noteGenerale" : null
-}

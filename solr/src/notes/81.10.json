@@ -1,8 +1,0 @@
-{
-  "code" : "81.10",
-  "libelle" : "Activités combinées de soutien lié aux bâtiments",
-  "niveau" : "classe",
-  "enfants" : [ "81.10Z" ],
-  "parents" : [ "N", "81", "81.1" ],
-  "noteGenerale" : null
-}

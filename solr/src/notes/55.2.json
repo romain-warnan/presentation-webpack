@@ -1,8 +1,0 @@
-{
-  "code" : "55.2",
-  "libelle" : "Hébergement touristique et autre hébergement de courte durée",
-  "niveau" : "groupe",
-  "enfants" : [ "55.20" ],
-  "parents" : [ "I", "55" ],
-  "noteGenerale" : null
-}

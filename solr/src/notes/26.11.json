@@ -1,8 +1,0 @@
-{
-  "code" : "26.11",
-  "libelle" : "Fabrication de composants électroniques",
-  "niveau" : "classe",
-  "enfants" : [ "26.11Z" ],
-  "parents" : [ "C", "26", "26.1" ],
-  "noteGenerale" : null
-}

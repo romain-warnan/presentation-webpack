@@ -1,9 +1,0 @@
-{
-  "code" : "41.10A",
-  "libelle" : "Promotion immobilière de logements",
-  "niveau" : "sousClasse",
-  "parents" : [ "F", "41", "41.1", "41.10" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la promotion immobilière de bâtiments à usage principal d'habitation</p>\n            </li>\n            <li>\n                <p>la promotion immobilière de résidences hôtelières</p>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null,
-  "neComprendPas" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la promotion immobilière à objet locatif (sociétés HLM notamment) (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/68.20A\">68.20A</a>)</p>\n            </li>\n            <li>\n                <p>l'activité des marchands de biens immobiliers (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/68.10Z\">68.10Z</a>)</p>\n            </li>\n        </ul>\n    </div:div>\n"
-}

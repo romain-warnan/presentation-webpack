@@ -1,8 +1,0 @@
-{
-  "code" : "46.69",
-  "libelle" : "Commerce de gros d'autres machines et équipements",
-  "niveau" : "classe",
-  "enfants" : [ "46.69C", "46.69B", "46.69A" ],
-  "parents" : [ "G", "46", "46.6" ],
-  "noteGenerale" : null
-}

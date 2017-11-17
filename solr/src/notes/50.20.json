@@ -1,8 +1,0 @@
-{
-  "code" : "50.20",
-  "libelle" : "Transports maritimes et côtiers de fret",
-  "niveau" : "classe",
-  "enfants" : [ "50.20Z" ],
-  "parents" : [ "H", "50", "50.2" ],
-  "noteGenerale" : null
-}

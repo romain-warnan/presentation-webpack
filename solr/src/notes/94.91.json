@@ -1,8 +1,0 @@
-{
-  "code" : "94.91",
-  "libelle" : "Activités des organisations religieuses",
-  "niveau" : "classe",
-  "enfants" : [ "94.91Z" ],
-  "parents" : [ "S", "94", "94.9" ],
-  "noteGenerale" : null
-}

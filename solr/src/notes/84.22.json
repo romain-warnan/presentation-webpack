@@ -1,8 +1,0 @@
-{
-  "code" : "84.22",
-  "libelle" : "Défense",
-  "niveau" : "classe",
-  "enfants" : [ "84.22Z" ],
-  "parents" : [ "O", "84", "84.2" ],
-  "noteGenerale" : null
-}

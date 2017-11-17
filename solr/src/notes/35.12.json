@@ -1,8 +1,0 @@
-{
-  "code" : "35.12",
-  "libelle" : "Transport d'électricité",
-  "niveau" : "classe",
-  "enfants" : [ "35.12Z" ],
-  "parents" : [ "D", "35", "35.1" ],
-  "noteGenerale" : null
-}

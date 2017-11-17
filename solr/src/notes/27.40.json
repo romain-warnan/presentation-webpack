@@ -1,8 +1,0 @@
-{
-  "code" : "27.40",
-  "libelle" : "Fabrication d'appareils d'éclairage électrique",
-  "niveau" : "classe",
-  "enfants" : [ "27.40Z" ],
-  "parents" : [ "C", "27", "27.4" ],
-  "noteGenerale" : null
-}

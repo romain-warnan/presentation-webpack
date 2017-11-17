@@ -1,8 +1,0 @@
-{
-  "code" : "23.12",
-  "libelle" : "Façonnage et transformation du verre plat",
-  "niveau" : "classe",
-  "enfants" : [ "23.12Z" ],
-  "parents" : [ "C", "23", "23.1" ],
-  "noteGenerale" : null
-}

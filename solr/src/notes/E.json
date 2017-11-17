@@ -1,7 +1,0 @@
-{
-  "code" : "E",
-  "libelle" : "Production et distribution d'eau ; assainissement, gestion des déchets et dépollution",
-  "niveau" : "section",
-  "enfants" : [ "39", "38", "37", "36" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette section comprend les activités liées à la gestion (comprenant les services de collecte, de traitement et d'élimination) de différents types de déchets, tels que les déchets, solides ou non, produits par les industries ou les ménages, ainsi que des sites contaminés. Le produit résultant du processus de traitement des déchets ou des eaux usées peut être éliminé ou devenir un input pour un autre processus de production. Les activités liées à la distribution d'eau sont également comprises dans cette section, car elles sont souvent effectuées en liaison avec le traitement des eaux usées ou par des unités actives dans ce domaine.</p>\n    </div:div>\n"
-}

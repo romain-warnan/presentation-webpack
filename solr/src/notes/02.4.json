@@ -1,8 +1,0 @@
-{
-  "code" : "02.4",
-  "libelle" : "Services de soutien à l'exploitation forestière",
-  "niveau" : "groupe",
-  "enfants" : [ "02.40" ],
-  "parents" : [ "A", "02" ],
-  "noteGenerale" : null
-}

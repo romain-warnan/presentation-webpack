@@ -1,8 +1,0 @@
-{
-  "code" : "75.00",
-  "libelle" : "Activités vétérinaires",
-  "niveau" : "classe",
-  "enfants" : [ "75.00Z" ],
-  "parents" : [ "M", "75", "75.0" ],
-  "noteGenerale" : null
-}

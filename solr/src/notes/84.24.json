@@ -1,8 +1,0 @@
-{
-  "code" : "84.24",
-  "libelle" : "Activités d'ordre public et de sécurité",
-  "niveau" : "classe",
-  "enfants" : [ "84.24Z" ],
-  "parents" : [ "O", "84", "84.2" ],
-  "noteGenerale" : null
-}

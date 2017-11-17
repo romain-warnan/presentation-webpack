@@ -1,8 +1,0 @@
-{
-  "code" : "11.04",
-  "libelle" : "Production d'autres boissons fermentées non distillées",
-  "niveau" : "classe",
-  "enfants" : [ "11.04Z" ],
-  "parents" : [ "C", "11", "11.0" ],
-  "noteGenerale" : null
-}

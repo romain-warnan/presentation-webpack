@@ -1,8 +1,0 @@
-{
-  "code" : "55.10",
-  "libelle" : "Hôtels et hébergement similaire",
-  "niveau" : "classe",
-  "enfants" : [ "55.10Z" ],
-  "parents" : [ "I", "55", "55.1" ],
-  "noteGenerale" : null
-}

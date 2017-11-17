@@ -1,8 +1,0 @@
-{
-  "code" : "28.12",
-  "libelle" : "Fabrication d'équipements hydrauliques et pneumatiques",
-  "niveau" : "classe",
-  "enfants" : [ "28.12Z" ],
-  "parents" : [ "C", "28", "28.1" ],
-  "noteGenerale" : null
-}

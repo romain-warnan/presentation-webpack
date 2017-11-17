@@ -1,8 +1,0 @@
-{
-  "code" : "28.41",
-  "libelle" : "Fabrication de machines de formage des métaux",
-  "niveau" : "classe",
-  "enfants" : [ "28.41Z" ],
-  "parents" : [ "C", "28", "28.4" ],
-  "noteGenerale" : null
-}

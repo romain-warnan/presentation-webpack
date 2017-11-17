@@ -1,8 +1,0 @@
-{
-  "code" : "46.64",
-  "libelle" : "Commerce de gros de machines pour l'industrie textile et l'habillement",
-  "niveau" : "classe",
-  "enfants" : [ "46.64Z" ],
-  "parents" : [ "G", "46", "46.6" ],
-  "noteGenerale" : null
-}

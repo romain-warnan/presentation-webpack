@@ -1,8 +1,0 @@
-{
-  "code" : "96.02",
-  "libelle" : "Coiffure et soins de beauté",
-  "niveau" : "classe",
-  "enfants" : [ "96.02B", "96.02A" ],
-  "parents" : [ "S", "96", "96.0" ],
-  "noteGenerale" : null
-}

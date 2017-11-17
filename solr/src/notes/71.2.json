@@ -1,8 +1,0 @@
-{
-  "code" : "71.2",
-  "libelle" : "Activités de contrôle et analyses techniques",
-  "niveau" : "groupe",
-  "enfants" : [ "71.20" ],
-  "parents" : [ "M", "71" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "88.1",
-  "libelle" : "Action sociale sans hébergement pour personnes âgées et pour personnes handicapées",
-  "niveau" : "groupe",
-  "enfants" : [ "88.10" ],
-  "parents" : [ "Q", "88" ],
-  "noteGenerale" : null
-}

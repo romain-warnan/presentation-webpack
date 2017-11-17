@@ -1,9 +1,0 @@
-{
-  "code" : "90.03",
-  "libelle" : "Création artistique",
-  "niveau" : "classe",
-  "enfants" : [ "90.03B", "90.03A" ],
-  "parents" : [ "R", "90", "90.0" ],
-  "noteGenerale" : null,
-  "neComprendPas" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la restauration d'orgues et autres instruments de musique historiques (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/33.19Z\">33.19Z</a>)</p>\n            </li>\n            <li>\n                <p>la production de films (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/59.11A\">59.11A</a>, \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/59.11B\">59.11B</a>, \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/59.11C\">59.11C</a> et \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/59.12Z\">59.12Z</a>)</p>\n            </li>\n            <li>\n                <p>la restauration de meubles à l'exclusion de la restauration dans le cadre de musées (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/95.24Z\">95.24Z</a>)</p>\n            </li>\n        </ul>\n    </div:div>\n"
-}

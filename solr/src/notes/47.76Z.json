@@ -1,9 +1,0 @@
-{
-  "code" : "47.76Z",
-  "libelle" : "Commerce de détail de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux en magasin spécialisé",
-  "niveau" : "sousClasse",
-  "parents" : [ "G", "47", "47.7", "47.76" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>le commerce de détail de fleurs, en pots ou coupées et compositions florales, de plantes et de graines</p>\n            </li>\n            <li>\n                <p>le commerce de détail de plants, arbres et arbustes</p>\n            </li>\n            <li>\n                <p>le commerce de détail d'engrais et de produits phytosanitaires</p>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null,
-  "comprendAussi" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>le commerce de détail d'animaux de compagnie, d'aliments et d'articles pour animaux de compagnie</p>\n            </li>\n        </ul>\n    </div:div>\n"
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "46.75",
-  "libelle" : "Commerce de gros de produits chimiques",
-  "niveau" : "classe",
-  "enfants" : [ "46.75Z" ],
-  "parents" : [ "G", "46", "46.7" ],
-  "noteGenerale" : null
-}

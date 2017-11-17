@@ -1,8 +1,0 @@
-{
-  "code" : "31.03",
-  "libelle" : "Fabrication de matelas",
-  "niveau" : "classe",
-  "enfants" : [ "31.03Z" ],
-  "parents" : [ "C", "31", "31.0" ],
-  "noteGenerale" : null
-}

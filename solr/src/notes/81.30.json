@@ -1,8 +1,0 @@
-{
-  "code" : "81.30",
-  "libelle" : "Services d'aménagement paysager",
-  "niveau" : "classe",
-  "enfants" : [ "81.30Z" ],
-  "parents" : [ "N", "81", "81.3" ],
-  "noteGenerale" : null
-}

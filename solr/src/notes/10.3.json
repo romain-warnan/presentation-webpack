@@ -1,8 +1,0 @@
-{
-  "code" : "10.3",
-  "libelle" : "Transformation et conservation de fruits et légumes",
-  "niveau" : "groupe",
-  "enfants" : [ "10.39", "10.32", "10.31" ],
-  "parents" : [ "C", "10" ],
-  "noteGenerale" : null
-}

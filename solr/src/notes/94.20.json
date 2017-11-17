@@ -1,8 +1,0 @@
-{
-  "code" : "94.20",
-  "libelle" : "Activités des syndicats de salariés",
-  "niveau" : "classe",
-  "enfants" : [ "94.20Z" ],
-  "parents" : [ "S", "94", "94.2" ],
-  "noteGenerale" : null
-}

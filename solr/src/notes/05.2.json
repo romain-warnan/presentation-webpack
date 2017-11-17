@@ -1,8 +1,0 @@
-{
-  "code" : "05.2",
-  "libelle" : "Extraction de lignite",
-  "niveau" : "groupe",
-  "enfants" : [ "05.20" ],
-  "parents" : [ "B", "05" ],
-  "noteGenerale" : null
-}

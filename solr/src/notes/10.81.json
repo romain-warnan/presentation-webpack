@@ -1,8 +1,0 @@
-{
-  "code" : "10.81",
-  "libelle" : "Fabrication de sucre",
-  "niveau" : "classe",
-  "enfants" : [ "10.81Z" ],
-  "parents" : [ "C", "10", "10.8" ],
-  "noteGenerale" : null
-}

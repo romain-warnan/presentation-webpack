@@ -1,8 +1,0 @@
-{
-  "code" : "90.04",
-  "libelle" : "Gestion de salles de spectacles",
-  "niveau" : "classe",
-  "enfants" : [ "90.04Z" ],
-  "parents" : [ "R", "90", "90.0" ],
-  "noteGenerale" : null
-}

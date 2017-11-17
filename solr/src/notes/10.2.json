@@ -1,8 +1,0 @@
-{
-  "code" : "10.2",
-  "libelle" : "Transformation et conservation de poisson, de crustacés et de mollusques",
-  "niveau" : "groupe",
-  "enfants" : [ "10.20" ],
-  "parents" : [ "C", "10" ],
-  "noteGenerale" : null
-}

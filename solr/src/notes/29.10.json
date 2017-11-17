@@ -1,8 +1,0 @@
-{
-  "code" : "29.10",
-  "libelle" : "Construction de véhicules automobiles",
-  "niveau" : "classe",
-  "enfants" : [ "29.10Z" ],
-  "parents" : [ "C", "29", "29.1" ],
-  "noteGenerale" : null
-}

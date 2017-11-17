@@ -1,8 +1,0 @@
-{
-  "code" : "20.3",
-  "libelle" : "Fabrication de peintures, vernis, encres et mastics",
-  "niveau" : "groupe",
-  "enfants" : [ "20.30" ],
-  "parents" : [ "C", "20" ],
-  "noteGenerale" : null
-}

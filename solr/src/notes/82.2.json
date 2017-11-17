@@ -1,8 +1,0 @@
-{
-  "code" : "82.2",
-  "libelle" : "Activités de centres d'appels",
-  "niveau" : "groupe",
-  "enfants" : [ "82.20" ],
-  "parents" : [ "N", "82" ],
-  "noteGenerale" : null
-}

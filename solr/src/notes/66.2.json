@@ -1,8 +1,0 @@
-{
-  "code" : "66.2",
-  "libelle" : "Activités auxiliaires d'assurance et de caisses de retraite",
-  "niveau" : "groupe",
-  "enfants" : [ "66.29", "66.22", "66.21" ],
-  "parents" : [ "K", "66" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend l'activité exercée par des agents (courtiers) consistant à vendre des contrats d'assurance de rente et d'autres formes de contrat d'assurance ou à fournir d'autres services liés aux prestations pour salariés ou aux caisses d'assurance et de retraite, tels que le règlement des demandes d'indemnisation ou l'administration de tiers.</p>\n    </div:div>\n"
-}

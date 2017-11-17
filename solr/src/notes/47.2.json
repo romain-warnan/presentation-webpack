@@ -1,8 +1,0 @@
-{
-  "code" : "47.2",
-  "libelle" : "Commerce de détail alimentaire en magasin spécialisé",
-  "niveau" : "groupe",
-  "enfants" : [ "47.29", "47.26", "47.25", "47.24", "47.23", "47.22", "47.21" ],
-  "parents" : [ "G", "47" ],
-  "noteGenerale" : null
-}

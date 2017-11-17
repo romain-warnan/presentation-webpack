@@ -1,8 +1,0 @@
-{
-  "code" : "21.1",
-  "libelle" : "Fabrication de produits pharmaceutiques de base",
-  "niveau" : "groupe",
-  "enfants" : [ "21.10" ],
-  "parents" : [ "C", "21" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "35.1",
-  "libelle" : "Production, transport et distribution d'électricité",
-  "niveau" : "groupe",
-  "enfants" : [ "35.14", "35.13", "35.12", "35.11" ],
-  "parents" : [ "D", "35" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend la production de masse de l'électricité, le transport de cette électricité des centrales jusqu'aux centres de distribution et la distribution jusqu'aux utilisateurs finals.</p>\n    </div:div>\n"
-}

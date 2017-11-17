@@ -1,8 +1,0 @@
-{
-  "code" : "25.4",
-  "libelle" : "Fabrication d'armes et de munitions",
-  "niveau" : "groupe",
-  "enfants" : [ "25.40" ],
-  "parents" : [ "C", "25" ],
-  "noteGenerale" : null
-}

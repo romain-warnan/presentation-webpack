@@ -1,9 +1,0 @@
-{
-  "code" : "87",
-  "libelle" : "Hébergement médico-social et social",
-  "niveau" : "division",
-  "enfants" : [ "87.9", "87.3", "87.2", "87.1" ],
-  "parents" : [ "Q" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend l'hébergement médicalisé et l'hébergement social de personnes en difficulté : l'hébergement peut être associé à des services médicaux, des services de surveillance ou d'autres services d'assistance aux malades. Les installations représentent une part importante du processus de production et les soins dispensés combinent des services médicaux et sociaux, le volet médical se composant dans une large mesure de soins infirmiers.</p>\n    </div:div>\n",
-  "neComprendPas" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>hébergement, assorti de soins médicaux, avec médecin à demeure (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/86.10Z\">86.10Z</a>)</p>\n            </li>\n        </ul>\n    </div:div>\n"
-}

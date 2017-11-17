@@ -1,8 +1,0 @@
-{
-  "code" : "52.1",
-  "libelle" : "Entreposage et stockage",
-  "niveau" : "groupe",
-  "enfants" : [ "52.10" ],
-  "parents" : [ "H", "52" ],
-  "noteGenerale" : null
-}

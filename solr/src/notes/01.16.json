@@ -1,8 +1,0 @@
-{
-  "code" : "01.16",
-  "libelle" : "Culture de plantes à fibres",
-  "niveau" : "classe",
-  "enfants" : [ "01.16Z" ],
-  "parents" : [ "A", "01", "01.1" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "43.3",
-  "libelle" : "Travaux de finition",
-  "niveau" : "groupe",
-  "enfants" : [ "43.39", "43.34", "43.33", "43.32", "43.31" ],
-  "parents" : [ "F", "43" ],
-  "noteGenerale" : null
-}

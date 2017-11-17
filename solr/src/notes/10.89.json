@@ -1,8 +1,0 @@
-{
-  "code" : "10.89",
-  "libelle" : "Fabrication d'autres produits alimentaires n.c.a.",
-  "niveau" : "classe",
-  "enfants" : [ "10.89Z" ],
-  "parents" : [ "C", "10", "10.8" ],
-  "noteGenerale" : null
-}

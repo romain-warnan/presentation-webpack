@@ -1,8 +1,0 @@
-{
-  "code" : "96.01",
-  "libelle" : "Blanchisserie-teinturerie",
-  "niveau" : "classe",
-  "enfants" : [ "96.01B", "96.01A" ],
-  "parents" : [ "S", "96", "96.0" ],
-  "noteGenerale" : null
-}

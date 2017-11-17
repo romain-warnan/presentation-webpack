@@ -1,8 +1,0 @@
-{
-  "code" : "70.2",
-  "libelle" : "Conseil de gestion",
-  "niveau" : "groupe",
-  "enfants" : [ "70.22", "70.21" ],
-  "parents" : [ "M", "70" ],
-  "noteGenerale" : null
-}

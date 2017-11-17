@@ -1,8 +1,0 @@
-{
-  "code" : "93.12",
-  "libelle" : "Activités de clubs de sports",
-  "niveau" : "classe",
-  "enfants" : [ "93.12Z" ],
-  "parents" : [ "R", "93", "93.1" ],
-  "noteGenerale" : null
-}

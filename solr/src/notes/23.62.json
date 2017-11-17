@@ -1,8 +1,0 @@
-{
-  "code" : "23.62",
-  "libelle" : "Fabrication d'éléments en plâtre pour la construction",
-  "niveau" : "classe",
-  "enfants" : [ "23.62Z" ],
-  "parents" : [ "C", "23", "23.6" ],
-  "noteGenerale" : null
-}

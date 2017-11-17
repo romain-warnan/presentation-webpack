@@ -1,8 +1,0 @@
-{
-  "code" : "65.2",
-  "libelle" : "Réassurance",
-  "niveau" : "groupe",
-  "enfants" : [ "65.20" ],
-  "parents" : [ "K", "65" ],
-  "noteGenerale" : null
-}

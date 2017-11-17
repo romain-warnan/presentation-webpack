@@ -1,8 +1,0 @@
-{
-  "code" : "52.21",
-  "libelle" : "Services auxiliaires des transports terrestres",
-  "niveau" : "classe",
-  "enfants" : [ "52.21Z" ],
-  "parents" : [ "H", "52", "52.2" ],
-  "noteGenerale" : null
-}

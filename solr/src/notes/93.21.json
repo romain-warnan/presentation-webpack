@@ -1,8 +1,0 @@
-{
-  "code" : "93.21",
-  "libelle" : "Activités des parcs d'attractions et parcs à thèmes",
-  "niveau" : "classe",
-  "enfants" : [ "93.21Z" ],
-  "parents" : [ "R", "93", "93.2" ],
-  "noteGenerale" : null
-}

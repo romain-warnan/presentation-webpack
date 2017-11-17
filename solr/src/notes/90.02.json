@@ -1,8 +1,0 @@
-{
-  "code" : "90.02",
-  "libelle" : "Activités de soutien au spectacle vivant",
-  "niveau" : "classe",
-  "enfants" : [ "90.02Z" ],
-  "parents" : [ "R", "90", "90.0" ],
-  "noteGenerale" : null
-}

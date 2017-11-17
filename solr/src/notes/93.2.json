@@ -1,8 +1,0 @@
-{
-  "code" : "93.2",
-  "libelle" : "Activités récréatives et de loisirs",
-  "niveau" : "groupe",
-  "enfants" : [ "93.29", "93.21" ],
-  "parents" : [ "R", "93" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend un vaste éventail d'établissements qui gèrent des installations ou fournissent des services en vue de répondre aux intérêts récréatifs variés de leurs clients. Il comprend l'exploitation de diverses attractions, telles que les manèges mécaniques, ballades aquatiques, jeux, spectacles, expositions thématiques et aires de pique-nique. Ce groupe ne comprend pas les activités sportives, les arts dramatiques, la musique et les autres arts et divertissements.</p>\n    </div:div>\n"
-}

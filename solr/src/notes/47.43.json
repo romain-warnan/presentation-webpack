@@ -1,8 +1,0 @@
-{
-  "code" : "47.43",
-  "libelle" : "Commerce de détail de matériels audio/vidéo en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.43Z" ],
-  "parents" : [ "G", "47", "47.4" ],
-  "noteGenerale" : null
-}

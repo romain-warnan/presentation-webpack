@@ -1,8 +1,0 @@
-{
-  "code" : "55.30",
-  "libelle" : "Terrains de camping et parcs pour caravanes ou véhicules de loisirs",
-  "niveau" : "classe",
-  "enfants" : [ "55.30Z" ],
-  "parents" : [ "I", "55", "55.3" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "16.21",
-  "libelle" : "Fabrication de placage et de panneaux de bois",
-  "niveau" : "classe",
-  "enfants" : [ "16.21Z" ],
-  "parents" : [ "C", "16", "16.2" ],
-  "noteGenerale" : null
-}

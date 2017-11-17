@@ -1,8 +1,0 @@
-{
-  "code" : "18.11",
-  "libelle" : "Imprimerie de journaux",
-  "niveau" : "classe",
-  "enfants" : [ "18.11Z" ],
-  "parents" : [ "C", "18", "18.1" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "85.31",
-  "libelle" : "Enseignement secondaire général",
-  "niveau" : "classe",
-  "enfants" : [ "85.31Z" ],
-  "parents" : [ "P", "85", "85.3" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "20.60",
-  "libelle" : "Fabrication de fibres artificielles ou synthétiques",
-  "niveau" : "classe",
-  "enfants" : [ "20.60Z" ],
-  "parents" : [ "C", "20", "20.6" ],
-  "noteGenerale" : null
-}

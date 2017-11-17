@@ -1,8 +1,0 @@
-{
-  "code" : "11.0",
-  "libelle" : "Fabrication de boissons",
-  "niveau" : "groupe",
-  "enfants" : [ "11.07", "11.06", "11.05", "11.04", "11.03", "11.02", "11.01" ],
-  "parents" : [ "C", "11" ],
-  "noteGenerale" : null
-}

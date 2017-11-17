@@ -1,8 +1,0 @@
-{
-  "code" : "84",
-  "libelle" : "Administration publique et défense ; sécurité sociale obligatoire",
-  "niveau" : "division",
-  "enfants" : [ "84.3", "84.2", "84.1" ],
-  "parents" : [ "O" ],
-  "noteGenerale" : null
-}

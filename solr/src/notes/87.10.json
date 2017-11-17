@@ -1,8 +1,0 @@
-{
-  "code" : "87.10",
-  "libelle" : "Hébergement médicalisé",
-  "niveau" : "classe",
-  "enfants" : [ "87.10C", "87.10B", "87.10A" ],
-  "parents" : [ "Q", "87", "87.1" ],
-  "noteGenerale" : null
-}

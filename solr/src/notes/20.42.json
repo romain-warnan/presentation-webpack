@@ -1,8 +1,0 @@
-{
-  "code" : "20.42",
-  "libelle" : "Fabrication de parfums et de produits pour la toilette",
-  "niveau" : "classe",
-  "enfants" : [ "20.42Z" ],
-  "parents" : [ "C", "20", "20.4" ],
-  "noteGenerale" : null
-}

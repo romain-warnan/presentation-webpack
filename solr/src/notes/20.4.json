@@ -1,8 +1,0 @@
-{
-  "code" : "20.4",
-  "libelle" : "Fabrication de savons, de produits d'entretien et de parfums",
-  "niveau" : "groupe",
-  "enfants" : [ "20.42", "20.41" ],
-  "parents" : [ "C", "20" ],
-  "noteGenerale" : null
-}

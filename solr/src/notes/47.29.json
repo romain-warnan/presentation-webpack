@@ -1,8 +1,0 @@
-{
-  "code" : "47.29",
-  "libelle" : "Autres commerces de détail alimentaires en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.29Z" ],
-  "parents" : [ "G", "47", "47.2" ],
-  "noteGenerale" : null
-}

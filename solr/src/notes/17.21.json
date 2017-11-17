@@ -1,8 +1,0 @@
-{
-  "code" : "17.21",
-  "libelle" : "Fabrication de papier et carton ondulés et d'emballages en papier ou en carton",
-  "niveau" : "classe",
-  "enfants" : [ "17.21C", "17.21B", "17.21A" ],
-  "parents" : [ "C", "17", "17.2" ],
-  "noteGenerale" : null
-}

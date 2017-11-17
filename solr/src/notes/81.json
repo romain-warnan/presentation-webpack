@@ -1,8 +1,0 @@
-{
-  "code" : "81",
-  "libelle" : "Services relatifs aux bâtiments et aménagement paysager",
-  "niveau" : "division",
-  "enfants" : [ "81.3", "81.2", "81.1" ],
-  "parents" : [ "N" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend la fourniture d'un certain nombre de services généraux d'appui dans les locaux du client, les activités de nettoyage intérieur et extérieur de bâtiments de tous types, le nettoyage de machines industrielles, le nettoyage de trains, autobus, avions, etc., le nettoyage de l'intérieur de citernes de transport par route ou par mer, les activités de désinfection et de destruction des parasites dans les bâtiments, les navires, les trains, etc., le nettoyage de bouteilles, le balayage des chaussées, le déblaiement de la neige et de la glace, les services d'aménagement et d'entretien paysager et la prestation de ces services en combinaison avec la conception de plans paysagers et/ou la construction (l'installation) d'allées piétonnières, de murs de soutènement, de terrasses, de clôtures, d'étangs et de structures similaires.</p>\n    </div:div>\n"
-}

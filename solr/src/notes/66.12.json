@@ -1,8 +1,0 @@
-{
-  "code" : "66.12",
-  "libelle" : "Courtage de valeurs mobilières et de marchandises",
-  "niveau" : "classe",
-  "enfants" : [ "66.12Z" ],
-  "parents" : [ "K", "66", "66.1" ],
-  "noteGenerale" : null
-}

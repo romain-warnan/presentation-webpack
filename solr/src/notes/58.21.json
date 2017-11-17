@@ -1,8 +1,0 @@
-{
-  "code" : "58.21",
-  "libelle" : "Édition de jeux électroniques",
-  "niveau" : "classe",
-  "enfants" : [ "58.21Z" ],
-  "parents" : [ "J", "58", "58.2" ],
-  "noteGenerale" : null
-}

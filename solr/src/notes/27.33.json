@@ -1,8 +1,0 @@
-{
-  "code" : "27.33",
-  "libelle" : "Fabrication de matériel d'installation électrique",
-  "niveau" : "classe",
-  "enfants" : [ "27.33Z" ],
-  "parents" : [ "C", "27", "27.3" ],
-  "noteGenerale" : null
-}

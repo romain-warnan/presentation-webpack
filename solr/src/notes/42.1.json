@@ -1,8 +1,0 @@
-{
-  "code" : "42.1",
-  "libelle" : "Construction de routes et de voies ferrées",
-  "niveau" : "groupe",
-  "enfants" : [ "42.13", "42.12", "42.11" ],
-  "parents" : [ "F", "42" ],
-  "noteGenerale" : null
-}

@@ -1,9 +1,0 @@
-{
-  "code" : "20.51Z",
-  "libelle" : "Fabrication de produits explosifs",
-  "niveau" : "sousClasse",
-  "parents" : [ "C", "20", "20.5", "20.51" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la fabrication de poudres propulsives</p>\n            </li>\n            <li>\n                <p>la fabrication d'explosifs et d'articles de pyrotechnie, y compris les capsules, les détonateurs, les fusées de signalisation, etc.</p>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null,
-  "comprendAussi" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la fabrication d'allumettes</p>\n            </li>\n        </ul>\n    </div:div>\n"
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "24.10",
-  "libelle" : "Sidérurgie",
-  "niveau" : "classe",
-  "enfants" : [ "24.10Z" ],
-  "parents" : [ "C", "24", "24.1" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "23.32",
-  "libelle" : "Fabrication de briques, tuiles et produits de construction, en terre cuite",
-  "niveau" : "classe",
-  "enfants" : [ "23.32Z" ],
-  "parents" : [ "C", "23", "23.3" ],
-  "noteGenerale" : null
-}

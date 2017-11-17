@@ -1,8 +1,0 @@
-{
-  "code" : "66.29",
-  "libelle" : "Autres activités auxiliaires d'assurance et de caisses de retraite",
-  "niveau" : "classe",
-  "enfants" : [ "66.29Z" ],
-  "parents" : [ "K", "66", "66.2" ],
-  "noteGenerale" : null
-}

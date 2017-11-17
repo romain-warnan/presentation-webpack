@@ -1,8 +1,0 @@
-{
-  "code" : "47.7",
-  "libelle" : "Autres commerces de détail en magasin spécialisé",
-  "niveau" : "groupe",
-  "enfants" : [ "47.79", "47.78", "47.77", "47.76", "47.75", "47.74", "47.73", "47.72", "47.71" ],
-  "parents" : [ "G", "47" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend les activités de commerce de détail en magasin spécialisé proposant à la vente une gamme particulière de produits non couverts ailleurs dans la nomenclature, tels que articles d'habillement, chaussures et maroquinerie, produits pharmaceutiques et médicaux, montres, souvenirs, produits d'entretien, armes, fleurs, animaux de compagnies et autres articles. La vente au détail de biens usagés en magasin spécialisé est également comprise dans ce groupe.</p>\n    </div:div>\n"
-}

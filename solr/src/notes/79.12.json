@@ -1,8 +1,0 @@
-{
-  "code" : "79.12",
-  "libelle" : "Activités des voyagistes",
-  "niveau" : "classe",
-  "enfants" : [ "79.12Z" ],
-  "parents" : [ "N", "79", "79.1" ],
-  "noteGenerale" : null
-}

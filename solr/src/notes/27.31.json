@@ -1,8 +1,0 @@
-{
-  "code" : "27.31",
-  "libelle" : "Fabrication de câbles de fibres optiques",
-  "niveau" : "classe",
-  "enfants" : [ "27.31Z" ],
-  "parents" : [ "C", "27", "27.3" ],
-  "noteGenerale" : null
-}

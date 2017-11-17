@@ -1,8 +1,0 @@
-{
-  "code" : "73.12",
-  "libelle" : "Régie publicitaire de médias",
-  "niveau" : "classe",
-  "enfants" : [ "73.12Z" ],
-  "parents" : [ "M", "73", "73.1" ],
-  "noteGenerale" : null
-}

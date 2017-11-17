@@ -1,8 +1,0 @@
-{
-  "code" : "46.41",
-  "libelle" : "Commerce de gros de textiles",
-  "niveau" : "classe",
-  "enfants" : [ "46.41Z" ],
-  "parents" : [ "G", "46", "46.4" ],
-  "noteGenerale" : null
-}

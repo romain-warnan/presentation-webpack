@@ -1,8 +1,0 @@
-{
-  "code" : "10.11",
-  "libelle" : "Transformation et conservation de la viande de boucherie",
-  "niveau" : "classe",
-  "enfants" : [ "10.11Z" ],
-  "parents" : [ "C", "10", "10.1" ],
-  "noteGenerale" : null
-}

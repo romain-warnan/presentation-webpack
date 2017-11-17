@@ -1,8 +1,0 @@
-{
-  "code" : "38.21",
-  "libelle" : "Traitement et élimination des déchets non dangereux",
-  "niveau" : "classe",
-  "enfants" : [ "38.21Z" ],
-  "parents" : [ "E", "38", "38.2" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "29.31",
-  "libelle" : "Fabrication d'équipements électriques et électroniques automobiles",
-  "niveau" : "classe",
-  "enfants" : [ "29.31Z" ],
-  "parents" : [ "C", "29", "29.3" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "25.21",
-  "libelle" : "Fabrication de radiateurs et de chaudières pour le chauffage central",
-  "niveau" : "classe",
-  "enfants" : [ "25.21Z" ],
-  "parents" : [ "C", "25", "25.2" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "01.44",
-  "libelle" : "Élevage de chameaux et d'autres camélidés",
-  "niveau" : "classe",
-  "enfants" : [ "01.44Z" ],
-  "parents" : [ "A", "01", "01.4" ],
-  "noteGenerale" : null
-}

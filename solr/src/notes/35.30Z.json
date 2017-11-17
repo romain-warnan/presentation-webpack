@@ -1,8 +1,0 @@
-{
-  "code" : "35.30Z",
-  "libelle" : "Production et distribution de vapeur et d'air conditionné",
-  "niveau" : "sousClasse",
-  "parents" : [ "D", "35", "35.3", "35.30" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la production, la collecte et la distribution de vapeur et d'eau chaude pour le chauffage, la force motrice et d'autres usages</p>\n            </li>\n            <li>\n                <p>la production et la distribution d'air réfrigéré</p>\n            </li>\n            <li>\n                <p>la production et la distribution d'eau réfrigérée pour le refroidissement</p>\n            </li>\n            <li>\n                <p>la production de glace pour des usages alimentaires ou autres, notamment frigorifiques</p>\n            </li>\n            <li>\n                <p>la production et la distribution par conduites d'air comprimé</p>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null
-}

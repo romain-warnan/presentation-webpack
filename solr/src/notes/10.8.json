@@ -1,8 +1,0 @@
-{
-  "code" : "10.8",
-  "libelle" : "Fabrication d'autres produits alimentaires",
-  "niveau" : "groupe",
-  "enfants" : [ "10.89", "10.86", "10.85", "10.84", "10.83", "10.82", "10.81" ],
-  "parents" : [ "C", "10" ],
-  "noteGenerale" : null
-}

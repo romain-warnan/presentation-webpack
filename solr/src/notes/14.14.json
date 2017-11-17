@@ -1,8 +1,0 @@
-{
-  "code" : "14.14",
-  "libelle" : "Fabrication de vêtements de dessous",
-  "niveau" : "classe",
-  "enfants" : [ "14.14Z" ],
-  "parents" : [ "C", "14", "14.1" ],
-  "noteGenerale" : null
-}

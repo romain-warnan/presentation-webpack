@@ -1,8 +1,0 @@
-{
-  "code" : "18.14Z",
-  "libelle" : "Reliure et activités connexes",
-  "niveau" : "sousClasse",
-  "parents" : [ "C", "18", "18.1", "18.14" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>les services de reliure industrielle, de montage d'échantillons et les services de soutien d'après-presse aux imprimeurs, par exemple la reliure et la finition de livres, de brochures, de périodiques, de catalogues, etc. par pliage, coupage et massicotage, assemblage, agrafage, reliure avec et sans couture, coupage et pose de couverture, collage, assemblage, dorage, reliure à spirale et avec fil en plastique</p>\n            </li>\n            <li>\n                <p>la reliure et la finition de papiers ou de cartons imprimés, par pliage, estampage, poinçonnage, perforage, gaufrage, collage, pelliculage</p>\n            </li>\n            <li>\n                <p>les services de finition pour CD-ROM</p>\n            </li>\n            <li>\n                <p>les services de finition pour publipostage, tels que personnalisation ou préparation des enveloppes</p>\n            </li>\n            <li>\n                <p>d'autres activités de finition, telles que la gravure ou l'estampage de matrices, la copie en braille</p>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null
-}

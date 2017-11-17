@@ -1,7 +1,0 @@
-{
-  "code" : "46.12A",
-  "libelle" : "Centrales d'achat de carburant",
-  "niveau" : "sousClasse",
-  "parents" : [ "G", "46", "46.1", "46.12" ],
-  "noteGenerale" : null
-}

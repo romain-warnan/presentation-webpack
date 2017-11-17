@@ -1,8 +1,0 @@
-{
-  "code" : "20.11",
-  "libelle" : "Fabrication de gaz industriels",
-  "niveau" : "classe",
-  "enfants" : [ "20.11Z" ],
-  "parents" : [ "C", "20", "20.1" ],
-  "noteGenerale" : null
-}

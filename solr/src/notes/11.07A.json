@@ -1,9 +1,0 @@
-{
-  "code" : "11.07A",
-  "libelle" : "Industrie des eaux de table",
-  "niveau" : "sousClasse",
-  "parents" : [ "C", "11", "11.0", "11.07" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la production d'eaux minérales naturelles et d'autres eaux embouteillées</p>\n            </li>\n        </ul>\n    </div:div>\n",
-  "noteGenerale" : null,
-  "neComprendPas" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>la fabrication de glace (cf.\n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/35.30Z\">35.30Z</a>)</p>\n            </li>\n            <li>\n                <p>l'embouteillage et l'étiquetage simples dans le cadre du commerce de gros (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/46.34Z\">46.34Z</a>) et pour compte de tiers (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/82.92Z\">82.92Z</a>)</p>\n            </li>\n        </ul>\n    </div:div>\n"
-}

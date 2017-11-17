@@ -1,8 +1,0 @@
-{
-  "code" : "47.51",
-  "libelle" : "Commerce de détail de textiles en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.51Z" ],
-  "parents" : [ "G", "47", "47.5" ],
-  "noteGenerale" : null
-}

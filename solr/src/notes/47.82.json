@@ -1,8 +1,0 @@
-{
-  "code" : "47.82",
-  "libelle" : "Commerce de détail de textiles, d'habillement et de chaussures sur éventaires et marchés",
-  "niveau" : "classe",
-  "enfants" : [ "47.82Z" ],
-  "parents" : [ "G", "47", "47.8" ],
-  "noteGenerale" : null
-}

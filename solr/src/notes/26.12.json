@@ -1,8 +1,0 @@
-{
-  "code" : "26.12",
-  "libelle" : "Fabrication de cartes électroniques assemblées",
-  "niveau" : "classe",
-  "enfants" : [ "26.12Z" ],
-  "parents" : [ "C", "26", "26.1" ],
-  "noteGenerale" : null
-}

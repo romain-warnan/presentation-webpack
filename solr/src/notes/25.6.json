@@ -1,8 +1,0 @@
-{
-  "code" : "25.6",
-  "libelle" : "Traitement et revêtement des métaux ; usinage",
-  "niveau" : "groupe",
-  "enfants" : [ "25.62", "25.61" ],
-  "parents" : [ "C", "25" ],
-  "noteGenerale" : null
-}

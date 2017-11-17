@@ -1,8 +1,0 @@
-{
-  "code" : "14.31",
-  "libelle" : "Fabrication d'articles chaussants à mailles",
-  "niveau" : "classe",
-  "enfants" : [ "14.31Z" ],
-  "parents" : [ "C", "14", "14.3" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "11.05",
-  "libelle" : "Fabrication de bière",
-  "niveau" : "classe",
-  "enfants" : [ "11.05Z" ],
-  "parents" : [ "C", "11", "11.0" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "47.3",
-  "libelle" : "Commerce de détail de carburants en magasin spécialisé",
-  "niveau" : "groupe",
-  "enfants" : [ "47.30" ],
-  "parents" : [ "G", "47" ],
-  "noteGenerale" : null
-}

@@ -1,7 +1,0 @@
-{
-  "code" : "78.20Z",
-  "libelle" : "Activités des agences de travail temporaire",
-  "niveau" : "sousClasse",
-  "parents" : [ "N", "78", "78.2", "78.20" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette sous-classe comprend les activités consistant à fournir des travailleurs pour des périodes limitées en vue de remplacer temporairement ou de compléter la main-d'œuvre du client, les personnes placées étant salariées par l'agence de travail temporaire.Les agences affectées à cette sous-classe n'assurent toutefois pas la supervision directe de leurs salariés sur les lieux de travail du client.</p>\n    </div:div>\n"
-}

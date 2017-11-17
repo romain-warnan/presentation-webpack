@@ -1,8 +1,0 @@
-{
-  "code" : "43.33",
-  "libelle" : "Travaux de revêtement des sols et des murs",
-  "niveau" : "classe",
-  "enfants" : [ "43.33Z" ],
-  "parents" : [ "F", "43", "43.3" ],
-  "noteGenerale" : null
-}

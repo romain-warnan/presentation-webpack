@@ -1,8 +1,0 @@
-{
-  "code" : "11.07",
-  "libelle" : "Industrie des eaux minérales et autres eaux embouteillées et des boissons rafraîchissantes",
-  "niveau" : "classe",
-  "enfants" : [ "11.07B", "11.07A" ],
-  "parents" : [ "C", "11", "11.0" ],
-  "noteGenerale" : null
-}

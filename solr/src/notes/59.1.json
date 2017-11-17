@@ -1,8 +1,0 @@
-{
-  "code" : "59.1",
-  "libelle" : "Activités cinématographiques, vidéo et de télévision",
-  "niveau" : "groupe",
-  "enfants" : [ "59.14", "59.13", "59.12", "59.11" ],
-  "parents" : [ "J", "59" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Ce groupe comprend la production de films et de programmes audiovisuels, sur pellicule, vidéocassette, DVD ou autre support, y compris la diffusion numérique, destinés à être projetés directement en salles ou à être diffusés à la télévision ; les activités auxiliaires telles que montage, doublage, sous-titrage, etc. ; la distribution de films cinématographiques et autres productions (cassettes vidéo, DVD, etc.) à d'autres établissements, ainsi que leur projection. L'exploitation et la gestion des droits de propriété intellectuelle (copyright) de films ou d'autres productions audiovisuelles, notamment en vue de leur distribution, sont incluses.</p>\n    </div:div>\n"
-}

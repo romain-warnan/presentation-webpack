@@ -1,8 +1,0 @@
-{
-  "code" : "90.01",
-  "libelle" : "Arts du spectacle vivant",
-  "niveau" : "classe",
-  "enfants" : [ "90.01Z" ],
-  "parents" : [ "R", "90", "90.0" ],
-  "noteGenerale" : null
-}

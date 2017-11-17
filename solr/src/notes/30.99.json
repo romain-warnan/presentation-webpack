@@ -1,8 +1,0 @@
-{
-  "code" : "30.99",
-  "libelle" : "Fabrication d'autres équipements de transport n.c.a.",
-  "niveau" : "classe",
-  "enfants" : [ "30.99Z" ],
-  "parents" : [ "C", "30", "30.9" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "69.20",
-  "libelle" : "Activités comptables",
-  "niveau" : "classe",
-  "enfants" : [ "69.20Z" ],
-  "parents" : [ "M", "69", "69.2" ],
-  "noteGenerale" : null
-}

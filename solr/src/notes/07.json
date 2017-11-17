@@ -1,9 +1,0 @@
-{
-  "code" : "07",
-  "libelle" : "Extraction de minerais métalliques",
-  "niveau" : "division",
-  "enfants" : [ "07.2", "07.1" ],
-  "parents" : [ "B" ],
-  "noteGenerale" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <p>Cette division comprend l'extraction de minerais métalliques, souterraine, à ciel ouvert ou par l'exploitation minière des fonds marins. Elle inclut également les opérations de traitement et d'enrichissement du minerai telles que concassage, broyage, lavage, séchage, agglomération, calcination, lixiviation ou séparation par gravité ou flottaison.</p>\n    </div:div>\n",
-  "neComprendPas" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>les activités annexes à l'extraction de minerais métalliques, exécutées pour le compte de tiers (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/sousClasse/09.90Z\">09.90Z</a>)</p>\n            </li>\n            <li>\n                <p>l'exploitation de hauts fourneaux (cf. \n                    <a href=\"http://dvrmessnclas01.ad.insee.intra:8080/datalift/codes/nafr2/division/24\">24</a>)</p>\n            </li>\n        </ul>\n    </div:div>\n"
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "70.10",
-  "libelle" : "Activités des sièges sociaux",
-  "niveau" : "classe",
-  "enfants" : [ "70.10Z" ],
-  "parents" : [ "M", "70", "70.1" ],
-  "noteGenerale" : null
-}

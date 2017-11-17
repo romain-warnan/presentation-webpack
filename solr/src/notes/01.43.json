@@ -1,8 +1,0 @@
-{
-  "code" : "01.43",
-  "libelle" : "Élevage de chevaux et d'autres équidés",
-  "niveau" : "classe",
-  "enfants" : [ "01.43Z" ],
-  "parents" : [ "A", "01", "01.4" ],
-  "noteGenerale" : null
-}

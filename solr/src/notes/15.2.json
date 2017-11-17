@@ -1,8 +1,0 @@
-{
-  "code" : "15.2",
-  "libelle" : "Fabrication de chaussures",
-  "niveau" : "groupe",
-  "enfants" : [ "15.20" ],
-  "parents" : [ "C", "15" ],
-  "noteGenerale" : null
-}

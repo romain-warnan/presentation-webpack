@@ -1,8 +1,0 @@
-{
-  "code" : "13.93",
-  "libelle" : "Fabrication de tapis et moquettes",
-  "niveau" : "classe",
-  "enfants" : [ "13.93Z" ],
-  "parents" : [ "C", "13", "13.9" ],
-  "noteGenerale" : null
-}

@@ -1,8 +1,0 @@
-{
-  "code" : "91.03",
-  "libelle" : "Gestion des sites et monuments historiques et des attractions touristiques similaires",
-  "niveau" : "classe",
-  "enfants" : [ "91.03Z" ],
-  "parents" : [ "R", "91", "91.0" ],
-  "noteGenerale" : null
-}

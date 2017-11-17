@@ -1,8 +1,0 @@
-{
-  "code" : "42.11",
-  "libelle" : "Construction de routes et autoroutes",
-  "niveau" : "classe",
-  "enfants" : [ "42.11Z" ],
-  "parents" : [ "F", "42", "42.1" ],
-  "noteGenerale" : null
-}

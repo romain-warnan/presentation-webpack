@@ -1,8 +1,0 @@
-{
-  "code" : "49.5",
-  "libelle" : "Transports par conduites",
-  "niveau" : "groupe",
-  "enfants" : [ "49.50" ],
-  "parents" : [ "H", "49" ],
-  "noteGenerale" : null
-}

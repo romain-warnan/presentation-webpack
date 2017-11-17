@@ -1,8 +1,0 @@
-{
-  "code" : "46.24",
-  "libelle" : "Commerce de gros de cuirs et peaux",
-  "niveau" : "classe",
-  "enfants" : [ "46.24Z" ],
-  "parents" : [ "G", "46", "46.2" ],
-  "noteGenerale" : null
-}

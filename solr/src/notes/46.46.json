@@ -1,8 +1,0 @@
-{
-  "code" : "46.46",
-  "libelle" : "Commerce de gros de produits pharmaceutiques",
-  "niveau" : "classe",
-  "enfants" : [ "46.46Z" ],
-  "parents" : [ "G", "46", "46.4" ],
-  "noteGenerale" : null
-}

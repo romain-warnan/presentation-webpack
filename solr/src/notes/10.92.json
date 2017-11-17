@@ -1,8 +1,0 @@
-{
-  "code" : "10.92",
-  "libelle" : "Fabrication d'aliments pour animaux de compagnie",
-  "niveau" : "classe",
-  "enfants" : [ "10.92Z" ],
-  "parents" : [ "C", "10", "10.9" ],
-  "noteGenerale" : null
-}

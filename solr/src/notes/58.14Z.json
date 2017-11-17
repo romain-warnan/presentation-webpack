@@ -1,9 +1,0 @@
-{
-  "code" : "58.14Z",
-  "libelle" : "Édition de revues et périodiques",
-  "niveau" : "sousClasse",
-  "parents" : [ "J", "58", "58.1", "58.14" ],
-  "comprend" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>l'édition de magazines, revues et d'autres périodiques, de caractère technique,</p>\n            </li>\n        </ul>\n        <p>professionnel ou d'intérêt général, paraissant moins de quatre fois par semaine. Ces informations peuvent être publiées sous forme imprimée ou électronique, y compris sur Internet</p>\n    </div:div>\n",
-  "noteGenerale" : null,
-  "comprendAussi" : "\n    <div:div xmlns:div=\"http://www.w3.org/1999/xhtml\" xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:fn=\"http://www.w3.org/2005/xpath-functions#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sesame=\"http://www.openrdf.org/schema/sesame#\">\n        <ul class=\"list1\">\n            <li>\n                <p>l'édition de programmes pour les émissions de radio ou de télévision</p>\n            </li>\n        </ul>\n    </div:div>\n"
-}

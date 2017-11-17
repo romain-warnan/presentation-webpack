@@ -1,8 +1,0 @@
-{
-  "code" : "47.65",
-  "libelle" : "Commerce de détail de jeux et jouets en magasin spécialisé",
-  "niveau" : "classe",
-  "enfants" : [ "47.65Z" ],
-  "parents" : [ "G", "47", "47.6" ],
-  "noteGenerale" : null
-}

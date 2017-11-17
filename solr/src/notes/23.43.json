@@ -1,8 +1,0 @@
-{
-  "code" : "23.43",
-  "libelle" : "Fabrication d'isolateurs et pièces isolantes en céramique",
-  "niveau" : "classe",
-  "enfants" : [ "23.43Z" ],
-  "parents" : [ "C", "23", "23.4" ],
-  "noteGenerale" : null
-}

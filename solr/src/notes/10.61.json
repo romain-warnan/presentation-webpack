@@ -1,8 +1,0 @@
-{
-  "code" : "10.61",
-  "libelle" : "Travail des grains",
-  "niveau" : "classe",
-  "enfants" : [ "10.61B", "10.61A" ],
-  "parents" : [ "C", "10", "10.6" ],
-  "noteGenerale" : null
-}

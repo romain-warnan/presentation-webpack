@@ -1,8 +1,0 @@
-{
-  "code" : "52.24",
-  "libelle" : "Manutention",
-  "niveau" : "classe",
-  "enfants" : [ "52.24B", "52.24A" ],
-  "parents" : [ "H", "52", "52.2" ],
-  "noteGenerale" : null
-}
