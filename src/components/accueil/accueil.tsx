@@ -15,17 +15,26 @@ const suggestionProvider = (prefix: string): Promise<Array<ItemSuggestion<string
   });
 };
 
+// const suggestionProviderFiche = (prefix: string): Promise<Array<ItemSuggestion<Fiche>>> => {
+//   return fetchSuggestion(prefix).then(suggestions => {
+//     return suggestions.map((s: Fiche): ItemSuggestion<Fiche> => ({ value: s, label: s.libelle }));
+//   });
+// };
+// export const AutocompleteFiche: new () => Autocomplete<Fiche> = Autocomplete as any;
+
 interface RubriqueProps {
   fiche: Fiche;
 }
 
-class Rubrique extends Component<RubriqueProps, any> {
+class Rubrique extends Component<RubriqueProps> {
   render() {
     const { fiche } = this.props;
     const { code, libelle, niveau } = fiche;
     const noteGenerale = fiche.noteGenerale ? <Paragraphe title="Note Générale" content={fiche.noteGenerale} /> : null;
     const comprend = fiche.comprend ? <Paragraphe title="Comprend" content={fiche.comprend} /> : null;
-    const neComprendPas = fiche.neComprendPas ? <Paragraphe title="Ne comprend pas" content={fiche.neComprendPas} /> : null;
+    const neComprendPas = fiche.neComprendPas ? (
+      <Paragraphe title="Ne comprend pas" content={fiche.neComprendPas} />
+    ) : null;
     return (
       <Panel header={`${niveau} ${code} – ${libelle}`} bsStyle="primary">
         {noteGenerale}
@@ -41,11 +50,12 @@ interface AccueilProps {
   fiche: Fiche;
 }
 
-class Accueil extends Component<AccueilProps, any> {
+class Accueil extends Component<AccueilProps> {
   constructor(props: AccueilProps) {
     super(props);
     this.handleSelect = this.handleSelect.bind(this);
   }
+
   handleSelect(item: ItemSuggestion<string>) {
     this.props.displayFiche(item.value);
   }
@@ -55,9 +65,12 @@ class Accueil extends Component<AccueilProps, any> {
     return (
       <div className="accueil">
         <PageHeader>Consulter la nafrev2 avec react et redux</PageHeader>
-
         <div className="suggestions">
-          <AutocompleteString suggestionProvider={suggestionProvider} onSelect={this.handleSelect} itemComponent={CustomItemSuggestion} />
+          <AutocompleteString
+            suggestionProvider={suggestionProvider}
+            onSelect={this.handleSelect}
+            itemComponent={CustomItemSuggestion}
+          />
         </div>
         <div className="rubrique">{rubrique}</div>
       </div>

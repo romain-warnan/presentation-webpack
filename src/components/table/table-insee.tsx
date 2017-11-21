@@ -23,15 +23,17 @@ const SelectRows: React.SFC<SelectRowsProps> = ({ handleChange, rowsOptions }) =
     </option>
   ));
 
-  const handler = (e: React.ChangeEvent<HTMLSelectElement>) => {
-    handleChange(parseInt(e.target.value));
+  const handler = (e: React.FormEvent<EventTarget>) => {
+    if (e.target instanceof HTMLSelectElement) {
+      handleChange(parseInt((e.target as HTMLSelectElement).value));
+    }
   };
 
   return (
     <FormGroup controlId="formControlsSelectMultiple">
       <FormControl
         componentClass="select"
-        onChange={(e: any) => {
+        onChange={(e: React.FormEvent<EventTarget>) => {
           handler(e);
         }}
       >
@@ -209,9 +211,21 @@ class TableInsee<T> extends Component<TableInseeProps<T>, TableData<T>> {
     const pagination =
       nbPages > 1 ? (
         <div className="paginer clearfix">
-          <span>{`${page * nbLignes + 1} à ${page * nbLignes + Math.min(nbLignes, nbLignesTotal - page * nbLignes)} entrées sur ${nbLignesTotal}`}</span>
+          <span>{`${page * nbLignes + 1} à ${page * nbLignes +
+            Math.min(nbLignes, nbLignesTotal - page * nbLignes)} entrées sur ${nbLignesTotal}`}</span>
           <span className="nav">
-            <Pagination prev next first last ellipsis boundaryLinks items={nbPages} maxButtons={5} activePage={page + 1} onSelect={this.handleSelect} />
+            <Pagination
+              prev={true}
+              next={true}
+              first={true}
+              last={true}
+              ellipsis={true}
+              boundaryLinks={true}
+              items={nbPages}
+              maxButtons={5}
+              activePage={page + 1}
+              onSelect={this.handleSelect}
+            />
           </span>
         </div>
       ) : null;

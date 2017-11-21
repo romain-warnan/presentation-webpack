@@ -15,7 +15,9 @@ class Preloader extends Component<PreloaderProps> {
           <img src={image} alt="Veuillez-patienter..." />
         </div>
       );
-    } else return null;
+    } else {
+      return null;
+    }
   }
 }
 

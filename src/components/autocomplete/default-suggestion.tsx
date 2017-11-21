@@ -17,7 +17,7 @@ interface Position {
   length: number;
 }
 
-class DefaultSuggestion<T> extends Component<DefaultSuggestionProps<T>, any> {
+class DefaultSuggestion<T> extends Component<DefaultSuggestionProps<T>> {
   render() {
     const { label } = this.props.item;
     const tokens: Array<string> = this.props.prefix.split(" ");
@@ -29,7 +29,7 @@ class DefaultSuggestion<T> extends Component<DefaultSuggestionProps<T>, any> {
   }
 }
 
-export class Highlight extends Component<HighlightProps, any> {
+export class Highlight extends Component<HighlightProps> {
   render() {
     const { tokens, libelle } = this.props;
 

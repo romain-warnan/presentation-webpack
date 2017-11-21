@@ -6,13 +6,14 @@ import { applyMiddleware, createStore, compose } from "redux";
 import reducers from "./reducers/combined-reducers";
 import App from "./components/app-container";
 
-let composeEnhancers; // GenericStroeEnhancer
+let composeEnhancers;
 if (process.env.NODE_ENV === "development") {
-  composeEnhancers = "__REDUX_DEVTOOLS_EXTENSION_COMPOSE__" in window ? window["__REDUX_DEVTOOLS_EXTENSION_COMPOSE__"] : compose;
+  composeEnhancers =
+    "__REDUX_DEVTOOLS_EXTENSION_COMPOSE__" in window ? window["__REDUX_DEVTOOLS_EXTENSION_COMPOSE__"] : compose;
 } else {
   composeEnhancers = compose;
 }
-//
+
 const store = createStore(reducers, composeEnhancers(applyMiddleware(thunkMiddleware)));
 
 ReactDOM.render(

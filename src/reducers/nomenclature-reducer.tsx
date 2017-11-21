@@ -3,14 +3,14 @@ import Fiche from "./../model/fiche";
 import { ActionsTypes } from "./../actions/action-types";
 
 export type NomenclatureState = {
-  sections: any;
+  sections: Array<Fiche>;
   selection: Fiche;
   ficheActive: Fiche;
   items: Array<string>;
 };
 
 const initial: NomenclatureState = {
-  sections: {},
+  sections: [],
   selection: null,
   ficheActive: { code: null },
   items: []

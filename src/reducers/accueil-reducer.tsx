@@ -4,7 +4,9 @@ import Fiche from "./../model/fiche";
 
 export type AccueilState = { fiche: Fiche };
 
-const initial: AccueilState = { fiche: { niveau: null, code: null, libelle: null, noteGenerale: null, neComprendPas: null, comprend: null } };
+const initial: AccueilState = {
+  fiche: { niveau: null, code: null, libelle: null, noteGenerale: null, neComprendPas: null, comprend: null }
+};
 
 export default (state: AccueilState = initial, action: ActionsTypes) => {
   switch (action.type) {

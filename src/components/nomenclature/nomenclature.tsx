@@ -1,15 +1,21 @@
 import React, { Component } from "react";
 import ArbreFiche from "./arbre-fiche-container";
 import Rubrique from "./rubrique-container";
+import { match } from "react-router";
+
+interface AcceptedParameters {
+  code?: string;
+  niveau?: string;
+}
 
 interface NomenclatureProps {
   setNavIndex: (index: number) => void;
   showFiche: (code: string) => void;
   openSections: () => void;
-  match?: any;
+  match?: match<AcceptedParameters>;
 }
 
-class Nomenclature extends Component<NomenclatureProps, any> {
+class Nomenclature extends Component<NomenclatureProps> {
   componentWillMount() {
     this.props.setNavIndex(2);
     if (this.props.match.path === "/nomenclature/sections") {

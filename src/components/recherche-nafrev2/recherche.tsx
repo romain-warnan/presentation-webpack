@@ -29,8 +29,8 @@ interface RechercheProps {
   q: string;
 }
 
-class Recherche extends Component<RechercheProps, any> {
-  searchbar: any;
+class Recherche extends Component<RechercheProps> {
+  searchbar: HTMLInputElement;
 
   constructor(props: RechercheProps) {
     super(props);

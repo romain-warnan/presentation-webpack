@@ -1,7 +1,6 @@
 import React, { Component } from "react";
-// import DefaultSuggestion from "./default-suggestion";
 import "./autocomplete.css";
-// import cross from "./cross.svg";
+import cross from "./cross.svg";
 
 export interface ItemSuggestion<T> {
   value: T;
@@ -12,27 +11,26 @@ interface AutocompleteProps<T> {
   suggestionProvider: (prefix: string) => Promise<Array<ItemSuggestion<T>>>;
   onSelect: (item: ItemSuggestion<T>) => void;
   items?: Array<ItemSuggestion<T>>;
-  itemComponent: any;
+  itemComponent: React.ComponentClass<ItemRendererComponent<T>>;
 }
 
-interface JsxClass<P, S> extends React.Component<P, S> {
-  render(): React.ReactElement<P>;
+interface ItemRendererComponent<T> {
+  item: ItemSuggestion<T>;
+  prefix: string;
 }
 
-interface Render<P> {
-  render(): React.ReactElement<P>;
+interface AutocompleteState<T> {
+  value: string;
+  displayItems: boolean;
+  overItems: boolean;
+  items: Array<ItemSuggestion<T>>;
 }
 
-interface ReactCtor<P, S> {
-  new (props: P): JsxClass<P, S>;
-}
-
-class Autocomplete<U> extends Component<AutocompleteProps<U>, any> implements Render<AutocompleteProps<U>> {
-  timer: any;
+class Autocomplete<U> extends Component<AutocompleteProps<U>, AutocompleteState<U>> {
+  timer: number;
   constructor(props: AutocompleteProps<U>) {
     super(props);
     this.handleChange = this.handleChange.bind(this);
-
     this.timer = null;
     this.state = { value: "", items: [], displayItems: false, overItems: false };
     this.handleClick = this.handleClick.bind(this);
@@ -43,14 +41,14 @@ class Autocomplete<U> extends Component<AutocompleteProps<U>, any> implements Re
     this.handleMouseLeave = this.handleMouseLeave.bind(this);
   }
 
-  handleChange(e: any) {
+  handleChange(e: React.ChangeEvent<HTMLInputElement>) {
     const value = e.target.value;
     this.setState((prevState, props) => {
       if (this.timer != null) {
         clearTimeout(this.timer);
         this.timer = null;
       }
-      this.timer = setTimeout(() => {
+      this.timer = window.setTimeout(() => {
         this.search(value.trim());
       }, 350);
       return { value, items: [], displayItems: false, overItems: false };
@@ -60,7 +58,7 @@ class Autocomplete<U> extends Component<AutocompleteProps<U>, any> implements Re
   search(prefix: string) {
     const prefixTrim = prefix.trim();
     if (prefixTrim !== "*" && prefixTrim !== "") {
-      this.props.suggestionProvider(prefix).then((items: any): any => {
+      this.props.suggestionProvider(prefix).then((items: Array<ItemSuggestion<U>>) => {
         const displayItems = items.length > 0;
         this.setState({ ...this.state, items, displayItems });
       });
@@ -69,20 +67,23 @@ class Autocomplete<U> extends Component<AutocompleteProps<U>, any> implements Re
     }
   }
 
-  handleBlur(e: any) {
+  handleBlur(e: React.ChangeEvent<EventTarget>) {
     if (!this.state.overItems) {
       this.setState({ ...this.state, displayItems: false, overItems: false });
     }
   }
+
   handleFocus() {
     this.setState({ ...this.state, displayItems: this.state.items.length > 0 });
   }
-  handleClick(item: ItemSuggestion<U>, e: any) {
+
+  handleClick(item: ItemSuggestion<U>, e: React.ChangeEvent<HTMLElement>) {
     e.stopPropagation();
     this.setState({ ...this.state, displayItems: false });
     this.props.onSelect(item);
   }
-  handleSup(e: any) {
+
+  handleSup() {
     this.setState({ ...this.state, value: "", items: [] });
   }
   handleMouseEnter() {
@@ -93,7 +94,7 @@ class Autocomplete<U> extends Component<AutocompleteProps<U>, any> implements Re
   }
 
   render() {
-    const Composant = this.props.itemComponent;
+    const Composant: React.ComponentClass<ItemRendererComponent<U>> = this.props.itemComponent;
     const items = this.state.items.map((item: ItemSuggestion<U>, i: number) => {
       let boundItemClick = this.handleClick.bind(this, item);
       return (
@@ -105,7 +106,7 @@ class Autocomplete<U> extends Component<AutocompleteProps<U>, any> implements Re
     const iconeCross =
       this.state.value.trim().length > 0 ? (
         <span className="cross" onClick={this.handleSup}>
-          {/*<img src={cross} alt="supprimer" />*/}
+          <img src={cross} alt="supprimer" />
         </span>
       ) : null;
 
@@ -126,6 +127,5 @@ class Autocomplete<U> extends Component<AutocompleteProps<U>, any> implements Re
   }
 }
 
-export const AutocompleteString: ReactCtor<AutocompleteProps<string>, any> = Autocomplete;
-
+export const AutocompleteString: new () => Autocomplete<string> = Autocomplete as any;
 export default Autocomplete;

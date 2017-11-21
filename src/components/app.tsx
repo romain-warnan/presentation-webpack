@@ -11,7 +11,7 @@ interface AppProps {
   readonly navIndex: number;
 }
 
-class App extends Component<AppProps, any> {
+class App extends Component<AppProps> {
   constructor(props: AppProps) {
     super(props);
     this.handleSelect = this.handleSelect.bind(this);
@@ -35,8 +35,8 @@ class App extends Component<AppProps, any> {
           <Preloader />
           <NavBar index={navIndex} handleClick={this.handleClick} />
           <Switch>
-            <Route path="/nomenclature/sections" exact component={Nomenclature} />
-            <Route path="/nomenclature/recherche" exact component={Recherche} />
+            <Route path="/nomenclature/sections" exact={true} component={Nomenclature} />
+            <Route path="/nomenclature/recherche" exact={true} component={Recherche} />
             <Route path="/nomenclature/:niveau/:code" component={Nomenclature} />
             <Route path="/nomenclature" render={() => <Redirect to="/nomenclature/sections" />} />
             <Route path="/accueil" component={Accueil} />
@@ -52,7 +52,7 @@ interface NavBarProps {
   handleClick: (index: number) => void;
 }
 
-class NavBar extends Component<NavBarProps, any> {
+class NavBar extends Component<NavBarProps> {
   render() {
     const { index, handleClick } = this.props;
     return (

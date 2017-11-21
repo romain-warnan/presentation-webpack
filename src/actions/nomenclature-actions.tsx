@@ -14,12 +14,12 @@ export enum TypeKeys {
 /* Typage des actions */
 export interface OpenSectionDoneAction {
   type: TypeKeys.openSectionDone;
-  sections: any;
+  sections: Array<Fiche>;
   ficheActive: Fiche;
 }
 export interface CloseFicheDoneAction {
   type: TypeKeys.closeFicheDone;
-  items: Array<any>;
+  items: Array<Fiche>;
   selection: Fiche;
   ficheActive: Fiche;
 }
@@ -38,21 +38,21 @@ export interface ShowFicheRacineDone {
 
 interface FetchFiche {
   fiche?: Fiche;
-  enfants?: Array<any>;
+  enfants?: Array<Fiche>;
   parent?: Fiche;
 }
 
 /* Fonction asynch */
 export const openSections = () => (dispatch: Dispatch<state.All>, getState: () => state.All) => {
   dispatch(startWaiting());
-  fetchSections_(getState().nomenclatureReducer.ficheActive).then(result => {
+  getSectionFromStore(getState().nomenclatureReducer.ficheActive).then(result => {
     const { sections, ficheActive } = result;
     dispatch(stopWaiting());
     dispatch(openSectionsDone(sections, ficheActive));
   });
 };
 
-const fetchSections_ = async (ficheActiveFille: Fiche) => {
+const getSectionFromStore = async (ficheActiveFille: Fiche) => {
   const sections = await fetchSections();
   let ficheActive = ficheActiveFille;
   if (ficheActiveFille.parents && ficheActiveFille.parents.length > 0) {
@@ -78,7 +78,7 @@ export const closeFiche = (fiche: Fiche) => (dispatch: Dispatch<state.All>, getS
 
 export const showFiche = (code: string) => (dispatch: Dispatch<state.All>, getState: () => state.All) => {
   dispatch(startWaiting());
-  fetchFiche_(code).then(result => {
+  getFicheFromStore(code).then(result => {
     dispatch(stopWaiting());
     const { fiche } = result;
     if (fiche.enfants.length === 0) {
@@ -91,7 +91,7 @@ export const showFiche = (code: string) => (dispatch: Dispatch<state.All>, getSt
   });
 };
 
-const fetchFiche_ = async (code: string): Promise<FetchFiche> => {
+const getFicheFromStore = async (code: string): Promise<FetchFiche> => {
   const fiche = await fetchFiche(code);
   if (fiche.enfants.length === 0) {
     const parent = await fetchFiche(fiche.parents[fiche.parents.length - 1]);
@@ -104,10 +104,24 @@ const fetchFiche_ = async (code: string): Promise<FetchFiche> => {
 };
 
 /* actions builder */
-const openSectionsDone = (sections: any, ficheActive: Fiche) => ({ type: TypeKeys.openSectionDone, sections, ficheActive });
-const closeFicheDone = (items: Array<any>, selection: Fiche, ficheActive: Fiche) => ({ type: TypeKeys.closeFicheDone, items, selection, ficheActive });
-const showFicheDone = (fiche: Fiche, enfants: Array<String>) => ({ type: TypeKeys.showFicheDone, fiche, enfants });
-const showFicheRacineDone = (fiche: Fiche, parent: Fiche, enfants: Array<String>) => ({ type: TypeKeys.showFicheRacineDone, fiche, parent, enfants });
+const openSectionsDone = (sections: Array<Fiche>, ficheActive: Fiche) => ({
+  type: TypeKeys.openSectionDone,
+  sections,
+  ficheActive
+});
+const closeFicheDone = (items: Array<Fiche>, selection: Fiche, ficheActive: Fiche) => ({
+  type: TypeKeys.closeFicheDone,
+  items,
+  selection,
+  ficheActive
+});
+const showFicheDone = (fiche: Fiche, enfants: Array<Fiche>) => ({ type: TypeKeys.showFicheDone, fiche, enfants });
+const showFicheRacineDone = (fiche: Fiche, parent: Fiche, enfants: Array<Fiche>) => ({
+  type: TypeKeys.showFicheRacineDone,
+  fiche,
+  parent,
+  enfants
+});
 
 /* ***************************************************************************************************** */
 interface FetchParent {

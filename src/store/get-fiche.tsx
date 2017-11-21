@@ -2,7 +2,7 @@ import Fiche from "./../model/fiche";
 import { getJson } from "./../fetch/fetch-api";
 
 const LOCAL_STORE = new Map();
-let LOCAL_SECTION: any = null;
+let LOCAL_SECTION: Array<Fiche> = null;
 const HOST_PATH = process.env.REACT_APP_WS_NAFREV2_HOST;
 
 export const fetchFiche = (code: string): Promise<Fiche> => {
@@ -33,7 +33,7 @@ export const fetchFiches = (codes: Array<string>): Promise<Array<Fiche>> => {
   });
 };
 
-export const fetchSections = (): Promise<any> => {
+export const fetchSections = (): Promise<Array<Fiche>> => {
   let promise = null;
   if (LOCAL_SECTION === null) {
     promise = getJson(`${HOST_PATH}/nomenclature/sections`).then(sections => {
